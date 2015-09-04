@@ -1,20 +1,24 @@
 ---
+isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-dateModified: '2015-09-04T04:59:53.746Z'
-datePublished: '2015-09-04T05:02:06.378Z'
+dateModified: '2015-09-04T05:35:06.072Z'
+datePublished: '2015-09-04T05:35:38.898Z'
 title: KGW Manifesto
 sourcePath: _posts/2015-09-04-kgw-manifesto.md
 published: true
+tags:
+  - ''
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-_type: MediaObject
+url: kgw-manifesto/index.html
+_type: Article
 _context: 'http://schema.org'
 
 ---
