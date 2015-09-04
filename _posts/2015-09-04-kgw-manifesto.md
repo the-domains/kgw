@@ -1,11 +1,11 @@
 ---
 isBasedOnUrl: null
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-dateModified: '2015-09-04T05:35:06.072Z'
-datePublished: '2015-09-04T05:35:38.898Z'
+dateModified: '2015-09-04T05:49:15.845Z'
+datePublished: '2015-09-04T05:49:40.441Z'
 title: KGW Manifesto
 sourcePath: _posts/2015-09-04-kgw-manifesto.md
 published: true
