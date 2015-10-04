@@ -5,7 +5,7 @@
         <description><![CDATA[kgw]]></description>
         <link>https://thegrid.ai/kgw/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 04 Oct 2015 06:43:52 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 Oct 2015 07:00:56 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kgw/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[KGW Manifesto]]></title>
@@ -13,6 +13,13 @@
             <link>https://thegrid.ai/kgw/kgw-manifesto/index.html</link>
             <guid isPermaLink="false">8f551792-6503-4c76-9d7f-4383b7607544</guid>
             <pubDate>Fri, 04 Sep 2015 05:49:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e1013ead-b530-42a5-9022-af8bf59563e2.jpg">]]></description>
+            <link>https://thegrid.ai/kgw/ffc731d5-010e-40da-82ba-de86a382c52b/index.html</link>
+            <guid isPermaLink="false">ffc731d5-010e-40da-82ba-de86a382c52b</guid>
+            <pubDate>Sun, 04 Oct 2015 07:00:38 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Alan Kay, 2015: Power of Simplicity]]></title>
@@ -67,13 +74,6 @@
             <link>https://en.m.wikipedia.org/wiki/File:Beherenowcvr.jpg</link>
             <guid isPermaLink="false">cb966ae4-9387-4ed1-a472-69ced7be6e6b</guid>
             <pubDate>Wed, 09 Sep 2015 13:49:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<article><h1></h1><p></p><img src="https://i0.wp.com/media.boingboing.net/wp-content/uploads/2015/06/Sousanis-Unflattening-Excerpt5.jpg?zoom=2&w=100%25"></article>]]></description>
-            <link>https://i0.wp.com/media.boingboing.net/wp-content/uploads/2015/06/Sousanis-Unflattening-Excerpt5.jpg?zoom=2&amp;w=100%25</link>
-            <guid isPermaLink="false">94613ea4-8770-4f80-86ec-6f1cf8cf4379</guid>
-            <pubDate>Fri, 04 Sep 2015 14:15:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
