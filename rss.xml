@@ -5,7 +5,7 @@
         <description><![CDATA[kgw]]></description>
         <link>https://thegrid.ai/kgw/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 04 Oct 2015 05:47:30 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 Oct 2015 06:43:35 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kgw/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[KGW Manifesto]]></title>
@@ -13,6 +13,13 @@
             <link>https://thegrid.ai/kgw/kgw-manifesto/index.html</link>
             <guid isPermaLink="false">8f551792-6503-4c76-9d7f-4383b7607544</guid>
             <pubDate>Fri, 04 Sep 2015 05:49:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Alan Kay, 2015: Power of Simplicity]]></title>
+            <description><![CDATA[<article><h1>Alan Kay, 2015: Power of Simplicity</h1><p>One of my all time favorite talks of AKay's, given in 2015.</p><img src="https://i.ytimg.com/vi/NdSD07U5uBs/hqdefault.jpg"></article>]]></description>
+            <link>https://youtu.be/NdSD07U5uBs</link>
+            <guid isPermaLink="false">d73211e9-592a-4e28-a940-8d07abcc698d</guid>
+            <pubDate>Sun, 04 Oct 2015 06:43:18 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -67,13 +74,6 @@
             <link>https://i0.wp.com/media.boingboing.net/wp-content/uploads/2015/06/Sousanis-Unflattening-Excerpt5.jpg?zoom=2&amp;w=100%25</link>
             <guid isPermaLink="false">94613ea4-8770-4f80-86ec-6f1cf8cf4379</guid>
             <pubDate>Fri, 04 Sep 2015 14:15:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[prosthetic knowledge]]></title>
-            <description><![CDATA[<article><h1>prosthetic knowledge</h1><p>n. Information that a person does not know, but can access as needed using technology</p><img src="http://31.media.tumblr.com/avatar_ceb665a7b9df_128.png"></article>]]></description>
-            <link>http://prostheticknowledge.tumblr.com/</link>
-            <guid isPermaLink="false">dea8b3f6-e4fa-4581-9f65-cdbfc07fa5f8</guid>
-            <pubDate>Fri, 04 Sep 2015 05:48:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
