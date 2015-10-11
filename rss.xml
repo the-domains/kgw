@@ -5,7 +5,7 @@
         <description><![CDATA[kgw]]></description>
         <link>https://thegrid.ai/kgw/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 09 Oct 2015 18:08:58 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 11 Oct 2015 22:06:15 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kgw/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[KGW Manifesto]]></title>
@@ -15,8 +15,22 @@
             <pubDate>Fri, 04 Sep 2015 05:49:40 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Fantastic Frogs Forever by G.P. Lackey]]></title>
+            <description><![CDATA[<article><h1>Fantastic Frogs Forever by G.P. Lackey</h1><p>Generate Frog</p><img src="http://img.itch.io/aW1hZ2UvMzg0MDMvMTY3OTkzLnBuZw==/original/ZlytPz.png"></article>]]></description>
+            <link>http://mousefountain.itch.io/fantastic-frogs-forever</link>
+            <guid isPermaLink="false">3bbc9ed6-1e17-4f89-a19c-9e508f699ca6</guid>
+            <pubDate>Sun, 11 Oct 2015 22:05:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e45bc93e-3795-4f55-814e-1166edef62af.jpg">]]></description>
+            <link>https://thegrid.ai/kgw/09f088bd-e2ed-4bb2-9710-ec7a5e5874c5/index.html</link>
+            <guid isPermaLink="false">09f088bd-e2ed-4bb2-9710-ec7a5e5874c5</guid>
+            <pubDate>Sun, 11 Oct 2015 01:25:47 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Guineafowl - Wikipedia, the free encyclopedia]]></title>
-            <description><![CDATA[<article><h1>Guineafowl - Wikipedia, the free encyclopedia</h1><p>The guineafowl (; sometimes called "Original Fowl" or guineahen) are a family of birds in the Galliformes order, although some authorities (for example the American Ornithologists' Union) include the guineafowl as a subfamily, Numidinae, of the family Phasianidae. The guineafowl are native to Africa, but the helmeted guineafowl as wild birds have been introduced elsewhere.</p><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Feder1.jpg/220px-Feder1.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Guineafowl - Wikipedia, the free encyclopedia</h1><p>The guineafowl (; sometimes called "Original Fowl" or guineahen) are a family of birds in the Galliformes order, although some authorities (for example the American Ornithologists' Union) include the guineafowl as a subfamily, Numidinae, of the family Phasianidae. The guineafowl are native to Africa, but the helmeted guineafowl as wild birds have been introduced elsewhere.</p><img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Feder1.jpg"></article>]]></description>
             <link>https://en.wikipedia.org/wiki/Guineafowl#/media/File:Numida_meleagris.jpg</link>
             <guid isPermaLink="false">08c24d3b-149f-4915-87c3-0da65e118f69</guid>
             <pubDate>Fri, 09 Oct 2015 18:06:44 GMT</pubDate>
@@ -60,20 +74,6 @@
             <link>https://thegrid.ai/kgw/8387fad0-bfaf-46d1-b4dd-fdf7640d31b3/index.html</link>
             <guid isPermaLink="false">8387fad0-bfaf-46d1-b4dd-fdf7640d31b3</guid>
             <pubDate>Wed, 16 Sep 2015 08:33:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Babugeri Costumes]]></title>
-            <description><![CDATA[<article><h1>Babugeri Costumes</h1><p>Here are some Bulgarians wearing babugeri costumes. Very interesting! Chewbacca would approve. They are dressed as the legendary Wilder Mann and masquerading in a pagan ritual. The Wild Man is a legendary creature, son of a bear and a woman, a sort of medieval superman.</p><img src="http://mydisguises.com/wp-content/uploads/2013/04/babugeri-costumes-533x700.jpg"></article>]]></description>
-            <link>http://mydisguises.com/2013/04/22/babugeri-costumes/</link>
-            <guid isPermaLink="false">7f9d8465-77f3-442e-bd74-ba7094f688f3</guid>
-            <pubDate>Mon, 14 Sep 2015 19:14:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="http://i.imgur.com/KyyYLMm.jpg">]]></description>
-            <link>https://thegrid.ai/kgw/c69a8d07-e3c3-4ecc-a295-68119ae926eb/index.html</link>
-            <guid isPermaLink="false">c69a8d07-e3c3-4ecc-a295-68119ae926eb</guid>
-            <pubDate>Fri, 11 Sep 2015 02:17:40 GMT</pubDate>
         </item>
     </channel>
 </rss>
