@@ -5,7 +5,7 @@
         <description><![CDATA[kgw]]></description>
         <link>https://thegrid.ai/kgw/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 14 Oct 2015 05:21:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Oct 2015 13:33:58 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kgw/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[KGW Manifesto]]></title>
@@ -13,6 +13,13 @@
             <link>https://thegrid.ai/kgw/kgw-manifesto/index.html</link>
             <guid isPermaLink="false">8f551792-6503-4c76-9d7f-4383b7607544</guid>
             <pubDate>Fri, 04 Sep 2015 05:49:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[goat whispers]]></title>
+            <description><![CDATA[<article><h1>goat whispers</h1><p>You were never born, but I love you all the same.</p></article>]]></description>
+            <link>https://thegrid.ai/kgw/goat-whispers/index.html</link>
+            <guid isPermaLink="false">7e1b7440-1b00-414b-8c21-c03871fe8bc7</guid>
+            <pubDate>Wed, 14 Oct 2015 13:32:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -67,13 +74,6 @@
             <title><![CDATA[No title]]></title>
             <guid isPermaLink="false">05b4e94b-95e0-4a12-99bf-d07dbde79fca</guid>
             <pubDate>Sun, 04 Oct 2015 05:47:12 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img alt="Revolution of everyday" src="https://pbs.twimg.com/media/CP6hZl2UYAAhIqR.jpg:large">]]></description>
-            <link>https://twitter.com/tchoi8/status/648132874013667328</link>
-            <guid isPermaLink="false">871b78c4-5958-494f-9bf6-5621732274bc</guid>
-            <pubDate>Wed, 30 Sep 2015 19:18:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
