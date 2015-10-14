@@ -5,7 +5,7 @@
         <description><![CDATA[kgw]]></description>
         <link>https://thegrid.ai/kgw/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 11 Oct 2015 22:06:15 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Oct 2015 01:22:37 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kgw/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[KGW Manifesto]]></title>
@@ -13,6 +13,13 @@
             <link>https://thegrid.ai/kgw/kgw-manifesto/index.html</link>
             <guid isPermaLink="false">8f551792-6503-4c76-9d7f-4383b7607544</guid>
             <pubDate>Fri, 04 Sep 2015 05:49:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img alt="Without art&comma; the crudeness of reality would make the world unbearable&period; George Bernard Shaw" src="https://pbs.twimg.com/media/CRPUFuNWsAMYhtQ.png:large">]]></description>
+            <link>https://twitter.com/Artfactum_/status/654099565801549824</link>
+            <guid isPermaLink="false">34f48ea1-6fe0-4fc9-b38b-c470e888393a</guid>
+            <pubDate>Wed, 14 Oct 2015 01:21:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Fantastic Frogs Forever by G.P. Lackey]]></title>
@@ -67,13 +74,6 @@
             <link>https://instagram.com/p/l5ICjbMegZ/</link>
             <guid isPermaLink="false">525ea391-9037-4587-a3e5-246549130f40</guid>
             <pubDate>Wed, 16 Sep 2015 10:14:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="http://hyperallergic.com/wp-content/uploads/2015/09/bitchImightbe-640-1.jpg">]]></description>
-            <link>https://thegrid.ai/kgw/8387fad0-bfaf-46d1-b4dd-fdf7640d31b3/index.html</link>
-            <guid isPermaLink="false">8387fad0-bfaf-46d1-b4dd-fdf7640d31b3</guid>
-            <pubDate>Wed, 16 Sep 2015 08:33:39 GMT</pubDate>
         </item>
     </channel>
 </rss>
