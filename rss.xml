@@ -1,18 +1,24 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title><![CDATA[kgw]]></title>
         <description><![CDATA[kgw]]></description>
         <link>https://thegrid.ai/kgw/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 14 Oct 2015 13:33:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Oct 2015 20:05:21 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kgw/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[KGW Manifesto]]></title>
-            <description><![CDATA[<article><h1>KGW Manifesto</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/836ec8ce-e88e-4b72-b623-05af99f3080d.png"></article>]]></description>
+            <description><![CDATA[<article><h1>KGW Manifesto</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/61069cf8-e86d-4a4c-989c-e04e3e093644.jpg"></article>]]></description>
             <link>https://thegrid.ai/kgw/kgw-manifesto/index.html</link>
             <guid isPermaLink="false">8f551792-6503-4c76-9d7f-4383b7607544</guid>
-            <pubDate>Fri, 04 Sep 2015 05:49:40 GMT</pubDate>
+            <pubDate>Thu, 15 Oct 2015 17:13:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[This Is Not PrivateTech art from Let It...]]></title>
+            <description><![CDATA[<article><h1>This Is Not PrivateTech art from Let It...</h1><p>This Is Not PrivateTech art from Let It Brain is a video portrait display which applies facial details of the viewer to the subject using facial recognition technology:This work explores the possibilities of empathy as a meta-language through the most powerful physical interface which is our face.</p><img src="http://31.media.tumblr.com/41372093e722033e2be50ef58d30b601/tumblr_nw9x8yrFvx1qav3uso1_540.gif"></article>]]></description>
+            <link>http://prostheticknowledge.tumblr.com/post/131235652286/this-is-not-private-tech-art-from-let-it-brain-is</link>
+            <guid isPermaLink="false">b8ad9bd3-9c4f-404a-a551-418a136d7503</guid>
+            <pubDate>Thu, 15 Oct 2015 20:04:17 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[goat whispers]]></title>
@@ -69,11 +75,6 @@
             <link>https://thegrid.ai/kgw/ffc731d5-010e-40da-82ba-de86a382c52b/index.html</link>
             <guid isPermaLink="false">ffc731d5-010e-40da-82ba-de86a382c52b</guid>
             <pubDate>Sun, 04 Oct 2015 07:00:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <guid isPermaLink="false">05b4e94b-95e0-4a12-99bf-d07dbde79fca</guid>
-            <pubDate>Sun, 04 Oct 2015 05:47:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
