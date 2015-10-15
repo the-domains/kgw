@@ -1,6 +1,7 @@
 name: kgw
 favicon: null
 layout_spectrum: 0.85213
+title: null
 cta:
   domain: null
   bucket: null
