@@ -4,7 +4,7 @@
         <description><![CDATA[kgw]]></description>
         <link>https://thegrid.ai/kgw/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 16 Oct 2015 16:25:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Oct 2015 16:49:47 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kgw/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[KGW Manifesto]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/kgw/kgw-manifesto/index.html</link>
             <guid isPermaLink="false">8f551792-6503-4c76-9d7f-4383b7607544</guid>
             <pubDate>Thu, 15 Oct 2015 17:13:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[From Gongkai to Open Source " bunnie's blog]]></title>
+            <description><![CDATA[<article><h1>From Gongkai to Open Source " bunnie's blog</h1><p>About a year and a half ago, I wrote about a $12 "Gongkai" cell phone (pictured above) that I stumbled across in the markets of Shenzhen, China. My most striking impression was that Chinese entrepreneurs had relatively unfettered access to cutting-edge technology, enabling start-ups to innovate while bootstrapping.</p><img src="http://bunniefoo.com/fernvale/fernvale-phone-spread.jpg"></article>]]></description>
+            <link>http://www.bunniestudios.com/blog/?p=4297</link>
+            <guid isPermaLink="false">f12d2a75-567c-4584-80e4-f51d0b5534ed</guid>
+            <pubDate>Fri, 16 Oct 2015 16:46:46 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[ferd.ca -> The Little Printf]]></title>
@@ -68,13 +75,6 @@
             <link>http://i.imgur.com/iSW6X9b.jpg</link>
             <guid isPermaLink="false">e45bb1be-9778-4e33-860b-94ca75847259</guid>
             <pubDate>Wed, 14 Oct 2015 05:19:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img alt="Without art&comma; the crudeness of reality would make the world unbearable&period; George Bernard Shaw" src="https://pbs.twimg.com/media/CRPUFuNWsAMYhtQ.png:large">]]></description>
-            <link>https://twitter.com/Artfactum_/status/654099565801549824</link>
-            <guid isPermaLink="false">34f48ea1-6fe0-4fc9-b38b-c470e888393a</guid>
-            <pubDate>Wed, 14 Oct 2015 01:21:42 GMT</pubDate>
         </item>
     </channel>
 </rss>
