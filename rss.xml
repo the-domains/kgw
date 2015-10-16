@@ -4,7 +4,7 @@
         <description><![CDATA[kgw]]></description>
         <link>https://thegrid.ai/kgw/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 15 Oct 2015 20:05:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Oct 2015 14:08:57 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kgw/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[KGW Manifesto]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/kgw/kgw-manifesto/index.html</link>
             <guid isPermaLink="false">8f551792-6503-4c76-9d7f-4383b7607544</guid>
             <pubDate>Thu, 15 Oct 2015 17:13:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[There is something extraordinary happening in the world]]></title>
+            <description><![CDATA[<article><h1>There is something extraordinary happening in the world</h1><p>We still haven't realized of something extraordinary that is happening. A few months ago, I freed myself from society, I've released myself from attachments I had and fear that locked me to the system. And since then, I started seeing the world from a different perspective.</p><img src="https://cdn-images-1.medium.com/max/800/1*Y4oCkNZGW9lEcj1qXho0sA.jpeg"></article>]]></description>
+            <link>https://medium.com/@gutanaka/there-is-something-extraordinary-happening-10492495c715</link>
+            <guid isPermaLink="false">91e97bca-d3bb-4d26-a494-0a8c6ac1aa33</guid>
+            <pubDate>Fri, 16 Oct 2015 14:07:22 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[This Is Not PrivateTech art from Let It...]]></title>
@@ -68,13 +75,6 @@
             <link>http://thebaffler.com/blog/david-graeber-defiantly-having-fun-at-the-baffler-no-22-release-party</link>
             <guid isPermaLink="false">3cc5ba54-fcdf-4023-8e1c-3765bddf67fa</guid>
             <pubDate>Sun, 04 Oct 2015 18:38:32 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e1013ead-b530-42a5-9022-af8bf59563e2.jpg">]]></description>
-            <link>https://thegrid.ai/kgw/ffc731d5-010e-40da-82ba-de86a382c52b/index.html</link>
-            <guid isPermaLink="false">ffc731d5-010e-40da-82ba-de86a382c52b</guid>
-            <pubDate>Sun, 04 Oct 2015 07:00:38 GMT</pubDate>
         </item>
     </channel>
 </rss>
