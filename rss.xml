@@ -4,7 +4,7 @@
         <description><![CDATA[kgw]]></description>
         <link>https://thegrid.ai/kgw/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 16 Oct 2015 14:08:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Oct 2015 14:10:30 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kgw/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[KGW Manifesto]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/kgw/kgw-manifesto/index.html</link>
             <guid isPermaLink="false">8f551792-6503-4c76-9d7f-4383b7607544</guid>
             <pubDate>Thu, 15 Oct 2015 17:13:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://i.imgur.com/KyyYLMm.jpg">]]></description>
+            <link>http://i.imgur.com/KyyYLMm.jpg</link>
+            <guid isPermaLink="false">c69a8d07-e3c3-4ecc-a295-68119ae926eb</guid>
+            <pubDate>Fri, 16 Oct 2015 14:10:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[There is something extraordinary happening in the world]]></title>
@@ -68,13 +75,6 @@
             <link>https://en.wikipedia.org/wiki/Guineafowl#/media/File:Numida_meleagris.jpg</link>
             <guid isPermaLink="false">08c24d3b-149f-4915-87c3-0da65e118f69</guid>
             <pubDate>Fri, 09 Oct 2015 18:06:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[David Graeber "Defiantly Having Fun" at The Baffler no. 22 Release Party - The Baffler]]></title>
-            <description><![CDATA[<article><h1>David Graeber "Defiantly Having Fun" at The Baffler no. 22 Release Party - The Baffler</h1><p>"They're trying to get back to the idea of having actual intellectuals again." Contributing editor David Graeber discusses the current state of the American intellectual at the April 6th launch party for Baffler no. 22... Read More "</p><img src="http://i3.ytimg.com/vi/nC9226iJuNs/hqdefault.jpg"></article>]]></description>
-            <link>http://thebaffler.com/blog/david-graeber-defiantly-having-fun-at-the-baffler-no-22-release-party</link>
-            <guid isPermaLink="false">3cc5ba54-fcdf-4023-8e1c-3765bddf67fa</guid>
-            <pubDate>Sun, 04 Oct 2015 18:38:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
