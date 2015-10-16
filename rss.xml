@@ -4,7 +4,7 @@
         <description><![CDATA[kgw]]></description>
         <link>https://thegrid.ai/kgw/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 16 Oct 2015 14:25:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Oct 2015 16:25:41 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kgw/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[KGW Manifesto]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/kgw/kgw-manifesto/index.html</link>
             <guid isPermaLink="false">8f551792-6503-4c76-9d7f-4383b7607544</guid>
             <pubDate>Thu, 15 Oct 2015 17:13:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ferd.ca -> The Little Printf]]></title>
+            <description><![CDATA[<article><h1>ferd.ca -> The Little Printf</h1><p>This text is a transcript of a presentation I have given on October 9, 2015, at the CityCode conference in Chicago. This content is also available in video, and as a PDF Document better suited for printing. - I've been lucky enough to have been born before computers and video games were ubiquitous.</p><img src="http://ferd.ca/static/img/printf/printf.png"></article>]]></description>
+            <link>http://ferd.ca/the-little-printf.html</link>
+            <guid isPermaLink="false">c604a82e-dcd6-4893-a7c8-4863680976a9</guid>
+            <pubDate>Fri, 16 Oct 2015 16:25:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>https://twitter.com/Artfactum_/status/654099565801549824</link>
             <guid isPermaLink="false">34f48ea1-6fe0-4fc9-b38b-c470e888393a</guid>
             <pubDate>Wed, 14 Oct 2015 01:21:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Fantastic Frogs Forever by G.P. Lackey]]></title>
-            <description><![CDATA[<article><h1>Fantastic Frogs Forever by G.P. Lackey</h1><p>Generate Frog</p><img src="http://img.itch.io/aW1hZ2UvMzg0MDMvMTY3OTkzLnBuZw==/original/ZlytPz.png"></article>]]></description>
-            <link>http://mousefountain.itch.io/fantastic-frogs-forever</link>
-            <guid isPermaLink="false">3bbc9ed6-1e17-4f89-a19c-9e508f699ca6</guid>
-            <pubDate>Sun, 11 Oct 2015 22:05:11 GMT</pubDate>
         </item>
     </channel>
 </rss>
