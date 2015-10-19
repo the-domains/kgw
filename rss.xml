@@ -4,7 +4,7 @@
         <description><![CDATA[kgw]]></description>
         <link>https://thegrid.ai/kgw/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 16 Oct 2015 16:57:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Oct 2015 00:52:46 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kgw/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[KGW Manifesto]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/kgw/kgw-manifesto/index.html</link>
             <guid isPermaLink="false">8f551792-6503-4c76-9d7f-4383b7607544</guid>
             <pubDate>Thu, 15 Oct 2015 17:13:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Birth of Thanaticism]]></title>
+            <description><![CDATA[<article><h1>Birth of Thanaticism</h1><p>> But depression is a subsidiary aspect of thanaticism. You are supposed to be depressed, and you are supposed to think that’s your individual failing or problem. Your bright illusory fantasy-world is ripped away from you, and the thanatic reality is bared – you are supposed to think its your fault. You have failed to believe. See a shrink. Take some drugs. Do some retail therapy.</p></article>]]></description>
+            <link>http://www.publicseminar.org/2014/04/birth-of-thanaticism/</link>
+            <guid isPermaLink="false">5106c2f6-cf56-4158-ac30-4dd071713b5e</guid>
+            <pubDate>Mon, 19 Oct 2015 00:51:08 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Sex, Circuits & Deep House " bunnie's blog]]></title>
@@ -68,13 +75,6 @@
             <link>http://prostheticknowledge.tumblr.com/post/131235652286/this-is-not-private-tech-art-from-let-it-brain-is</link>
             <guid isPermaLink="false">b8ad9bd3-9c4f-404a-a551-418a136d7503</guid>
             <pubDate>Thu, 15 Oct 2015 20:04:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[goat whispers]]></title>
-            <description><![CDATA[<article><h1>goat whispers</h1><p>You were never born, but I love you all the same.</p></article>]]></description>
-            <link>https://thegrid.ai/kgw/goat-whispers/index.html</link>
-            <guid isPermaLink="false">7e1b7440-1b00-414b-8c21-c03871fe8bc7</guid>
-            <pubDate>Wed, 14 Oct 2015 13:32:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
