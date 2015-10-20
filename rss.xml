@@ -4,7 +4,7 @@
         <description><![CDATA[kgw]]></description>
         <link>https://thegrid.ai/kgw/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 20 Oct 2015 20:54:46 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Oct 2015 21:03:31 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kgw/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[KGW Manifesto]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/kgw/kgw-manifesto/index.html</link>
             <guid isPermaLink="false">8f551792-6503-4c76-9d7f-4383b7607544</guid>
             <pubDate>Tue, 20 Oct 2015 20:53:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[kgw 2015-10-19]]></title>
+            <description><![CDATA[<article><h1>kgw 2015-10-19</h1><p>kgw</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4cf7299c-64df-43f4-85c4-750374bff2b4.png"></article>]]></description>
+            <link>https://thegrid.ai/kgw/kgw-2015-10-19/index.html</link>
+            <guid isPermaLink="false">7d5b9621-b095-4ec8-8df4-28e0ef583d14</guid>
+            <pubDate>Tue, 20 Oct 2015 21:02:36 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[All Watched Over By Machines Of Loving Grace]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.bunniestudios.com/blog/?p=4297</link>
             <guid isPermaLink="false">f12d2a75-567c-4584-80e4-f51d0b5534ed</guid>
             <pubDate>Fri, 16 Oct 2015 16:46:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img alt="The 1&percnt; now owns half of all the wealth in the entire world&colon; http&colon;&sol;&sol;f-st&period;co&sol;eBMVt5M" src="https://pbs.twimg.com/media/CRcdBRoUkAA3g3x.jpg:large">]]></description>
-            <link>https://twitter.com/FastCompany/status/655024179474006016</link>
-            <guid isPermaLink="false">f476ab8c-f319-4cc8-8f45-74fd6af7a82e</guid>
-            <pubDate>Fri, 16 Oct 2015 14:23:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
