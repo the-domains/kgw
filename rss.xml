@@ -4,7 +4,7 @@
         <description><![CDATA[kgw]]></description>
         <link>https://thegrid.ai/kgw/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 20 Oct 2015 13:05:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Oct 2015 13:05:45 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kgw/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[KGW Manifesto]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/kgw/kgw-manifesto/index.html</link>
             <guid isPermaLink="false">8f551792-6503-4c76-9d7f-4383b7607544</guid>
             <pubDate>Thu, 15 Oct 2015 17:13:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A few words on Doug Engelbart]]></title>
+            <description><![CDATA[<article><h1>A few words on Doug Engelbart</h1><p>Doug Engelbart died today. His work has always been very difficult for writers to interpret and explain. Technology writers, in particular, tend to miss the point miserably, because they see everything as a technology problem. Engelbart devoted his life to a human problem, with technology falling out as part of a solution.</p><img src="http://worrydream.com/Engelbart/nls1.jpg"></article>]]></description>
+            <link>http://worrydream.com/Engelbart/</link>
+            <guid isPermaLink="false">2a5d0e5b-9c3f-4524-ab6b-3631924a7bab</guid>
+            <pubDate>Tue, 20 Oct 2015 13:04:43 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>https://medium.com/@gutanaka/there-is-something-extraordinary-happening-10492495c715</link>
             <guid isPermaLink="false">91e97bca-d3bb-4d26-a494-0a8c6ac1aa33</guid>
             <pubDate>Fri, 16 Oct 2015 14:07:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[This Is Not PrivateTech art from Let It...]]></title>
-            <description><![CDATA[<article><h1>This Is Not PrivateTech art from Let It...</h1><p>This Is Not PrivateTech art from Let It Brain is a video portrait display which applies facial details of the viewer to the subject using facial recognition technology:This work explores the possibilities of empathy as a meta-language through the most powerful physical interface which is our face.</p><img src="http://31.media.tumblr.com/41372093e722033e2be50ef58d30b601/tumblr_nw9x8yrFvx1qav3uso1_540.gif"></article>]]></description>
-            <link>http://prostheticknowledge.tumblr.com/post/131235652286/this-is-not-private-tech-art-from-let-it-brain-is</link>
-            <guid isPermaLink="false">b8ad9bd3-9c4f-404a-a551-418a136d7503</guid>
-            <pubDate>Thu, 15 Oct 2015 20:04:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
