@@ -4,7 +4,7 @@
         <description><![CDATA[kgw]]></description>
         <link>https://thegrid.ai/kgw/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 20 Oct 2015 13:06:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Oct 2015 20:47:39 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kgw/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[KGW Manifesto]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/kgw/kgw-manifesto/index.html</link>
             <guid isPermaLink="false">8f551792-6503-4c76-9d7f-4383b7607544</guid>
             <pubDate>Thu, 15 Oct 2015 17:13:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[All Watched Over By Machines Of Loving Grace]]></title>
+            <description><![CDATA[<article><h1>All Watched Over By Machines Of Loving Grace</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3a2800d1-f0f3-41ae-ac0d-7be5fceb958c.png"></article>]]></description>
+            <link>https://thegrid.ai/kgw/all-watched-over-by-machines-of-loving-grace/index.html</link>
+            <guid isPermaLink="false">0ba5822c-79ab-4dea-a5ea-a2ea94114b09</guid>
+            <pubDate>Tue, 20 Oct 2015 20:46:43 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[MRSJXN - Post-Future]]></title>
@@ -67,13 +74,6 @@
             <description><![CDATA[<img alt="The 1&percnt; now owns half of all the wealth in the entire world&colon; http&colon;&sol;&sol;f-st&period;co&sol;eBMVt5M" src="https://pbs.twimg.com/media/CRcdBRoUkAA3g3x.jpg:large">]]></description>
             <link>https://twitter.com/FastCompany/status/655024179474006016</link>
             <guid isPermaLink="false">f476ab8c-f319-4cc8-8f45-74fd6af7a82e</guid>
-            <pubDate>Fri, 16 Oct 2015 14:23:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How TV Ruined Your Life S1E2P1]]></title>
-            <description><![CDATA[<article><h1>How TV Ruined Your Life S1E2P1</h1><p>Charlie Brooker explores the gulf between real life and television. From kids shows to Countdown, TV has something to infuriate anyone of any age. NOTE: Just to clear the mass confusion about the sitcom starring Kevin Eldon, it is fake. It is a sketch demonstrating Charlie's opinion about the stupidity of sitcoms aimed at teenagers today.</p><img src="https://i.ytimg.com/vi/QpDsIo5sbDc/hqdefault.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=QpDsIo5sbDc&amp;feature=related</link>
-            <guid isPermaLink="false">3a802c80-fe81-4155-b815-a80899aedf36</guid>
             <pubDate>Fri, 16 Oct 2015 14:23:15 GMT</pubDate>
         </item>
     </channel>
