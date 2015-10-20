@@ -4,7 +4,7 @@
         <description><![CDATA[kgw]]></description>
         <link>https://thegrid.ai/kgw/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 20 Oct 2015 13:05:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Oct 2015 13:05:52 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kgw/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[KGW Manifesto]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/kgw/kgw-manifesto/index.html</link>
             <guid isPermaLink="false">8f551792-6503-4c76-9d7f-4383b7607544</guid>
             <pubDate>Thu, 15 Oct 2015 17:13:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Why's (Poignant) Guide to Ruby]]></title>
+            <description><![CDATA[<article><h1>Why's (Poignant) Guide to Ruby</h1><p>At my local Barnes and Noble, there is a huge wall of Java books just waiting to tip over and crush me one day. And one day it will. At the rate things are going, one day that bookcase will be tall enough to crush us all.</p><img src="http://mislav.uniqpath.com/poignant-guide/images/2006.cover.jpg"></article>]]></description>
+            <link>http://mislav.uniqpath.com/poignant-guide/book/</link>
+            <guid isPermaLink="false">69422709-a6ba-418f-b108-d007eb8063e1</guid>
+            <pubDate>Tue, 20 Oct 2015 13:04:43 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[A few words on Doug Engelbart]]></title>
@@ -68,13 +75,6 @@
             <link>http://i.imgur.com/KyyYLMm.jpg</link>
             <guid isPermaLink="false">c69a8d07-e3c3-4ecc-a295-68119ae926eb</guid>
             <pubDate>Fri, 16 Oct 2015 14:10:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[There is something extraordinary happening in the world]]></title>
-            <description><![CDATA[<article><h1>There is something extraordinary happening in the world</h1><p>We still haven't realized of something extraordinary that is happening. A few months ago, I freed myself from society, I've released myself from attachments I had and fear that locked me to the system. And since then, I started seeing the world from a different perspective.</p><img src="https://cdn-images-1.medium.com/max/800/1*Y4oCkNZGW9lEcj1qXho0sA.jpeg"></article>]]></description>
-            <link>https://medium.com/@gutanaka/there-is-something-extraordinary-happening-10492495c715</link>
-            <guid isPermaLink="false">91e97bca-d3bb-4d26-a494-0a8c6ac1aa33</guid>
-            <pubDate>Fri, 16 Oct 2015 14:07:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
