@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2015-10-15T17:13:09.329Z'
-dateModified: '2015-10-15T17:12:55.777Z'
+datePublished: '2015-10-20T20:53:59.109Z'
+dateModified: '2015-10-20T20:53:35.377Z'
 title: KGW Manifesto
 sourcePath: _posts/2015-09-04-kgw-manifesto.md
 published: true
@@ -25,6 +25,7 @@ _context: 'http://schema.org'
 
 ---
 # KGW Manifesto
+![kgw](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7051d2fd-88bf-4d1a-8dc5-33ed4d4d81f8.png)
 
 Everything is connected.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/61069cf8-e86d-4a4c-989c-e04e3e093644.jpg)
