@@ -4,7 +4,7 @@
         <description><![CDATA[kgw]]></description>
         <link>https://thegrid.ai/kgw/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 20 Oct 2015 13:05:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Oct 2015 13:06:35 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kgw/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[KGW Manifesto]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/kgw/kgw-manifesto/index.html</link>
             <guid isPermaLink="false">8f551792-6503-4c76-9d7f-4383b7607544</guid>
             <pubDate>Thu, 15 Oct 2015 17:13:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[MRSJXN - Post-Future]]></title>
+            <description><![CDATA[<article><h1>MRSJXN - Post-Future</h1><p>MRMRS + JXNBLK = MRSJXN. Post-Future Beats</p></article>]]></description>
+            <link>http://mrsjxn.com/</link>
+            <guid isPermaLink="false">fdb362f8-cb03-4d8b-9594-5606a5e907a8</guid>
+            <pubDate>Tue, 20 Oct 2015 13:06:34 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Why's (Poignant) Guide to Ruby]]></title>
@@ -68,13 +75,6 @@
             <link>https://www.youtube.com/watch?v=QpDsIo5sbDc&amp;feature=related</link>
             <guid isPermaLink="false">3a802c80-fe81-4155-b815-a80899aedf36</guid>
             <pubDate>Fri, 16 Oct 2015 14:23:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="http://i.imgur.com/KyyYLMm.jpg">]]></description>
-            <link>http://i.imgur.com/KyyYLMm.jpg</link>
-            <guid isPermaLink="false">c69a8d07-e3c3-4ecc-a295-68119ae926eb</guid>
-            <pubDate>Fri, 16 Oct 2015 14:10:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
