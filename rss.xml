@@ -4,7 +4,7 @@
         <description><![CDATA[kgw]]></description>
         <link>https://thegrid.ai/kgw/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 21 Oct 2015 17:30:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Oct 2015 17:34:00 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kgw/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[KGW Manifesto]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/kgw/kgw-manifesto/index.html</link>
             <guid isPermaLink="false">8f551792-6503-4c76-9d7f-4383b7607544</guid>
             <pubDate>Tue, 20 Oct 2015 20:53:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Papa's Maze]]></title>
+            <description><![CDATA[<article><h1>Papa's Maze</h1><p>> While going through her papa's old belongings, a young girl discovered something incredible - a mind-bogglingly intricate maze that her father had drawn by hand 30 years ago. While working as a school janitor, the father would come home each night and work on his side project. He spent over 7 years producing what is perhaps the most complicated, intricate maze. Once he was done he rolled it up and stored it away in his attic for it to be forgotten about...</p><img src="http://cdn.shopify.com/s/files/1/0246/8913/products/papas_maze_2_grande.jpg?v=1374351717"></article>]]></description>
+            <link>http://shop.spoon-tamago.com/products/papas-maze</link>
+            <guid isPermaLink="false">1d7698ff-c8d3-4deb-a6ec-40db83680fad</guid>
+            <pubDate>Wed, 21 Oct 2015 17:31:13 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Cold StaresFantastic music video for tra...]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.publicseminar.org/2014/04/birth-of-thanaticism/</link>
             <guid isPermaLink="false">5106c2f6-cf56-4158-ac30-4dd071713b5e</guid>
             <pubDate>Mon, 19 Oct 2015 00:51:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sex, Circuits & Deep House " bunnie's blog]]></title>
-            <description><![CDATA[<article><h1>Sex, Circuits & Deep House " bunnie's blog</h1><p>This year for Burning Man, I built a networked light badge for my theme camp, "The Institute". Walking in the desert at night with no light is a dangerous proposition - you can get run over by cars, bikes, or twist an ankle tripping over an errant bit of rebar sticking out of the ground.</p><img src="http://bunniefoo.com/orchard/bm2015/bm2015-friend-select.jpg"></article>]]></description>
-            <link>http://www.bunniestudios.com/blog/?p=4484</link>
-            <guid isPermaLink="false">199dc851-ff3a-4185-8e2b-efce6a4ad588</guid>
-            <pubDate>Fri, 16 Oct 2015 16:56:14 GMT</pubDate>
         </item>
     </channel>
 </rss>
