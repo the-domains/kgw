@@ -4,7 +4,7 @@
         <description><![CDATA[kgw]]></description>
         <link>https://thegrid.ai/kgw/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 21 Oct 2015 17:34:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Oct 2015 13:01:41 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kgw/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[KGW Manifesto]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/kgw/kgw-manifesto/index.html</link>
             <guid isPermaLink="false">8f551792-6503-4c76-9d7f-4383b7607544</guid>
             <pubDate>Tue, 20 Oct 2015 20:53:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://c.o0bg.com/rf/image_1920w/Boston/2011-2020/2015/10/05/BostonGlobe.com/EditorialOpinion/Images/sousanis1004-web.jpg">]]></description>
+            <link>https://thegrid.ai/kgw/2155e91d-48d4-4f2e-b80f-6464e7dca765/index.html</link>
+            <guid isPermaLink="false">2155e91d-48d4-4f2e-b80f-6464e7dca765</guid>
+            <pubDate>Thu, 22 Oct 2015 13:01:38 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Papa's Maze]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/kgw/interpretation/index.html</link>
             <guid isPermaLink="false">4d699795-d9ea-457f-abad-3acdbf3e027e</guid>
             <pubDate>Tue, 20 Oct 2015 13:04:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Birth of Thanaticism]]></title>
-            <description><![CDATA[<article><h1>Birth of Thanaticism</h1><p>> But depression is a subsidiary aspect of thanaticism. You are supposed to be depressed, and you are supposed to think that’s your individual failing or problem. Your bright illusory fantasy-world is ripped away from you, and the thanatic reality is bared – you are supposed to think its your fault. You have failed to believe. See a shrink. Take some drugs. Do some retail therapy.</p></article>]]></description>
-            <link>http://www.publicseminar.org/2014/04/birth-of-thanaticism/</link>
-            <guid isPermaLink="false">5106c2f6-cf56-4158-ac30-4dd071713b5e</guid>
-            <pubDate>Mon, 19 Oct 2015 00:51:08 GMT</pubDate>
         </item>
     </channel>
 </rss>
