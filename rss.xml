@@ -4,7 +4,7 @@
         <description><![CDATA[kgw]]></description>
         <link>https://thegrid.ai/kgw/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 22 Oct 2015 18:40:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Oct 2015 20:11:27 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kgw/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[KGW Manifesto]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/kgw/kgw-manifesto/index.html</link>
             <guid isPermaLink="false">8f551792-6503-4c76-9d7f-4383b7607544</guid>
             <pubDate>Tue, 20 Oct 2015 20:53:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Shepard Tones]]></title>
+            <description><![CDATA[<article><h1>Shepard Tones</h1><p>Warning: may cause headaches, nausea, abject terror, uncontrollable laughing. About shepard tones, in shepard tones. Soundtrack is free here: https://soundcloud.com/vihartvihart/shepard-tones-soundtrack This video is CC-by, feel free to re-use for any purpose with attribution.</p><img src="https://i.ytimg.com/vi/PwFUwXxfZss/hqdefault.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=PwFUwXxfZss</link>
+            <guid isPermaLink="false">d29e5f2e-e78c-4728-80db-a7698a63c96f</guid>
+            <pubDate>Thu, 22 Oct 2015 20:10:07 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Against The Flow]]></title>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>A few words on Doug Engelbart</h1><p>Doug Engelbart died today. His work has always been very difficult for writers to interpret and explain. Technology writers, in particular, tend to miss the point miserably, because they see everything as a technology problem. Engelbart devoted his life to a human problem, with technology falling out as part of a solution.</p><img src="http://worrydream.com/Engelbart/nls1.jpg"></article>]]></description>
             <link>http://worrydream.com/Engelbart/</link>
             <guid isPermaLink="false">2a5d0e5b-9c3f-4524-ab6b-3631924a7bab</guid>
-            <pubDate>Tue, 20 Oct 2015 13:04:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>interpretation</p>]]></description>
-            <link>https://thegrid.ai/kgw/interpretation/index.html</link>
-            <guid isPermaLink="false">4d699795-d9ea-457f-abad-3acdbf3e027e</guid>
             <pubDate>Tue, 20 Oct 2015 13:04:43 GMT</pubDate>
         </item>
     </channel>
