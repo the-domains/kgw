@@ -4,7 +4,7 @@
         <description><![CDATA[kgw]]></description>
         <link>https://thegrid.ai/kgw/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 23 Oct 2015 03:43:27 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Oct 2015 13:58:02 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kgw/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[KGW Manifesto]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/kgw/kgw-manifesto/index.html</link>
             <guid isPermaLink="false">8f551792-6503-4c76-9d7f-4383b7607544</guid>
             <pubDate>Tue, 20 Oct 2015 20:53:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Powers of Ten™ (1977)]]></title>
+            <description><![CDATA[<article><h1>Powers of Ten™ (1977)</h1><p>eames</p><img src="https://i.ytimg.com/vi/0fKBhvDjuy0/hqdefault.jpg"></article>]]></description>
+            <link>https://youtu.be/0fKBhvDjuy0</link>
+            <guid isPermaLink="false">073c4d78-e24b-47e4-9f84-a426b070735e</guid>
+            <pubDate>Fri, 23 Oct 2015 13:55:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The &ldquo;Expose Yourself to Art&rdquo;...]]></title>
@@ -68,13 +75,6 @@
             <link>http://mrsjxn.com/</link>
             <guid isPermaLink="false">fdb362f8-cb03-4d8b-9594-5606a5e907a8</guid>
             <pubDate>Tue, 20 Oct 2015 13:06:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why's (Poignant) Guide to Ruby]]></title>
-            <description><![CDATA[<article><h1>Why's (Poignant) Guide to Ruby</h1><p>At my local Barnes and Noble, there is a huge wall of Java books just waiting to tip over and crush me one day. And one day it will. At the rate things are going, one day that bookcase will be tall enough to crush us all.</p><img src="http://mislav.uniqpath.com/poignant-guide/images/2006.cover.jpg"></article>]]></description>
-            <link>http://mislav.uniqpath.com/poignant-guide/book/</link>
-            <guid isPermaLink="false">69422709-a6ba-418f-b108-d007eb8063e1</guid>
-            <pubDate>Tue, 20 Oct 2015 13:04:43 GMT</pubDate>
         </item>
     </channel>
 </rss>
