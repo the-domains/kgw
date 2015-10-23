@@ -4,7 +4,7 @@
         <description><![CDATA[kgw]]></description>
         <link>https://thegrid.ai/kgw/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 22 Oct 2015 20:11:27 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Oct 2015 03:43:27 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kgw/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[KGW Manifesto]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/kgw/kgw-manifesto/index.html</link>
             <guid isPermaLink="false">8f551792-6503-4c76-9d7f-4383b7607544</guid>
             <pubDate>Tue, 20 Oct 2015 20:53:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The &ldquo;Expose Yourself to Art&rdquo;...]]></title>
+            <description><![CDATA[<article><h1>The &ldquo;Expose Yourself to Art&rdquo;...</h1><p>The &ldquo;Expose Yourself to Art&rdquo; poster featured future Portland, Oregon, Mayor Bud Clark apparently flashing Kvinneakt, Norman J. Taylor&rsquo;s bronze sculpture of a nude woman. The photo was taken by Mike Ryerson in 1978</p><img src="http://40.media.tumblr.com/d7d6d004daf0add6f2c38ad4ed0a099a/tumblr_nwa0hkT0al1qk38c7o1_500.jpg"></article>]]></description>
+            <link>http://metalonmetalblog.tumblr.com/post/131235400469/the-expose-yourself-to-art-poster-featured</link>
+            <guid isPermaLink="false">b4c0249f-1e20-4645-a560-ac4cbc7ec650</guid>
+            <pubDate>Fri, 23 Oct 2015 03:41:32 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Shepard Tones]]></title>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Why's (Poignant) Guide to Ruby</h1><p>At my local Barnes and Noble, there is a huge wall of Java books just waiting to tip over and crush me one day. And one day it will. At the rate things are going, one day that bookcase will be tall enough to crush us all.</p><img src="http://mislav.uniqpath.com/poignant-guide/images/2006.cover.jpg"></article>]]></description>
             <link>http://mislav.uniqpath.com/poignant-guide/book/</link>
             <guid isPermaLink="false">69422709-a6ba-418f-b108-d007eb8063e1</guid>
-            <pubDate>Tue, 20 Oct 2015 13:04:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A few words on Doug Engelbart]]></title>
-            <description><![CDATA[<article><h1>A few words on Doug Engelbart</h1><p>Doug Engelbart died today. His work has always been very difficult for writers to interpret and explain. Technology writers, in particular, tend to miss the point miserably, because they see everything as a technology problem. Engelbart devoted his life to a human problem, with technology falling out as part of a solution.</p><img src="http://worrydream.com/Engelbart/nls1.jpg"></article>]]></description>
-            <link>http://worrydream.com/Engelbart/</link>
-            <guid isPermaLink="false">2a5d0e5b-9c3f-4524-ab6b-3631924a7bab</guid>
             <pubDate>Tue, 20 Oct 2015 13:04:43 GMT</pubDate>
         </item>
     </channel>
