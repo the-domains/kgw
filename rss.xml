@@ -4,7 +4,7 @@
         <description><![CDATA[kgw]]></description>
         <link>https://thegrid.ai/kgw/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 23 Oct 2015 13:58:02 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 Oct 2015 14:40:40 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kgw/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[KGW Manifesto]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/kgw/kgw-manifesto/index.html</link>
             <guid isPermaLink="false">8f551792-6503-4c76-9d7f-4383b7607544</guid>
             <pubDate>Tue, 20 Oct 2015 20:53:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ever wonder how steel braided hose is made?]]></title>
+            <description><![CDATA[<article><h1>Ever wonder how steel braided hose is made?</h1><p>this machine does a solo maypole dance to braid steel hose</p><img src="http://i.imgur.com/C1RG6Kth.jpg"></article>]]></description>
+            <link>http://i.imgur.com/C1RG6Kt.gifv</link>
+            <guid isPermaLink="false">a637761f-b8f6-4132-857a-a076ba17cf54</guid>
+            <pubDate>Sat, 24 Oct 2015 14:40:08 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Powers of Ten™ (1977)]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/kgw/all-watched-over-by-machines-of-loving-grace/index.html</link>
             <guid isPermaLink="false">0ba5822c-79ab-4dea-a5ea-a2ea94114b09</guid>
             <pubDate>Tue, 20 Oct 2015 20:46:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[MRSJXN - Post-Future]]></title>
-            <description><![CDATA[<article><h1>MRSJXN - Post-Future</h1><p>MRMRS + JXNBLK = MRSJXN. Post-Future Beats</p></article>]]></description>
-            <link>http://mrsjxn.com/</link>
-            <guid isPermaLink="false">fdb362f8-cb03-4d8b-9594-5606a5e907a8</guid>
-            <pubDate>Tue, 20 Oct 2015 13:06:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
