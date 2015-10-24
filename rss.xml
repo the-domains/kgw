@@ -4,7 +4,7 @@
         <description><![CDATA[kgw]]></description>
         <link>https://thegrid.ai/kgw/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 24 Oct 2015 14:40:40 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 Oct 2015 14:41:48 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kgw/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[KGW Manifesto]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/kgw/kgw-manifesto/index.html</link>
             <guid isPermaLink="false">8f551792-6503-4c76-9d7f-4383b7607544</guid>
             <pubDate>Tue, 20 Oct 2015 20:53:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Kinetic sculpture]]></title>
+            <description><![CDATA[<article><h1>Kinetic sculpture</h1><p>automata</p><img src="https://i.ytimg.com/vi/oiQzn8aHNt8/hqdefault.jpg"></article>]]></description>
+            <link>https://youtu.be/oiQzn8aHNt8</link>
+            <guid isPermaLink="false">713ba447-4990-4040-8aac-1f61bd64f6ff</guid>
+            <pubDate>Sat, 24 Oct 2015 14:40:34 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Ever wonder how steel braided hose is made?]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/kgw/kgw-2015-10-19/index.html</link>
             <guid isPermaLink="false">7d5b9621-b095-4ec8-8df4-28e0ef583d14</guid>
             <pubDate>Tue, 20 Oct 2015 21:02:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[All Watched Over By Machines Of Loving Grace]]></title>
-            <description><![CDATA[<article><h1>All Watched Over By Machines Of Loving Grace</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3a2800d1-f0f3-41ae-ac0d-7be5fceb958c.png"></article>]]></description>
-            <link>https://thegrid.ai/kgw/all-watched-over-by-machines-of-loving-grace/index.html</link>
-            <guid isPermaLink="false">0ba5822c-79ab-4dea-a5ea-a2ea94114b09</guid>
-            <pubDate>Tue, 20 Oct 2015 20:46:43 GMT</pubDate>
         </item>
     </channel>
 </rss>
