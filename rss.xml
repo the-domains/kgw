@@ -4,7 +4,7 @@
         <description><![CDATA[kgw]]></description>
         <link>https://thegrid.ai/kgw/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 30 Oct 2015 12:13:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Oct 2015 17:38:02 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kgw/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[KGW Manifesto]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/kgw/kgw-manifesto/index.html</link>
             <guid isPermaLink="false">8f551792-6503-4c76-9d7f-4383b7607544</guid>
             <pubDate>Fri, 30 Oct 2015 12:12:30 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Kraftwerk - Roboter - Lemmchen Grundschule]]></title>
+            <description><![CDATA[<article><h1>Kraftwerk - Roboter - Lemmchen Grundschule</h1><p>Kinder der 1. Klasse (GTS Lemmchen Mainz-Mombach) basteln, singen und spielen Roboter von Kraftwerk.</p><img src="https://i.ytimg.com/vi/WH-ycguHLBU/hqdefault.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=WH-ycguHLBU</link>
+            <guid isPermaLink="false">2652dc97-d98a-443b-92fa-d6caef8aa6c8</guid>
+            <pubDate>Fri, 30 Oct 2015 17:37:09 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[All Watched Over By Machines Of Loving Grace]]></title>
@@ -68,13 +75,6 @@
             <link>https://twitter.com/StigAbell/status/468855473270448128</link>
             <guid isPermaLink="false">e33042f7-b7ce-49ce-8607-99a9ad10afd1</guid>
             <pubDate>Mon, 26 Oct 2015 01:04:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Kinetic sculpture]]></title>
-            <description><![CDATA[<article><h1>Kinetic sculpture</h1><p>automata</p><img src="https://i.ytimg.com/vi/oiQzn8aHNt8/hqdefault.jpg"></article>]]></description>
-            <link>https://youtu.be/oiQzn8aHNt8</link>
-            <guid isPermaLink="false">713ba447-4990-4040-8aac-1f61bd64f6ff</guid>
-            <pubDate>Sat, 24 Oct 2015 14:40:34 GMT</pubDate>
         </item>
     </channel>
 </rss>
