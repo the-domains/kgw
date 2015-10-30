@@ -5,9 +5,9 @@ inNav: true
 inLanguage: null
 starred: true
 keywords: []
-description: ''
-datePublished: '2015-10-30T12:11:23.388Z'
-dateModified: '2015-10-30T12:11:01.264Z'
+description: Keep The Grid Weird
+datePublished: '2015-10-30T12:12:30.077Z'
+dateModified: '2015-10-30T12:12:22.249Z'
 title: KGW Manifesto
 sourcePath: _posts/2015-09-04-kgw-manifesto.md
 published: true
