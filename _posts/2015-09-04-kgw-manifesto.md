@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: '<Keep The Grid Weird>'
-datePublished: '2015-10-30T17:45:03.296Z'
-dateModified: '2015-10-30T17:44:46.286Z'
+datePublished: '2015-10-31T02:28:58.279Z'
+dateModified: '2015-10-31T02:28:36.378Z'
 title: KGW Manifesto
 sourcePath: _posts/2015-09-04-kgw-manifesto.md
 published: true
@@ -26,7 +26,6 @@ _context: 'http://schema.org'
 ---
 # KGW Manifesto
 ![kgw](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4a6ba245-dcd6-4cdb-9ea4-db1e51072558.png)
-![kgw](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7051d2fd-88bf-4d1a-8dc5-33ed4d4d81f8.png)
 
 Everything is connected.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/61069cf8-e86d-4a4c-989c-e04e3e093644.jpg)
@@ -41,5 +40,6 @@ Ahem, your website.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/836ec8ce-e88e-4b72-b623-05af99f3080d.png)
 
 # hyper/meta/multi // media/verse/sensory
+![kgw](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7051d2fd-88bf-4d1a-8dc5-33ed4d4d81f8.png)
 
 ...
