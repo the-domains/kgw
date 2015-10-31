@@ -4,7 +4,7 @@
         <description><![CDATA[kgw]]></description>
         <link>https://thegrid.ai/kgw/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 30 Oct 2015 17:46:08 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 31 Oct 2015 00:35:07 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kgw/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[KGW Manifesto]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/kgw/kgw-manifesto/index.html</link>
             <guid isPermaLink="false">8f551792-6503-4c76-9d7f-4383b7607544</guid>
             <pubDate>Fri, 30 Oct 2015 17:45:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[closer]]></title>
+            <description><![CDATA[<article><h1>closer</h1><img src="http://33.media.tumblr.com/372427768b62d7ac93ca023185835602/tumblr_nbazlsNsW51qg4441o1_500.gif"></article>]]></description>
+            <link>http://zolloc.com/post/96504227829</link>
+            <guid isPermaLink="false">b24aab82-2185-496a-8137-b3ac6377c7ec</guid>
+            <pubDate>Sat, 31 Oct 2015 00:35:04 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Kraftwerk - Roboter - Lemmchen Grundschule]]></title>
@@ -68,13 +75,6 @@
             <link>https://instagram.com/p/3mGwdNL8u0/</link>
             <guid isPermaLink="false">1e3b11be-6b1e-49c2-9734-4beece15dce0</guid>
             <pubDate>Mon, 26 Oct 2015 02:04:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img alt="From Sweden&semi; oddly mesmeric&colon; &quot;all posters except posters about posters being prohibited are prohibited&quot;" src="https://pbs.twimg.com/media/BoEoJu1IEAA-g93.jpg:large">]]></description>
-            <link>https://twitter.com/StigAbell/status/468855473270448128</link>
-            <guid isPermaLink="false">e33042f7-b7ce-49ce-8607-99a9ad10afd1</guid>
-            <pubDate>Mon, 26 Oct 2015 01:04:42 GMT</pubDate>
         </item>
     </channel>
 </rss>
