@@ -4,7 +4,7 @@
         <description><![CDATA[kgw]]></description>
         <link>https://thegrid.ai/kgw/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 31 Oct 2015 12:38:47 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 31 Oct 2015 12:39:38 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kgw/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[KGW Manifesto]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/kgw/kgw-manifesto/index.html</link>
             <guid isPermaLink="false">8f551792-6503-4c76-9d7f-4383b7607544</guid>
             <pubDate>Sat, 31 Oct 2015 02:28:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Avant-Garde 1920s Costumes Reemerge, Revealing Their Makers' Tragic Story]]></title>
+            <description><![CDATA[<article><h1>Avant-Garde 1920s Costumes Reemerge, Revealing Their Makers' Tragic Story</h1><p>In 1920s Hamburg, a dancer couple created wild, Expressionist costumes that looked like retro robots and Bauhaus knights. The dancers were Lavinia Schulz and Walter Holdt, and through the new Museum für Kunst und Gewerbe Hamburg (MKG) online collection, their tragic, forgotten story can be rediscovered.</p><img src="http://hyperallergic.com/wp-content/uploads/2015/10/mkgphotos16.jpg"></article>]]></description>
+            <link>http://hyperallergic.com/248602/avant-garde-1920s-costumes-reemerge-revealing-their-makers-tragic-story/</link>
+            <guid isPermaLink="false">b4971b7d-f621-44e6-a499-b23b0b9603cd</guid>
+            <pubDate>Sat, 31 Oct 2015 12:38:14 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[grei skuring]]></title>
@@ -68,13 +75,6 @@
             <link>https://shogofawafa.wordpress.com/2015/08/02/sex-and-psychedelics/</link>
             <guid isPermaLink="false">6040e7e3-6a62-4966-8044-7d7242656d89</guid>
             <pubDate>Thu, 29 Oct 2015 12:01:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/20737303-c34c-49ba-afa4-53a39a389d2f.png">]]></description>
-            <link>https://thegrid.ai/kgw/a72d224c-44dc-4e15-a2a0-95708c6f0540/index.html</link>
-            <guid isPermaLink="false">a72d224c-44dc-4e15-a2a0-95708c6f0540</guid>
-            <pubDate>Thu, 29 Oct 2015 00:47:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
