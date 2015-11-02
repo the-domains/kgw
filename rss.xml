@@ -4,7 +4,7 @@
         <description><![CDATA[kgw]]></description>
         <link>https://thegrid.ai/kgw/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 31 Oct 2015 12:39:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Nov 2015 18:50:38 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kgw/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[KGW Manifesto]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/kgw/kgw-manifesto/index.html</link>
             <guid isPermaLink="false">8f551792-6503-4c76-9d7f-4383b7607544</guid>
             <pubDate>Sat, 31 Oct 2015 02:28:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img alt="Shouts to &commat;hollygressley for making these incredible &commat;enjoyLaCroix-inspired posters for the office" src="https://pbs.twimg.com/media/CS03eL0UYAAbB4j.jpg:large">]]></description>
+            <link>https://twitter.com/jmohsenin/status/661245714974949376</link>
+            <guid isPermaLink="false">d1318f90-bea9-4761-8dda-3bec21efdc38</guid>
+            <pubDate>Mon, 02 Nov 2015 18:50:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Avant-Garde 1920s Costumes Reemerge, Revealing Their Makers' Tragic Story]]></title>
@@ -68,13 +75,6 @@
             <link>https://youtu.be/HEBEQhwG-rU</link>
             <guid isPermaLink="false">2a47fac3-af24-46e8-82ab-f40e963e545f</guid>
             <pubDate>Fri, 30 Oct 2015 03:13:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sex and Psychedelics]]></title>
-            <description><![CDATA[<article><h1>Sex and Psychedelics</h1><p>A couple of weeks ago, Jean Francois Painchaud was just another Canadian animator - working for the PBS kids show Wild Kratts by day, making sexually explicit GIFs by night. Little did he know, when he sat in front of his computer at 10AM last Monday, that things were going to change.</p><img src="https://shogofawafa.files.wordpress.com/2015/08/884538_454640654604169_1639568041_o.jpg?w=700&h=525"></article>]]></description>
-            <link>https://shogofawafa.wordpress.com/2015/08/02/sex-and-psychedelics/</link>
-            <guid isPermaLink="false">6040e7e3-6a62-4966-8044-7d7242656d89</guid>
-            <pubDate>Thu, 29 Oct 2015 12:01:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
