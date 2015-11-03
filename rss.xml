@@ -4,7 +4,7 @@
         <description><![CDATA[kgw]]></description>
         <link>https://thegrid.ai/kgw/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 02 Nov 2015 18:50:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 Nov 2015 15:40:38 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kgw/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[KGW Manifesto]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/kgw/kgw-manifesto/index.html</link>
             <guid isPermaLink="false">8f551792-6503-4c76-9d7f-4383b7607544</guid>
             <pubDate>Sat, 31 Oct 2015 02:28:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hot pepper challenge - Harmonizator]]></title>
+            <description><![CDATA[<article><h1>Hot pepper challenge - Harmonizator</h1><p>Support me on Patreon - http://www.patreon.com/publio This woman try's to explain us something, but everything that comes out from her mouth is this beautiful melody. Original video here: https://www.youtube.com/watch?v=HYF9bImkOL4 http://www.publiodelgado.net</p><img src="https://i.ytimg.com/vi/xuIiYOgtEuY/hqdefault.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=xuIiYOgtEuY</link>
+            <guid isPermaLink="false">56e121bd-23d9-486c-aa17-b70ee69c590e</guid>
+            <pubDate>Tue, 03 Nov 2015 15:39:49 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>https://youtu.be/QBDqd7rHhLg</link>
             <guid isPermaLink="false">3a7e91d2-c274-4c25-b2fe-89b418ee998d</guid>
             <pubDate>Fri, 30 Oct 2015 03:29:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[New Gameplay from Pillow Castle's First Person Puzzler Tech Demo: Museum of Simulation Technology]]></title>
-            <description><![CDATA[<article><h1>New Gameplay from Pillow Castle's First Person Puzzler Tech Demo: Museum of Simulation Technology</h1><p>Remember last year's tech demo for Pillow Castle's first person puzzler? Here's some gameplay of the project that tech demo evolved into: Museum of Simulation Technology, now touting a completely refreshed art style.</p><img src="https://i.ytimg.com/vi/HEBEQhwG-rU/hqdefault.jpg"></article>]]></description>
-            <link>https://youtu.be/HEBEQhwG-rU</link>
-            <guid isPermaLink="false">2a47fac3-af24-46e8-82ab-f40e963e545f</guid>
-            <pubDate>Fri, 30 Oct 2015 03:13:13 GMT</pubDate>
         </item>
     </channel>
 </rss>
