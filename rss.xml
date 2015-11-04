@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[kgw]]></title>
-        <description><![CDATA[kgw]]></description>
+        <title><![CDATA[Keep Grid Weird]]></title>
+        <description><![CDATA[Keep Grid Weird]]></description>
         <link>https://thegrid.ai/kgw/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 03 Nov 2015 15:40:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Nov 2015 18:17:39 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kgw/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[KGW Manifesto]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/kgw/kgw-manifesto/index.html</link>
             <guid isPermaLink="false">8f551792-6503-4c76-9d7f-4383b7607544</guid>
             <pubDate>Sat, 31 Oct 2015 02:28:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A new drawing determined to be an authentic Hieronymus Bosch]]></title>
+            <description><![CDATA[<article><h1>A new drawing determined to be an authentic Hieronymus Bosch</h1><p>image courtesy the Noordbrabants Museum</p><img src="http://hyperallergic.com/wp-content/uploads/2015/11/140MCPVIS.jpg"></article>]]></description>
+            <link>http://hyperallergic.com/250645/easy-come-easy-go-new-bosch-identified-old-bosches-discredited/</link>
+            <guid isPermaLink="false">1e5b96d7-281b-4af3-96c1-b4fe2741cfef</guid>
+            <pubDate>Wed, 04 Nov 2015 18:16:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Hot pepper challenge - Harmonizator]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/kgw/lifedream/index.html</link>
             <guid isPermaLink="false">3d0fbeeb-e05a-47d4-9e8a-86229d82fe61</guid>
             <pubDate>Fri, 30 Oct 2015 11:28:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Forbidden Zone Color Trailer]]></title>
-            <description><![CDATA[<article><h1>Forbidden Zone Color Trailer</h1><p>www.forbiddenzone-color.com</p><img src="https://i.ytimg.com/vi/QBDqd7rHhLg/hqdefault.jpg"></article>]]></description>
-            <link>https://youtu.be/QBDqd7rHhLg</link>
-            <guid isPermaLink="false">3a7e91d2-c274-4c25-b2fe-89b418ee998d</guid>
-            <pubDate>Fri, 30 Oct 2015 03:29:16 GMT</pubDate>
         </item>
     </channel>
 </rss>
