@@ -4,7 +4,7 @@
         <description><![CDATA[Keep Grid Weird]]></description>
         <link>https://thegrid.ai/kgw/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 05 Nov 2015 17:53:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Nov 2015 19:18:58 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kgw/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[KGW Manifesto]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/kgw/kgw-manifesto/index.html</link>
             <guid isPermaLink="false">8f551792-6503-4c76-9d7f-4383b7607544</guid>
             <pubDate>Sat, 31 Oct 2015 02:28:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[WordsEyeIn-Beta online app can create vi...]]></title>
+            <description><![CDATA[<article><h1>WordsEyeIn-Beta online app can create vi...</h1><p>WordsEyeIn-Beta online app can create visual scenes using 3D graphics based on any input of text:WordsEye is a first-of-its kind web and mobile application that lets you literally Type a Picture using simple language. With Wordseye, you can turn you words into art, visual opinion, greetings, single-panel cartoons, and more.A New Social Network for Creative Expression and Visual Banter.</p><img src="http://41.media.tumblr.com/6b4a41f1131bb0043129077a358b893b/tumblr_nxcqpnSya81qav3uso3_500.png"></article>]]></description>
+            <link>http://prostheticknowledge.tumblr.com/post/132609056026/wordseye-in-beta-online-app-can-create-visual</link>
+            <guid isPermaLink="false">ce9db438-c83e-4ef6-bc60-495603532e74</guid>
+            <pubDate>Thu, 05 Nov 2015 19:18:56 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>http://zolloc.com/post/96504227829</link>
             <guid isPermaLink="false">b24aab82-2185-496a-8137-b3ac6377c7ec</guid>
             <pubDate>Sat, 31 Oct 2015 00:35:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Kraftwerk - Roboter - Lemmchen Grundschule]]></title>
-            <description><![CDATA[<article><h1>Kraftwerk - Roboter - Lemmchen Grundschule</h1><p>Kinder der 1. Klasse (GTS Lemmchen Mainz-Mombach) basteln, singen und spielen Roboter von Kraftwerk.</p><img src="https://i.ytimg.com/vi/WH-ycguHLBU/hqdefault.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=WH-ycguHLBU</link>
-            <guid isPermaLink="false">2652dc97-d98a-443b-92fa-d6caef8aa6c8</guid>
-            <pubDate>Fri, 30 Oct 2015 17:37:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
