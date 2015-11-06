@@ -4,7 +4,7 @@
         <description><![CDATA[Keep Grid Weird]]></description>
         <link>https://thegrid.ai/kgw/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 05 Nov 2015 19:18:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Nov 2015 15:58:39 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kgw/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[KGW Manifesto]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/kgw/kgw-manifesto/index.html</link>
             <guid isPermaLink="false">8f551792-6503-4c76-9d7f-4383b7607544</guid>
             <pubDate>Sat, 31 Oct 2015 02:28:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA["A warning is being broadcast on the sid...]]></title>
+            <description><![CDATA[<article><h1>"A warning is being broadcast on the sid...</h1><p>"A warning is being broadcast on the side of the national gallery with a laser #MillionMaskMarch" - Damian Gayle (via Tom T)Metropolitan Police laser show, London, 5th November 2015.</p><img src="http://38.media.tumblr.com/6ad86a5b2babbf4df215b8fed79ef924/tumblr_nxdpigRG5L1qjjis9o1_400.gif"></article>]]></description>
+            <link>http://new-aesthetic.tumblr.com/post/132649172535/a-warning-is-being-broadcast-on-the-side-of-the</link>
+            <guid isPermaLink="false">f03b0723-c4e4-4b14-9fbf-9f11d14b9652</guid>
+            <pubDate>Fri, 06 Nov 2015 15:57:53 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[WordsEyeIn-Beta online app can create vi...]]></title>
@@ -68,13 +75,6 @@
             <link>http://greiskuring.tumblr.com/post/114492322884</link>
             <guid isPermaLink="false">bc7aa342-e1e7-4165-8acb-fb5ad4dffd81</guid>
             <pubDate>Sat, 31 Oct 2015 12:37:54 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[closer]]></title>
-            <description><![CDATA[<article><h1>closer</h1><img src="http://33.media.tumblr.com/372427768b62d7ac93ca023185835602/tumblr_nbazlsNsW51qg4441o1_500.gif"></article>]]></description>
-            <link>http://zolloc.com/post/96504227829</link>
-            <guid isPermaLink="false">b24aab82-2185-496a-8137-b3ac6377c7ec</guid>
-            <pubDate>Sat, 31 Oct 2015 00:35:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
