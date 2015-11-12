@@ -4,7 +4,7 @@
         <description><![CDATA[Keep Grid Weird]]></description>
         <link>https://thegrid.ai/kgw/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 12 Nov 2015 17:25:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Nov 2015 17:26:20 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kgw/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[KGW Manifesto]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/kgw/kgw-manifesto/index.html</link>
             <guid isPermaLink="false">8f551792-6503-4c76-9d7f-4383b7607544</guid>
             <pubDate>Sat, 31 Oct 2015 02:28:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Resist and Thrive]]></title>
+            <description><![CDATA[<article><h1>Resist and Thrive</h1><p>Last week I gave this talk at Web Summit in Dublin. It's a first-draft of thoughts that I felt compelled to talk about in a roomful of entrepreneurs and VC's. I'd love to hear any and all thoughts on this topic.</p><img src="https://d262ilb51hltx0.cloudfront.net/max/1200/1*KL_gkjTYPmLwqduYG-uSkw.jpeg"></article>]]></description>
+            <link>https://medium.com/@ystrickler/resist-and-thrive-1d36819853ca</link>
+            <guid isPermaLink="false">edd70270-ab3a-45fe-94de-2800b06d14da</guid>
+            <pubDate>Thu, 12 Nov 2015 17:24:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>https://www.youtube.com/watch?v=xuIiYOgtEuY</link>
             <guid isPermaLink="false">56e121bd-23d9-486c-aa17-b70ee69c590e</guid>
             <pubDate>Tue, 03 Nov 2015 15:39:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img alt="Shouts to &commat;hollygressley for making these incredible &commat;enjoyLaCroix-inspired posters for the office" src="https://pbs.twimg.com/media/CS03eL0UYAAbB4j.jpg:large">]]></description>
-            <link>https://twitter.com/jmohsenin/status/661245714974949376</link>
-            <guid isPermaLink="false">d1318f90-bea9-4761-8dda-3bec21efdc38</guid>
-            <pubDate>Mon, 02 Nov 2015 18:50:33 GMT</pubDate>
         </item>
     </channel>
 </rss>
