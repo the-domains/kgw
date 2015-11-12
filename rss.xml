@@ -4,7 +4,7 @@
         <description><![CDATA[Keep Grid Weird]]></description>
         <link>https://thegrid.ai/kgw/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 11 Nov 2015 21:14:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Nov 2015 17:25:30 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kgw/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[KGW Manifesto]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/kgw/kgw-manifesto/index.html</link>
             <guid isPermaLink="false">8f551792-6503-4c76-9d7f-4383b7607544</guid>
             <pubDate>Sat, 31 Oct 2015 02:28:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>i wonder if people are less excited about personal finance stuff like mint because there's no middle class</p>]]></description>
+            <link>https://twitter.com/ftrain/status/664632464967663616</link>
+            <guid isPermaLink="false">74d7f0b3-dd45-4309-b056-7fc414d4257b</guid>
+            <pubDate>Thu, 12 Nov 2015 17:24:24 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Slowly Rising]]></title>
@@ -68,13 +75,6 @@
             <link>https://twitter.com/jmohsenin/status/661245714974949376</link>
             <guid isPermaLink="false">d1318f90-bea9-4761-8dda-3bec21efdc38</guid>
             <pubDate>Mon, 02 Nov 2015 18:50:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Avant-Garde 1920s Costumes Reemerge, Revealing Their Makers' Tragic Story]]></title>
-            <description><![CDATA[<article><h1>Avant-Garde 1920s Costumes Reemerge, Revealing Their Makers' Tragic Story</h1><p>In 1920s Hamburg, a dancer couple created wild, Expressionist costumes that looked like retro robots and Bauhaus knights. The dancers were Lavinia Schulz and Walter Holdt, and through the new Museum für Kunst und Gewerbe Hamburg (MKG) online collection, their tragic, forgotten story can be rediscovered.</p><img src="http://hyperallergic.com/wp-content/uploads/2015/10/mkgphotos16.jpg"></article>]]></description>
-            <link>http://hyperallergic.com/248602/avant-garde-1920s-costumes-reemerge-revealing-their-makers-tragic-story/</link>
-            <guid isPermaLink="false">b4971b7d-f621-44e6-a499-b23b0b9603cd</guid>
-            <pubDate>Sat, 31 Oct 2015 12:38:14 GMT</pubDate>
         </item>
     </channel>
 </rss>
