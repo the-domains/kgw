@@ -4,7 +4,7 @@
         <description><![CDATA[Keep Grid Weird]]></description>
         <link>https://thegrid.ai/kgw/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 12 Nov 2015 17:26:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 13 Nov 2015 15:18:39 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kgw/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[KGW Manifesto]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/kgw/kgw-manifesto/index.html</link>
             <guid isPermaLink="false">8f551792-6503-4c76-9d7f-4383b7607544</guid>
             <pubDate>Sat, 31 Oct 2015 02:28:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ceci N'Est Pas un Gif: Animating Magritte]]></title>
+            <description><![CDATA[<article><h1>Ceci N'Est Pas un Gif: Animating Magritte</h1><p>As contemporary updates to early Northern Renaissance paintings and ukiyo-e woodblock prints have shown, GIFs have become a popular way for artists to revisit and reinterpret art history. The latest works to join this burgeoning genre of remixed animations, created by the German-based illustrator Raphaëlle Martin , were inspired by René Magritte, himself a master of altering the familiar.</p><img src="http://hyperallergic.com/wp-content/uploads/2015/11/fils-de-l-homme-1.gif"></article>]]></description>
+            <link>http://hyperallergic.com/252753/ceci-nest-pas-un-gif-animating-magritte/</link>
+            <guid isPermaLink="false">3ab3ac39-7629-41f2-9df1-8ab6db9962f8</guid>
+            <pubDate>Fri, 13 Nov 2015 15:17:51 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Resist and Thrive]]></title>
@@ -68,13 +75,6 @@
             <link>http://hyperallergic.com/250645/easy-come-easy-go-new-bosch-identified-old-bosches-discredited/</link>
             <guid isPermaLink="false">1e5b96d7-281b-4af3-96c1-b4fe2741cfef</guid>
             <pubDate>Wed, 04 Nov 2015 18:16:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hot pepper challenge - Harmonizator]]></title>
-            <description><![CDATA[<article><h1>Hot pepper challenge - Harmonizator</h1><p>Support me on Patreon - http://www.patreon.com/publio This woman try's to explain us something, but everything that comes out from her mouth is this beautiful melody. Original video here: https://www.youtube.com/watch?v=HYF9bImkOL4 http://www.publiodelgado.net</p><img src="https://i.ytimg.com/vi/xuIiYOgtEuY/hqdefault.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=xuIiYOgtEuY</link>
-            <guid isPermaLink="false">56e121bd-23d9-486c-aa17-b70ee69c590e</guid>
-            <pubDate>Tue, 03 Nov 2015 15:39:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
