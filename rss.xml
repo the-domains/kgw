@@ -4,7 +4,7 @@
         <description><![CDATA[Keep Grid Weird]]></description>
         <link>https://thegrid.ai/kgw/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 19 Nov 2015 12:36:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Nov 2015 12:51:49 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kgw/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[KGW Manifesto]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/kgw/kgw-manifesto/index.html</link>
             <guid isPermaLink="false">8f551792-6503-4c76-9d7f-4383b7607544</guid>
             <pubDate>Sat, 31 Oct 2015 02:28:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Rubylith operators - CHM Revolution]]></title>
+            <description><![CDATA[<article><h1>Rubylith operators - CHM Revolution</h1><p>Chip manufacture was hand work. </p><img src="http://s7.computerhistory.org/is/image/CHM/500003094-03-01?$re-zoomed$"></article>]]></description>
+            <link>http://www.computerhistory.org/revolution/artifact/287/1614</link>
+            <guid isPermaLink="false">66a1fd3f-b902-4393-a184-737a5f87a90e</guid>
+            <pubDate>Thu, 19 Nov 2015 12:50:40 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[MECHANICAL TECHNO DEMONSTRATION]]></title>
@@ -68,13 +75,6 @@
             <link>http://new-aesthetic.tumblr.com/post/132649172535/a-warning-is-being-broadcast-on-the-side-of-the</link>
             <guid isPermaLink="false">f03b0723-c4e4-4b14-9fbf-9f11d14b9652</guid>
             <pubDate>Fri, 06 Nov 2015 15:57:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[WordsEyeIn-Beta online app can create vi...]]></title>
-            <description><![CDATA[<article><h1>WordsEyeIn-Beta online app can create vi...</h1><p>WordsEyeIn-Beta online app can create visual scenes using 3D graphics based on any input of text:WordsEye is a first-of-its kind web and mobile application that lets you literally Type a Picture using simple language. With Wordseye, you can turn you words into art, visual opinion, greetings, single-panel cartoons, and more.A New Social Network for Creative Expression and Visual Banter.</p><img src="http://41.media.tumblr.com/6b4a41f1131bb0043129077a358b893b/tumblr_nxcqpnSya81qav3uso3_500.png"></article>]]></description>
-            <link>http://prostheticknowledge.tumblr.com/post/132609056026/wordseye-in-beta-online-app-can-create-visual</link>
-            <guid isPermaLink="false">ce9db438-c83e-4ef6-bc60-495603532e74</guid>
-            <pubDate>Thu, 05 Nov 2015 19:18:56 GMT</pubDate>
         </item>
     </channel>
 </rss>
