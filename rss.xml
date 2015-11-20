@@ -4,7 +4,7 @@
         <description><![CDATA[Keep Grid Weird]]></description>
         <link>https://thegrid.ai/kgw/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 19 Nov 2015 12:51:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Nov 2015 03:03:43 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kgw/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[KGW Manifesto]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/kgw/kgw-manifesto/index.html</link>
             <guid isPermaLink="false">8f551792-6503-4c76-9d7f-4383b7607544</guid>
             <pubDate>Sat, 31 Oct 2015 02:28:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[David Bowie - Blackstar]]></title>
+            <description><![CDATA[<article><h1>David Bowie - Blackstar</h1><p>Music video by David Bowie performing Blackstar. (c) 2015 ISO Records, under exclusive license to Columbia Records, a Division of Sony Music Entertainment http://vevo.ly/SbPTNT</p></article>]]></description>
+            <link>https://youtu.be/kszLwBaC4Sw</link>
+            <guid isPermaLink="false">2135d233-7477-4084-86cc-b57cfce24d0e</guid>
+            <pubDate>Fri, 20 Nov 2015 03:02:51 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Rubylith operators - CHM Revolution]]></title>
@@ -68,13 +75,6 @@
             <link>https://vimeo.com/142716939</link>
             <guid isPermaLink="false">690b93d4-292f-4fde-9d21-915fcf4fbaee</guid>
             <pubDate>Wed, 11 Nov 2015 21:13:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA["A warning is being broadcast on the sid...]]></title>
-            <description><![CDATA[<article><h1>"A warning is being broadcast on the sid...</h1><p>"A warning is being broadcast on the side of the national gallery with a laser #MillionMaskMarch" - Damian Gayle (via Tom T)Metropolitan Police laser show, London, 5th November 2015.</p><img src="http://38.media.tumblr.com/6ad86a5b2babbf4df215b8fed79ef924/tumblr_nxdpigRG5L1qjjis9o1_400.gif"></article>]]></description>
-            <link>http://new-aesthetic.tumblr.com/post/132649172535/a-warning-is-being-broadcast-on-the-side-of-the</link>
-            <guid isPermaLink="false">f03b0723-c4e4-4b14-9fbf-9f11d14b9652</guid>
-            <pubDate>Fri, 06 Nov 2015 15:57:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
