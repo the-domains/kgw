@@ -5,14 +5,15 @@ inNav: true
 inLanguage: null
 starred: true
 keywords: []
-description: '<Keep The Grid Weird>'
-datePublished: '2015-10-31T02:28:58.279Z'
-dateModified: '2015-10-31T02:28:36.378Z'
+description: Keep The Grid Weird
+datePublished: '2015-11-22T16:50:14.501Z'
+dateModified: '2015-11-22T16:49:58.229Z'
 title: KGW Manifesto
 sourcePath: _posts/2015-09-04-kgw-manifesto.md
 published: true
 tags:
   - ''
+author: []
 authors: []
 publisher:
   name: null
@@ -30,7 +31,7 @@ _context: 'http://schema.org'
 Everything is connected.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/61069cf8-e86d-4a4c-989c-e04e3e093644.jpg)
 
-It is not possible to represent yourself in one media. You are multitudes (or at least a small crowd), hyperdimensional, and the metamedia can represent a fuller picture. 
+It is not possible to represent yourself in one media. You are multitudes (or at least a small crowd), hyperdimensional, and the metamedia can represent a fuller picture.
 
 Why isn't it easy to build
 
