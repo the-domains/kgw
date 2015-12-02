@@ -4,7 +4,7 @@
         <description><![CDATA[Keep Grid Weird]]></description>
         <link>https://thegrid.ai/kgw/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 01 Dec 2015 21:03:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Dec 2015 18:34:18 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kgw/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[KGW Manifesto]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/kgw/kgw-manifesto/index.html</link>
             <guid isPermaLink="false">8f551792-6503-4c76-9d7f-4383b7607544</guid>
             <pubDate>Sun, 22 Nov 2015 16:50:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img alt="You know what looks utterly bizarre&quest; Steam engines after boiler explosions&period;" src="https://pbs.twimg.com/media/CVK_Hl0WEAAlogb.jpg:large">]]></description>
+            <link>https://twitter.com/Duncan_Gates/status/671809504288366592</link>
+            <guid isPermaLink="false">4214a123-4df6-4784-878b-7a2b9bb03c1f</guid>
+            <pubDate>Wed, 02 Dec 2015 18:33:31 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Laser Cut Dollar Sculptures by Scott Campbell]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.computerhistory.org/revolution/artifact/287/1614</link>
             <guid isPermaLink="false">66a1fd3f-b902-4393-a184-737a5f87a90e</guid>
             <pubDate>Thu, 19 Nov 2015 12:50:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[MECHANICAL TECHNO DEMONSTRATION]]></title>
-            <description><![CDATA[<article><h1>MECHANICAL TECHNO DEMONSTRATION</h1><p>Mechanical Techno Demonstration by Graham Dunning Video produced by Michael Forrest. Made at Lime Wharf Machines Room as part of Rhythm & Drone // Research & Development residency, September 2015. https://rhythmanddrone.wordpress.com/ Supported using public funding by the National Lottery through Arts Council England</p><img src="https://i.ytimg.com/vi/wl1ZrEza7uY/hqdefault.jpg"></article>]]></description>
-            <link>https://youtu.be/wl1ZrEza7uY</link>
-            <guid isPermaLink="false">22e081dd-58c9-432a-b4f7-d59ba8d9cefd</guid>
-            <pubDate>Thu, 19 Nov 2015 12:35:20 GMT</pubDate>
         </item>
     </channel>
 </rss>
