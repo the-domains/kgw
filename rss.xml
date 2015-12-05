@@ -4,7 +4,7 @@
         <description><![CDATA[Keep Grid Weird]]></description>
         <link>https://thegrid.ai/kgw/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 02 Dec 2015 19:32:24 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Dec 2015 18:25:10 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kgw/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[KGW Manifesto]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/kgw/kgw-manifesto/index.html</link>
             <guid isPermaLink="false">8f551792-6503-4c76-9d7f-4383b7607544</guid>
             <pubDate>Sun, 22 Nov 2015 16:50:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<article><h1></h1><p></p><img src="http://imgur.com/FOCPWg2h.jpg"></article>]]></description>
+            <link>http://i.imgur.com/FOCPWg2h.jpg</link>
+            <guid isPermaLink="false">29f84198-0188-4f70-8ea9-c95fc67c3086</guid>
+            <pubDate>Sat, 05 Dec 2015 18:25:08 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Alien Aesthetics | Bruce Sterling | TEDxDeakinUniversity]]></title>
@@ -43,7 +50,7 @@
         </item>
         <item>
             <title><![CDATA[Laser Cut Dollar Sculptures by Scott Campbell]]></title>
-            <description><![CDATA[<article><h1>Laser Cut Dollar Sculptures by Scott Campbell</h1><p>Artist Scott Campbell uses a laser cutter to carve astonishing sculptures out of US dollars. The intricate designs found in many of his sculptures hint at his other occupation-tattoo artist & owner of Saved Tattoo in Brooklyn. via Gaks Designs & Hi-Fructose photos via Scott Campbell</p><img src="http://laughingsquid.com/wp-content/uploads/96_1347565037.jpeg"></article>]]></description>
+            <description><![CDATA[<article><h1>Laser Cut Dollar Sculptures by Scott Campbell</h1><p>Artist Scott Campbell uses a laser cutter to carve astonishing sculptures out of US dollars. The intricate designs found in many of his sculptures hint at his other occupation-tattoo artist & owner of Saved Tattoo in Brooklyn. via Gaks Designs & Hi-Fructose photos via Scott Campbell</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/62cc84db0540d20da2dc8c9458d74b4eb5ae96fa.jpg"></article>]]></description>
             <link>http://laughingsquid.com/laser-cut-dollar-sculptures-by-scott-campbell/</link>
             <guid isPermaLink="false">e1498cee-8a9d-4fb0-a2d5-13eca239b1d2</guid>
             <pubDate>Tue, 01 Dec 2015 21:02:41 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://hacked.com/circuit-board-health-monitoring-tech-tattoos-already/</link>
             <guid isPermaLink="false">bf5ff23c-276d-41ac-9df8-40408eb7eaf7</guid>
             <pubDate>Sun, 29 Nov 2015 03:59:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Escher in Motion]]></title>
-            <description><![CDATA[<article><h1>Escher in Motion</h1><p>Animation by Glenn Marshall. Music - 'Diva' by Jean Michel Jarre (feat. Laurie Anderson). www.butterfly.ie</p><img src="http://i.vimeocdn.com/video/545489595_1280.jpg"></article>]]></description>
-            <link>https://vimeo.com/146945472</link>
-            <guid isPermaLink="false">cc417f79-f3d3-4a42-9fc1-3e907903267f</guid>
-            <pubDate>Sun, 29 Nov 2015 03:53:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
