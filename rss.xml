@@ -4,7 +4,7 @@
         <description><![CDATA[Keep Grid Weird]]></description>
         <link>https://thegrid.ai/kgw/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 08 Dec 2015 23:44:28 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Dec 2015 06:53:17 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kgw/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[KGW Manifesto]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/kgw/kgw-manifesto/index.html</link>
             <guid isPermaLink="false">8f551792-6503-4c76-9d7f-4383b7607544</guid>
             <pubDate>Sun, 22 Nov 2015 16:50:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[#D19]]></title>
+            <description><![CDATA[<article><h1>#D19</h1><p>Here's one tantalizing possibility: WE CHANGE THE WAY MONEY FLOWS! What is the capitalist algorithm but a machine that runs on money? And running the machine are the people who skim off the top from bank fees, interest rates, mortgages, currency trades, payday loans, stock dividends.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5d096be52f92ff7b3624071f97f2f1a7e8e9d6bc.jpg"></article>]]></description>
+            <link>http://www.billionpeoplemarch.org/</link>
+            <guid isPermaLink="false">b6e638b6-0512-4053-9088-5b6e278db22e</guid>
+            <pubDate>Sat, 12 Dec 2015 06:52:36 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -29,7 +36,7 @@
         </item>
         <item>
             <title><![CDATA[Alien Aesthetics | Bruce Sterling | TEDxDeakinUniversity]]></title>
-            <description><![CDATA[<article><h1>Alien Aesthetics | Bruce Sterling | TEDxDeakinUniversity</h1><p>Alien Aesthetics Michael Bruce Sterling is an American science fiction author who is best known for his novels and his work on the Mirrorshades anthology. This work helped to define the cyberpunk genre. This talk was given at a TEDx event using the TED conference format but independently organized by a local community.</p><img src="https://i.ytimg.com/vi/jkHtSBzYGWQ/hqdefault.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Alien Aesthetics | Bruce Sterling | TEDxDeakinUniversity</h1><p>Alien Aesthetics Michael Bruce Sterling is an American science fiction author who is best known for his novels and his work on the Mirrorshades anthology. This work helped to define the cyberpunk genre. This talk was given at a TEDx event using the TED conference format but independently organized by a local community.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/10191c0e70b7730f0e72aff253069efa475d3717.jpg"></article>]]></description>
             <link>https://www.youtube.com/watch?v=jkHtSBzYGWQ</link>
             <guid isPermaLink="false">7236d735-f3a0-444b-85cd-119d77fe1911</guid>
             <pubDate>Wed, 02 Dec 2015 19:31:23 GMT</pubDate>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Cakes With Teeth by Scott Hove</h1><p>Oakland-based artist Scott Hove has created cake sculptures complete with gaping toothy mouths as part of his upcoming "Your Deadly Desserts" show at Modern Eden in San Francisco, October 8 to November 4. via Hi Fructose photos via Hi Fructose</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7c5817a870efa04eeb5d939ba8cccc4b5a3479e9.jpg"></article>]]></description>
             <link>http://laughingsquid.com/cakes-with-teeth-by-scott-hove/</link>
             <guid isPermaLink="false">6f5fdae6-f18d-424f-a2a8-25d5beba1559</guid>
-            <pubDate>Mon, 30 Nov 2015 19:10:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Pickle cat]]></title>
-            <description><![CDATA[<article><h1>Pickle cat</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d229105bebf9774fece8421439b4568cda13c3a9.jpg"></article>]]></description>
-            <link>http://dn.ht/picklecat/</link>
-            <guid isPermaLink="false">856cdd6e-92b2-43e7-b48b-8b6600df5e19</guid>
             <pubDate>Mon, 30 Nov 2015 19:10:41 GMT</pubDate>
         </item>
     </channel>
