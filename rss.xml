@@ -4,7 +4,7 @@
         <description><![CDATA[Keep Grid Weird]]></description>
         <link>https://thegrid.ai/kgw/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 12 Dec 2015 06:53:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Dec 2015 03:27:52 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kgw/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[KGW Manifesto]]></title>
@@ -14,8 +14,22 @@
             <pubDate>Sun, 22 Nov 2015 16:50:14 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[The Echinoblog]]></title>
+            <description><![CDATA[<article><h1>The Echinoblog</h1><p>The Scanning Electron Microscope (SEM) is a wonderous device. Simply put, electron beams provide a highly detailed almost surreal image of the surface they are directed at. But what happens we direct an SEM at animals that are ALREADY kind of weird? The striking beauty of sea urchins is revelaed!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/10efc857a322601c7198c6da02f146a32b053283.jpg"></article>]]></description>
+            <link>http://echinoblog.blogspot.com/2013/07/the-gorgeous-sea-urchin-skeleton-sem.html</link>
+            <guid isPermaLink="false">1f3d8bc7-5f25-474a-be63-e61da5d2cb43</guid>
+            <pubDate>Mon, 14 Dec 2015 03:27:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Instincts]]></title>
+            <description><![CDATA[<article><h1>Instincts</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe3e3c56b666ef2f2b49457d17e940c97a859a02.png"></article>]]></description>
+            <link>http://mradilbert.tumblr.com/post/134849665608/instincts</link>
+            <guid isPermaLink="false">4cb3e037-141d-41ed-9c13-32590b78e180</guid>
+            <pubDate>Mon, 14 Dec 2015 03:26:43 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[#D19]]></title>
-            <description><![CDATA[<article><h1>#D19</h1><p>Here's one tantalizing possibility: WE CHANGE THE WAY MONEY FLOWS! What is the capitalist algorithm but a machine that runs on money? And running the machine are the people who skim off the top from bank fees, interest rates, mortgages, currency trades, payday loans, stock dividends.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5d096be52f92ff7b3624071f97f2f1a7e8e9d6bc.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>#D19</h1><p>Here's one tantalizing possibility: WE CHANGE THE WAY MONEY FLOWS! What is the capitalist algorithm but a machine that runs on money? And running the machine are the people who skim off the top from bank fees, interest rates, mortgages, currency trades, payday loans, stock dividends.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/083a4ea6c4de8a3098644da72b6c3b132fdce991.jpg"></article>]]></description>
             <link>http://www.billionpeoplemarch.org/</link>
             <guid isPermaLink="false">b6e638b6-0512-4053-9088-5b6e278db22e</guid>
             <pubDate>Sat, 12 Dec 2015 06:52:36 GMT</pubDate>
@@ -61,20 +75,6 @@
             <link>https://twitter.com/Duncan_Gates/status/671809504288366592</link>
             <guid isPermaLink="false">4214a123-4df6-4784-878b-7a2b9bb03c1f</guid>
             <pubDate>Wed, 02 Dec 2015 18:33:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Laser Cut Dollar Sculptures by Scott Campbell]]></title>
-            <description><![CDATA[<article><h1>Laser Cut Dollar Sculptures by Scott Campbell</h1><p>Artist Scott Campbell uses a laser cutter to carve astonishing sculptures out of US dollars. The intricate designs found in many of his sculptures hint at his other occupation-tattoo artist & owner of Saved Tattoo in Brooklyn. via Gaks Designs & Hi-Fructose photos via Scott Campbell</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/62cc84db0540d20da2dc8c9458d74b4eb5ae96fa.jpg"></article>]]></description>
-            <link>http://laughingsquid.com/laser-cut-dollar-sculptures-by-scott-campbell/</link>
-            <guid isPermaLink="false">e1498cee-8a9d-4fb0-a2d5-13eca239b1d2</guid>
-            <pubDate>Tue, 01 Dec 2015 21:02:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cakes With Teeth by Scott Hove]]></title>
-            <description><![CDATA[<article><h1>Cakes With Teeth by Scott Hove</h1><p>Oakland-based artist Scott Hove has created cake sculptures complete with gaping toothy mouths as part of his upcoming "Your Deadly Desserts" show at Modern Eden in San Francisco, October 8 to November 4. via Hi Fructose photos via Hi Fructose</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7c5817a870efa04eeb5d939ba8cccc4b5a3479e9.jpg"></article>]]></description>
-            <link>http://laughingsquid.com/cakes-with-teeth-by-scott-hove/</link>
-            <guid isPermaLink="false">6f5fdae6-f18d-424f-a2a8-25d5beba1559</guid>
-            <pubDate>Mon, 30 Nov 2015 19:10:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
