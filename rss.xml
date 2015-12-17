@@ -4,7 +4,7 @@
         <description><![CDATA[Keep Grid Weird]]></description>
         <link>https://thegrid.ai/kgw/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 17 Dec 2015 20:01:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Dec 2015 20:05:26 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kgw/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[KGW Manifesto]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/kgw/kgw-manifesto/index.html</link>
             <guid isPermaLink="false">8f551792-6503-4c76-9d7f-4383b7607544</guid>
             <pubDate>Thu, 17 Dec 2015 15:02:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Echinoblog]]></title>
+            <description><![CDATA[<article><h1>The Echinoblog</h1><p>The Scanning Electron Microscope (SEM) is a wonderous device. Simply put, electron beams provide a highly detailed almost surreal image of the surface they are directed at. But what happens we direct an SEM at animals that are ALREADY kind of weird? The striking beauty of sea urchins is revelaed!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/10efc857a322601c7198c6da02f146a32b053283.jpg"></article>]]></description>
+            <link>http://echinoblog.blogspot.com/2013/07/the-gorgeous-sea-urchin-skeleton-sem.html</link>
+            <guid isPermaLink="false">2ca50bb0-ff8a-47be-85d0-1e1f0910acbc</guid>
+            <pubDate>Thu, 17 Dec 2015 20:05:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Designing a New Operating System for Work - What's The Future of Work?]]></title>
