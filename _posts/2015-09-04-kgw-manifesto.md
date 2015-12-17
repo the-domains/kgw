@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: Keep The Grid Weird
-datePublished: '2015-11-22T16:50:14.501Z'
-dateModified: '2015-11-22T16:49:58.229Z'
+datePublished: '2015-12-17T15:00:26.229Z'
+dateModified: '2015-12-17T15:00:03.450Z'
 title: KGW Manifesto
 sourcePath: _posts/2015-09-04-kgw-manifesto.md
 published: true
@@ -37,7 +37,7 @@ Why isn't it easy to build
 
 > the metamedia representation of your project, art, craft, music, research? 
 
-Ahem, your website.
+AKA your website.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/836ec8ce-e88e-4b72-b623-05af99f3080d.png)
 
 # hyper/meta/multi // media/verse/sensory
