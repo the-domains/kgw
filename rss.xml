@@ -4,7 +4,7 @@
         <description><![CDATA[Keep Grid Weird]]></description>
         <link>https://thegrid.ai/kgw/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 17 Dec 2015 20:05:26 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Dec 2015 22:37:21 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kgw/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[KGW Manifesto]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Thu, 17 Dec 2015 15:02:51 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Prélude n°1 aux tubes musicaux (boomwhackers)]]></title>
+            <description><![CDATA[<article><h1>Prélude n°1 aux tubes musicaux (boomwhackers)</h1><p>extrait du spectacle "Liaison Carbone" http://www.lesobjetsvolants.com avec Jonathan Lardillier, Olli Vuorinen, Thomas Aknine, Malte Peter, Jonas Beauvais transcription et mise en scène: Denis Paumier</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/18725eb0888082c33b1520d4d070399772809a05.jpg"></article>]]></description>
+            <link>https://youtu.be/Y5seI0eJZCg</link>
+            <guid isPermaLink="false">d64f3553-a913-4122-8c98-7f6432ab459f</guid>
+            <pubDate>Sat, 19 Dec 2015 22:37:18 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[The Echinoblog]]></title>
-            <description><![CDATA[<article><h1>The Echinoblog</h1><p>The Scanning Electron Microscope (SEM) is a wonderous device. Simply put, electron beams provide a highly detailed almost surreal image of the surface they are directed at. But what happens we direct an SEM at animals that are ALREADY kind of weird? The striking beauty of sea urchins is revelaed!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/10efc857a322601c7198c6da02f146a32b053283.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>The Echinoblog</h1><p>The Scanning Electron Microscope (SEM) is a wonderous device. Simply put, electron beams provide a highly detailed almost surreal image of the surface they are directed at. But what happens we direct an SEM at animals that are ALREADY kind of weird? The striking beauty of sea urchins is revelaed!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/31327ca6797fe339f53fb4e06ea4229596cc9d40.jpg"></article>]]></description>
             <link>http://echinoblog.blogspot.com/2013/07/the-gorgeous-sea-urchin-skeleton-sem.html</link>
             <guid isPermaLink="false">2ca50bb0-ff8a-47be-85d0-1e1f0910acbc</guid>
             <pubDate>Thu, 17 Dec 2015 20:05:23 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://www.yesmagazine.org/new-economy/after-decades-in-a-food-desert-these-neighbors-build-a-2-million-co-op-and-they-own-it-20151112</link>
             <guid isPermaLink="false">cff1d1bc-1376-474d-9771-95999bcaa735</guid>
             <pubDate>Wed, 02 Dec 2015 18:37:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img alt="You know what looks utterly bizarre&quest; Steam engines after boiler explosions&period;" src="https://pbs.twimg.com/media/CVK_Hl0WEAAlogb.jpg:large">]]></description>
-            <link>https://twitter.com/Duncan_Gates/status/671809504288366592</link>
-            <guid isPermaLink="false">4214a123-4df6-4784-878b-7a2b9bb03c1f</guid>
-            <pubDate>Wed, 02 Dec 2015 18:33:31 GMT</pubDate>
         </item>
     </channel>
 </rss>
