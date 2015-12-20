@@ -4,7 +4,7 @@
         <description><![CDATA[Keep Grid Weird]]></description>
         <link>https://thegrid.ai/kgw/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 19 Dec 2015 22:37:21 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Dec 2015 04:42:29 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kgw/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[KGW Manifesto]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/kgw/kgw-manifesto/index.html</link>
             <guid isPermaLink="false">8f551792-6503-4c76-9d7f-4383b7607544</guid>
             <pubDate>Thu, 17 Dec 2015 15:02:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Proof Of Concept: 100 Geeks, 5 Weeks, 1 Future]]></title>
+            <description><![CDATA[<article><h1>Proof Of Concept: 100 Geeks, 5 Weeks, 1 Future</h1><p>The POC21 Documentary http://poc21.cc POC21 is an international innovation community, that started as an innovation camp. The camp brought together 100+ makers, designers, engineers, scientists and geeks. In late summer 2015, we joined forces in a stunning French castle to prototype a fossil free, zero waste society.</p></article>]]></description>
+            <link>https://vimeo.com/148839195</link>
+            <guid isPermaLink="false">291c0530-e449-4b9a-ab9b-64178a5a3500</guid>
+            <pubDate>Sun, 20 Dec 2015 04:42:28 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Prélude n°1 aux tubes musicaux (boomwhackers)]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.4004.com/2015-news.html</link>
             <guid isPermaLink="false">e7f20a27-81fb-4bd3-9d44-75eb6e67250e</guid>
             <pubDate>Wed, 02 Dec 2015 18:39:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[After Decades in a Food Desert, These Neighbors Are Building a $2 Million Co-op-And They Own It]]></title>
-            <description><![CDATA[<article><h1>After Decades in a Food Desert, These Neighbors Are Building a $2 Million Co-op-And They Own It</h1><p>This article is a part of New Economy Week, where we bring you the ideas and people helping build an inclusive economy. Last year, we told you about Greensboro residents' plan to start their own grocery. This year, we checked in with them on how they pulled it off.</p><img src="http://www.yesmagazine.org/new-economy/after-decades-in-a-food-desert-these-neighbors-build-a-2-million-co-op-and-they-own-it-20151112/rcc_650.jpg/@@images/image/feature"></article>]]></description>
-            <link>http://www.yesmagazine.org/new-economy/after-decades-in-a-food-desert-these-neighbors-build-a-2-million-co-op-and-they-own-it-20151112</link>
-            <guid isPermaLink="false">cff1d1bc-1376-474d-9771-95999bcaa735</guid>
-            <pubDate>Wed, 02 Dec 2015 18:37:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
