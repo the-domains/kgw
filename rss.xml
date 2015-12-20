@@ -4,7 +4,7 @@
         <description><![CDATA[Keep Grid Weird]]></description>
         <link>https://thegrid.ai/kgw/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 20 Dec 2015 14:43:55 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Dec 2015 20:37:54 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kgw/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[KGW Manifesto]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/kgw/kgw-manifesto/index.html</link>
             <guid isPermaLink="false">8f551792-6503-4c76-9d7f-4383b7607544</guid>
             <pubDate>Thu, 17 Dec 2015 15:02:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[NASA Releases New High-Res Earthrise Image]]></title>
+            <description><![CDATA[<article><h1>NASA Releases New High-Res Earthrise Image</h1><p>NASA's Lunar Reconnaissance Orbiter captured a unique view of Earth from the spacecraft's vantage point in orbit around the moon.</p><img src="http://www.nasa.gov/sites/default/files/thumbnails/image/earth_and_limb_m1199291564l_color_2stretch_mask_0.jpg"></article>]]></description>
+            <link>http://www.nasa.gov/image-feature/goddard/lro-earthrise-2015</link>
+            <guid isPermaLink="false">a3d1e787-a34b-45ab-944d-53b781188f48</guid>
+            <pubDate>Sun, 20 Dec 2015 20:37:14 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>http://i.imgur.com/FOCPWg2h.jpg</link>
             <guid isPermaLink="false">29f84198-0188-4f70-8ea9-c95fc67c3086</guid>
             <pubDate>Sat, 05 Dec 2015 18:25:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Alien Aesthetics | Bruce Sterling | TEDxDeakinUniversity]]></title>
-            <description><![CDATA[<article><h1>Alien Aesthetics | Bruce Sterling | TEDxDeakinUniversity</h1><p>Alien Aesthetics Michael Bruce Sterling is an American science fiction author who is best known for his novels and his work on the Mirrorshades anthology. This work helped to define the cyberpunk genre. This talk was given at a TEDx event using the TED conference format but independently organized by a local community.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/10191c0e70b7730f0e72aff253069efa475d3717.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=jkHtSBzYGWQ</link>
-            <guid isPermaLink="false">7236d735-f3a0-444b-85cd-119d77fe1911</guid>
-            <pubDate>Wed, 02 Dec 2015 19:31:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
