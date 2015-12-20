@@ -4,7 +4,7 @@
         <description><![CDATA[Keep Grid Weird]]></description>
         <link>https://thegrid.ai/kgw/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 20 Dec 2015 20:37:54 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Dec 2015 20:37:58 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kgw/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[KGW Manifesto]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/kgw/kgw-manifesto/index.html</link>
             <guid isPermaLink="false">8f551792-6503-4c76-9d7f-4383b7607544</guid>
             <pubDate>Thu, 17 Dec 2015 15:02:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<article><h1></h1><p></p><img src="http://imgur.com/OiM3Jop.gif"></article>]]></description>
+            <link>http://i.imgur.com/OiM3Jop.gif</link>
+            <guid isPermaLink="false">0f2338bb-64a0-46df-83be-8428fcc3b2c3</guid>
+            <pubDate>Sun, 20 Dec 2015 20:37:14 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[NASA Releases New High-Res Earthrise Image]]></title>
@@ -68,13 +75,6 @@
             <link>https://twitter.com/amyburvall/status/674371738688339968</link>
             <guid isPermaLink="false">443fcbd2-8268-4f30-a61b-ac318f3090f7</guid>
             <pubDate>Tue, 08 Dec 2015 23:43:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<article><h1></h1><p></p><img src="http://imgur.com/FOCPWg2h.jpg"></article>]]></description>
-            <link>http://i.imgur.com/FOCPWg2h.jpg</link>
-            <guid isPermaLink="false">29f84198-0188-4f70-8ea9-c95fc67c3086</guid>
-            <pubDate>Sat, 05 Dec 2015 18:25:08 GMT</pubDate>
         </item>
     </channel>
 </rss>
