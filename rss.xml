@@ -4,7 +4,7 @@
         <description><![CDATA[Keep Grid Weird]]></description>
         <link>https://thegrid.ai/kgw/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 20 Dec 2015 04:42:29 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Dec 2015 14:43:55 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kgw/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[KGW Manifesto]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Thu, 17 Dec 2015 15:02:51 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img alt="WIP- but mixed reality streaming is going to be nuuuuuuts&excl;" src="https://pbs.twimg.com/media/CWnYA1aU4AAM2rN.png:large">]]></description>
+            <link>https://twitter.com/ColinNorthway/status/678310728307097600</link>
+            <guid isPermaLink="false">7d7617a4-b3a4-419a-9ba0-8b8e5cf85091</guid>
+            <pubDate>Sun, 20 Dec 2015 14:42:59 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Proof Of Concept: 100 Geeks, 5 Weeks, 1 Future]]></title>
-            <description><![CDATA[<article><h1>Proof Of Concept: 100 Geeks, 5 Weeks, 1 Future</h1><p>The POC21 Documentary http://poc21.cc POC21 is an international innovation community, that started as an innovation camp. The camp brought together 100+ makers, designers, engineers, scientists and geeks. In late summer 2015, we joined forces in a stunning French castle to prototype a fossil free, zero waste society.</p></article>]]></description>
+            <description><![CDATA[<article><h1>Proof Of Concept: 100 Geeks, 5 Weeks, 1 Future</h1><p>The POC21 Documentary http://poc21.cc POC21 is an international innovation community, that started as an innovation camp. The camp brought together 100+ makers, designers, engineers, scientists and geeks. In late summer 2015, we joined forces in a stunning French castle to prototype a fossil free, zero waste society.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e1e08b5382a7d7659f3feb1f9e78226abf0ef115.jpg"></article>]]></description>
             <link>https://vimeo.com/148839195</link>
             <guid isPermaLink="false">291c0530-e449-4b9a-ab9b-64178a5a3500</guid>
             <pubDate>Sun, 20 Dec 2015 04:42:28 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://www.youtube.com/watch?v=jkHtSBzYGWQ</link>
             <guid isPermaLink="false">7236d735-f3a0-444b-85cd-119d77fe1911</guid>
             <pubDate>Wed, 02 Dec 2015 19:31:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[4004]]></title>
-            <description><![CDATA[<article><h1>4004</h1><p>Tim McNerney's original goal for starting this project was to make the invisible machinery of the first computers-on-a-chip visible and understandable to students and the lay public. The 4004 is great for many reasons, but for this project it's number one selling point is that it is a minimal CPU.</p><img src="http://www.4004.com/assets/4004-east-die-detail-hdcrop.jpg"></article>]]></description>
-            <link>http://www.4004.com/2015-news.html</link>
-            <guid isPermaLink="false">e7f20a27-81fb-4bd3-9d44-75eb6e67250e</guid>
-            <pubDate>Wed, 02 Dec 2015 18:39:50 GMT</pubDate>
         </item>
     </channel>
 </rss>
