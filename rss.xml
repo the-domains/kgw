@@ -4,7 +4,7 @@
         <description><![CDATA[Keep Grid Weird]]></description>
         <link>https://thegrid.ai/kgw/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 20 Dec 2015 20:37:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Dec 2015 18:09:20 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kgw/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[KGW Manifesto]]></title>
@@ -15,6 +15,20 @@
         </item>
         <item>
             <title><![CDATA[No title]]></title>
+            <description><![CDATA[<article><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/482836ae5dd1fa90c8b9e72552dcc66eb2e95e53.jpg"></article>]]></description>
+            <link>https://pbs.twimg.com/media/CWzGoR9WcAEgN8Q.jpg</link>
+            <guid isPermaLink="false">97c17674-2bfd-4a8a-85b5-e88e8ae8e2f3</guid>
+            <pubDate>Tue, 22 Dec 2015 18:09:03 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Voyage D’Hermes]]></title>
+            <description><![CDATA[<article><h1>Voyage D’Hermes</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2f3fd7bd4c564bdb8a0da4a0e9f8f04afde9a1aa.png"></article>]]></description>
+            <link>https://thegrid.ai/kgw/ab2d2363-803e-4a7a-b095-93c61642daa4/index.html</link>
+            <guid isPermaLink="false">ab2d2363-803e-4a7a-b095-93c61642daa4</guid>
+            <pubDate>Sun, 20 Dec 2015 20:37:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
             <description><![CDATA[<article><h1></h1><p></p><img src="http://imgur.com/OiM3Jop.gif"></article>]]></description>
             <link>http://i.imgur.com/OiM3Jop.gif</link>
             <guid isPermaLink="false">0f2338bb-64a0-46df-83be-8428fcc3b2c3</guid>
@@ -22,7 +36,7 @@
         </item>
         <item>
             <title><![CDATA[NASA Releases New High-Res Earthrise Image]]></title>
-            <description><![CDATA[<article><h1>NASA Releases New High-Res Earthrise Image</h1><p>NASA's Lunar Reconnaissance Orbiter captured a unique view of Earth from the spacecraft's vantage point in orbit around the moon.</p><img src="http://www.nasa.gov/sites/default/files/thumbnails/image/earth_and_limb_m1199291564l_color_2stretch_mask_0.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>NASA Releases New High-Res Earthrise Image</h1><p>NASA's Lunar Reconnaissance Orbiter captured a unique view of Earth from the spacecraft's vantage point in orbit around the moon.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6d086f869393477242c58b4a79d05a9744886edd.jpg"></article>]]></description>
             <link>http://www.nasa.gov/image-feature/goddard/lro-earthrise-2015</link>
             <guid isPermaLink="false">a3d1e787-a34b-45ab-944d-53b781188f48</guid>
             <pubDate>Sun, 20 Dec 2015 20:37:14 GMT</pubDate>
@@ -61,20 +75,6 @@
             <link>https://medium.com/the-wtf-economy/designing-a-new-operating-system-for-work-28d1dc3e0f64#.jnl5a5ytg</link>
             <guid isPermaLink="false">b557591b-2aeb-4425-aa79-f6f248d40d64</guid>
             <pubDate>Thu, 17 Dec 2015 15:16:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[#D19]]></title>
-            <description><![CDATA[<article><h1>#D19</h1><p>Here's one tantalizing possibility: WE CHANGE THE WAY MONEY FLOWS! What is the capitalist algorithm but a machine that runs on money? And running the machine are the people who skim off the top from bank fees, interest rates, mortgages, currency trades, payday loans, stock dividends.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/083a4ea6c4de8a3098644da72b6c3b132fdce991.jpg"></article>]]></description>
-            <link>http://www.billionpeoplemarch.org/</link>
-            <guid isPermaLink="false">b6e638b6-0512-4053-9088-5b6e278db22e</guid>
-            <pubDate>Sat, 12 Dec 2015 06:52:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img alt="Be weird&excl; &num;johnlennon" src="https://pbs.twimg.com/media/CVvZheZU8AAJqXa.jpg:large">]]></description>
-            <link>https://twitter.com/amyburvall/status/674371738688339968</link>
-            <guid isPermaLink="false">443fcbd2-8268-4f30-a61b-ac318f3090f7</guid>
-            <pubDate>Tue, 08 Dec 2015 23:43:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
