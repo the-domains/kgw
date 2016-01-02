@@ -4,7 +4,7 @@
         <description><![CDATA[Keep Grid Weird]]></description>
         <link>https://thegrid.ai/kgw/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 01 Jan 2016 15:30:44 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Jan 2016 05:49:29 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kgw/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[KGW Manifesto]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/kgw/kgw-manifesto/index.html</link>
             <guid isPermaLink="false">8f551792-6503-4c76-9d7f-4383b7607544</guid>
             <pubDate>Thu, 17 Dec 2015 15:02:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[WATCH: stirring call for networked, global resistance to catastrophe and corruption]]></title>
+            <description><![CDATA[<article><h1>WATCH: stirring call for networked, global resistance to catastrophe and corruption</h1><p>Zikzak sends us, "a beautiful, six-minute vid calling for networked global resistance in the face of the many catastrophes overwhelming the world. By the Woodbine collective, a DIY media project in NYC."</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3db0c3b22f973bced369e254a6c1b57bd18680cc.gif"></article>]]></description>
+            <link>http://boingboing.net/2016/01/01/watch-stirring-call-for-netwo.html</link>
+            <guid isPermaLink="false">17e6585b-4e93-4f38-86d7-16cf1f39229c</guid>
+            <pubDate>Sat, 02 Jan 2016 05:49:27 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>https://vimeo.com/148839195</link>
             <guid isPermaLink="false">291c0530-e449-4b9a-ab9b-64178a5a3500</guid>
             <pubDate>Sun, 20 Dec 2015 04:42:28 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Prélude n°1 aux tubes musicaux (boomwhackers)]]></title>
-            <description><![CDATA[<article><h1>Prélude n°1 aux tubes musicaux (boomwhackers)</h1><p>extrait du spectacle "Liaison Carbone" http://www.lesobjetsvolants.com avec Jonathan Lardillier, Olli Vuorinen, Thomas Aknine, Malte Peter, Jonas Beauvais transcription et mise en scène: Denis Paumier</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/18725eb0888082c33b1520d4d070399772809a05.jpg"></article>]]></description>
-            <link>https://youtu.be/Y5seI0eJZCg</link>
-            <guid isPermaLink="false">d64f3553-a913-4122-8c98-7f6432ab459f</guid>
-            <pubDate>Sat, 19 Dec 2015 22:37:18 GMT</pubDate>
         </item>
     </channel>
 </rss>
