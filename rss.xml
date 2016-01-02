@@ -4,7 +4,7 @@
         <description><![CDATA[Keep Grid Weird]]></description>
         <link>https://thegrid.ai/kgw/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 02 Jan 2016 05:49:29 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Jan 2016 05:50:18 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kgw/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[KGW Manifesto]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/kgw/kgw-manifesto/index.html</link>
             <guid isPermaLink="false">8f551792-6503-4c76-9d7f-4383b7607544</guid>
             <pubDate>Thu, 17 Dec 2015 15:02:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://farm4.staticflickr.com/3079/2658837025_d8da74db61.jpg">]]></description>
+            <link>https://thegrid.ai/kgw/dad255de-0ef2-4f19-82b2-f6862c5386f6/index.html</link>
+            <guid isPermaLink="false">dad255de-0ef2-4f19-82b2-f6862c5386f6</guid>
+            <pubDate>Sat, 02 Jan 2016 05:49:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[WATCH: stirring call for networked, global resistance to catastrophe and corruption]]></title>
@@ -68,13 +75,6 @@
             <link>https://twitter.com/ColinNorthway/status/678310728307097600</link>
             <guid isPermaLink="false">7d7617a4-b3a4-419a-9ba0-8b8e5cf85091</guid>
             <pubDate>Sun, 20 Dec 2015 14:42:59 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Proof Of Concept: 100 Geeks, 5 Weeks, 1 Future]]></title>
-            <description><![CDATA[<article><h1>Proof Of Concept: 100 Geeks, 5 Weeks, 1 Future</h1><p>The POC21 Documentary http://poc21.cc POC21 is an international innovation community, that started as an innovation camp. The camp brought together 100+ makers, designers, engineers, scientists and geeks. In late summer 2015, we joined forces in a stunning French castle to prototype a fossil free, zero waste society.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e1e08b5382a7d7659f3feb1f9e78226abf0ef115.jpg"></article>]]></description>
-            <link>https://vimeo.com/148839195</link>
-            <guid isPermaLink="false">291c0530-e449-4b9a-ab9b-64178a5a3500</guid>
-            <pubDate>Sun, 20 Dec 2015 04:42:28 GMT</pubDate>
         </item>
     </channel>
 </rss>
