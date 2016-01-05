@@ -4,7 +4,7 @@
         <description><![CDATA[Keep Grid Weird]]></description>
         <link>https://thegrid.ai/kgw/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 02 Jan 2016 07:29:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Jan 2016 15:33:13 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kgw/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[KGW Manifesto]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/kgw/kgw-manifesto/index.html</link>
             <guid isPermaLink="false">8f551792-6503-4c76-9d7f-4383b7607544</guid>
             <pubDate>Thu, 17 Dec 2015 15:02:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[strandbeest evolution]]></title>
+            <description><![CDATA[<article><h1>strandbeest evolution</h1><p>Numerous specimen of the Strandbeest evolution on music of Khachaturian's Spartacus. It open the archives of fossils. Theo Jansen's work since 1990. He tries to make new forms of live on beaches. His animals get their energy from the wind so they don't have to eat.</p></article>]]></description>
+            <link>https://www.youtube.com/watch?v=MYGJ9jrbpvg</link>
+            <guid isPermaLink="false">23b406bc-6bc7-46a3-9aba-1f4eeb59be6e</guid>
+            <pubDate>Tue, 05 Jan 2016 15:32:20 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.nasa.gov/image-feature/goddard/lro-earthrise-2015</link>
             <guid isPermaLink="false">a3d1e787-a34b-45ab-944d-53b781188f48</guid>
             <pubDate>Sun, 20 Dec 2015 20:37:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img alt="WIP- but mixed reality streaming is going to be nuuuuuuts&excl;" src="https://pbs.twimg.com/media/CWnYA1aU4AAM2rN.png:large">]]></description>
-            <link>https://twitter.com/ColinNorthway/status/678310728307097600</link>
-            <guid isPermaLink="false">7d7617a4-b3a4-419a-9ba0-8b8e5cf85091</guid>
-            <pubDate>Sun, 20 Dec 2015 14:42:59 GMT</pubDate>
         </item>
     </channel>
 </rss>
