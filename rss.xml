@@ -4,7 +4,7 @@
         <description><![CDATA[Keep Grid Weird]]></description>
         <link>https://thegrid.ai/kgw/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 05 Jan 2016 15:33:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Jan 2016 22:38:49 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kgw/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[KGW Manifesto]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/kgw/kgw-manifesto/index.html</link>
             <guid isPermaLink="false">8f551792-6503-4c76-9d7f-4383b7607544</guid>
             <pubDate>Thu, 17 Dec 2015 15:02:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[You Are Stardust]]></title>
+            <description><![CDATA[<article><h1>You Are Stardust</h1><p>From the water they drink to the trees they climb, kids are connected to the natural world in big and surprising ways. With simple, poetic text and exquisite artwork, You Are Stardust does more than introduce kids to these connections. It sparks their imagination. It starts conversations, and it delights all ages.</p><img src="http://www.youarestardust.ca/wp-content/themes/stardust/assets/images/book-cover.png"></article>]]></description>
+            <link>http://www.youarestardust.ca/</link>
+            <guid isPermaLink="false">ca305b61-6193-49f1-8e4f-3678928d8f76</guid>
+            <pubDate>Tue, 05 Jan 2016 22:38:32 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[strandbeest evolution]]></title>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1></h1><p></p><img src="http://imgur.com/OiM3Jop.gif"></article>]]></description>
             <link>http://i.imgur.com/OiM3Jop.gif</link>
             <guid isPermaLink="false">0f2338bb-64a0-46df-83be-8428fcc3b2c3</guid>
-            <pubDate>Sun, 20 Dec 2015 20:37:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[NASA Releases New High-Res Earthrise Image]]></title>
-            <description><![CDATA[<article><h1>NASA Releases New High-Res Earthrise Image</h1><p>NASA's Lunar Reconnaissance Orbiter captured a unique view of Earth from the spacecraft's vantage point in orbit around the moon.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6d086f869393477242c58b4a79d05a9744886edd.jpg"></article>]]></description>
-            <link>http://www.nasa.gov/image-feature/goddard/lro-earthrise-2015</link>
-            <guid isPermaLink="false">a3d1e787-a34b-45ab-944d-53b781188f48</guid>
             <pubDate>Sun, 20 Dec 2015 20:37:14 GMT</pubDate>
         </item>
     </channel>
