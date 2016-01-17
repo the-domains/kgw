@@ -4,7 +4,7 @@
         <description><![CDATA[Keep Grid Weird]]></description>
         <link>https://thegrid.ai/kgw/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 17 Jan 2016 15:50:19 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Jan 2016 15:50:21 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kgw/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[KGW Manifesto]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/kgw/kgw-manifesto/index.html</link>
             <guid isPermaLink="false">8f551792-6503-4c76-9d7f-4383b7607544</guid>
             <pubDate>Thu, 17 Dec 2015 15:02:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Optical Illusions Study I]]></title>
+            <description><![CDATA[<article><h1>Optical Illusions Study I</h1><p>This shot is a tribute to the game Monument Valley. This game is absolutely stunning! I decided to meddle in C4D to recreate optical illusions.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2ffc18d1b81eb36ff62f1e924d3d64ec8a4c919b.png"></article>]]></description>
+            <link>https://dribbble.com/shots/1775283-Optical-Illusions-Study-I</link>
+            <guid isPermaLink="false">9a348d2c-b219-493b-88d9-b4d4a3bba3cf</guid>
+            <pubDate>Sun, 17 Jan 2016 15:50:17 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>http://boingboing.net/2016/01/01/watch-stirring-call-for-netwo.html</link>
             <guid isPermaLink="false">17e6585b-4e93-4f38-86d7-16cf1f39229c</guid>
             <pubDate>Sat, 02 Jan 2016 05:49:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img alt="pic&period;twitter&period;com&sol;8pf7ymSqpY" src="https://pbs.twimg.com/media/CXk3sE1W8AAxtoA.jpg:large">]]></description>
-            <link>https://twitter.com/RealBobMortimer/status/682638049814147072</link>
-            <guid isPermaLink="false">6ee4e4ad-5b95-4a7f-bd92-fb76bf04e62d</guid>
-            <pubDate>Fri, 01 Jan 2016 15:29:57 GMT</pubDate>
         </item>
     </channel>
 </rss>
