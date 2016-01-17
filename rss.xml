@@ -4,7 +4,7 @@
         <description><![CDATA[Keep Grid Weird]]></description>
         <link>https://thegrid.ai/kgw/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 17 Jan 2016 17:38:55 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Jan 2016 17:40:10 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kgw/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[KGW Manifesto]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Thu, 17 Dec 2015 15:02:51 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[How cybernetics connects computing, counterculture, and design]]></title>
+            <description><![CDATA[<article><h1>How cybernetics connects computing, counterculture, and design</h1><p>Written by Hugh Dubberly and Paul Pangaro. Originally published by the Walker Art Center in the catalog for the exhibit Hippie Modernism: The Struggle for Utopia. "Man is always aiming to achieve some goal and he is always looking for new goals."</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3a2885fd0a30a65dc402315af8985f597ad7f1fd.png"></article>]]></description>
+            <link>http://www.dubberly.com/articles/cybernetics-and-counterculture.html</link>
+            <guid isPermaLink="false">669d2e3f-06c1-4c92-a86c-ef757fc6a858</guid>
+            <pubDate>Sun, 17 Jan 2016 17:39:58 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Keep your scythe, the real green future is high-tech, democratic, and radical]]></title>
-            <description><![CDATA[<article><h1>Keep your scythe, the real green future is high-tech, democratic, and radical</h1><p>"Radical ecology" has come to mean a kind of left-wing back-to-the-landism that throws off consumer culture and mass production for a pastoral low-tech lifestyle.</p><img src="http://i0.wp.com/media.boingboing.net/wp-content/uploads/2016/01/1654x2551sr1.jpg?w=970"></article>]]></description>
+            <description><![CDATA[<article><h1>Keep your scythe, the real green future is high-tech, democratic, and radical</h1><p>"Radical ecology" has come to mean a kind of left-wing back-to-the-landism that throws off consumer culture and mass production for a pastoral low-tech lifestyle.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b4d713ea8ceefbdcf8a2816e09dc088725db5891.jpg"></article>]]></description>
             <link>http://boingboing.net/2016/01/12/keep-your-scythe-the-real-gre.html#more-443210</link>
             <guid isPermaLink="false">b2bcf26d-139a-4f92-95fe-1c1a73501f9f</guid>
             <pubDate>Sun, 17 Jan 2016 17:38:44 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://www.youtube.com/watch?v=MYGJ9jrbpvg</link>
             <guid isPermaLink="false">23b406bc-6bc7-46a3-9aba-1f4eeb59be6e</guid>
             <pubDate>Tue, 05 Jan 2016 15:32:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img alt="When your parents decide they don&apos;t have the money to buy the pony you always wanted so buy you a mini satan instead" src="https://pbs.twimg.com/media/CXZ2wbEWYAEPE0l.jpg:large">]]></description>
-            <link>https://twitter.com/Medieval_Probs/status/681862972424228865</link>
-            <guid isPermaLink="false">d5129840-3c55-4f9a-86b2-4ed6b3d50f22</guid>
-            <pubDate>Sat, 02 Jan 2016 07:28:40 GMT</pubDate>
         </item>
     </channel>
 </rss>
