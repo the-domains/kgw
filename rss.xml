@@ -4,7 +4,7 @@
         <description><![CDATA[Keep Grid Weird]]></description>
         <link>https://thegrid.ai/kgw/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 18 Jan 2016 16:14:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Jan 2016 17:15:08 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kgw/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[KGW Manifesto]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Thu, 17 Dec 2015 15:02:51 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[netgrind: gems04 // colab series with @...]]></title>
+            <description><![CDATA[<article><h1>netgrind: gems04 // colab series with @...</h1><p>netgrind: gems04 // colab series with @connorbell</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5dfe12aa3a07ca4fe6b48b0f1babe222146eb0b8.gif"></article>]]></description>
+            <link>http://prostheticknowledge.tumblr.com/post/135976213251/netgrind-gems04-colab-series-with</link>
+            <guid isPermaLink="false">b5a3cbd9-bbce-416a-b498-6a195b0c346f</guid>
+            <pubDate>Thu, 21 Jan 2016 17:15:05 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Spherical video editing effects with Möbius transformations]]></title>
-            <description><![CDATA[<article><h1>Spherical video editing effects with Möbius transformations</h1><p>Imgur: The most awesome images on the Internet.</p></article>]]></description>
+            <description><![CDATA[<article><h1>Spherical video editing effects with Möbius transformations</h1><p>http://elevr.com/spherical-video-editing-effects-with-mobius-transformations/</p></article>]]></description>
             <link>http://imgur.com/r62YMD6</link>
             <guid isPermaLink="false">90d38624-baa8-4dc3-9395-27f6e057a94f</guid>
             <pubDate>Mon, 18 Jan 2016 16:13:21 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://twitter.com/waxpancake/status/685315054984544257</link>
             <guid isPermaLink="false">17d5d042-9329-46f7-b817-1e1a1671c555</guid>
             <pubDate>Fri, 08 Jan 2016 16:11:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[You Are Stardust]]></title>
-            <description><![CDATA[<article><h1>You Are Stardust</h1><p>From the water they drink to the trees they climb, kids are connected to the natural world in big and surprising ways. With simple, poetic text and exquisite artwork, You Are Stardust does more than introduce kids to these connections. It sparks their imagination. It starts conversations, and it delights all ages.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9b72f3a52358d1ad69de7d14a78f848095952907.png"></article>]]></description>
-            <link>http://www.youarestardust.ca/</link>
-            <guid isPermaLink="false">ca305b61-6193-49f1-8e4f-3678928d8f76</guid>
-            <pubDate>Tue, 05 Jan 2016 22:38:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
