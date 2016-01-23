@@ -4,7 +4,7 @@
         <description><![CDATA[Keep Grid Weird]]></description>
         <link>https://thegrid.ai/kgw/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 21 Jan 2016 17:15:08 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Jan 2016 14:43:43 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kgw/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[KGW Manifesto]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Thu, 17 Dec 2015 15:02:51 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img alt="Climbing plant peeling off the side of a building&period;&period;&period;" src="https://pbs.twimg.com/media/CZW-FzeWAAItsUQ.jpg:large">]]></description>
+            <link>https://twitter.com/Oddly_Satisfied/status/690667126189858817</link>
+            <guid isPermaLink="false">c4a04355-804d-4bcb-ac66-914bf6b378e7</guid>
+            <pubDate>Sat, 23 Jan 2016 14:42:57 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[netgrind: gems04 // colab series with @...]]></title>
-            <description><![CDATA[<article><h1>netgrind: gems04 // colab series with @...</h1><p>netgrind: gems04 // colab series with @connorbell</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5dfe12aa3a07ca4fe6b48b0f1babe222146eb0b8.gif"></article>]]></description>
+            <description><![CDATA[<article><h1>netgrind: gems04 // colab series with @...</h1><p>netgrind: gems04 // colab series with @connorbell</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/287ad06d2221bc8e8fb2faf913548507f06c6823.gif"></article>]]></description>
             <link>http://prostheticknowledge.tumblr.com/post/135976213251/netgrind-gems04-colab-series-with</link>
             <guid isPermaLink="false">b5a3cbd9-bbce-416a-b498-6a195b0c346f</guid>
             <pubDate>Thu, 21 Jan 2016 17:15:05 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://www.instagram.com/p/BAY-85SCpSn/</link>
             <guid isPermaLink="false">4a8dc3d4-9b3e-4ddf-a6fd-aea2c3c58f4c</guid>
             <pubDate>Mon, 11 Jan 2016 18:00:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img alt="You can put any YouTube ID in the URL&comma; or click &quot;Surf for it&quot; to find more&period; It&apos;s AMAZING http&colon;&sol;&sol;1080plus&period;com&sol;WaawXXqXExo&period;video &period;&period;&period;" src="https://pbs.twimg.com/media/CYK6aTaUMAE1dSC.jpg:large">]]></description>
-            <link>https://twitter.com/waxpancake/status/685315054984544257</link>
-            <guid isPermaLink="false">17d5d042-9329-46f7-b817-1e1a1671c555</guid>
-            <pubDate>Fri, 08 Jan 2016 16:11:49 GMT</pubDate>
         </item>
     </channel>
 </rss>
