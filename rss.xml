@@ -4,7 +4,7 @@
         <description><![CDATA[Keep Grid Weird]]></description>
         <link>https://thegrid.ai/kgw/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 23 Jan 2016 14:43:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Jan 2016 23:49:48 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kgw/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[KGW Manifesto]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/kgw/kgw-manifesto/index.html</link>
             <guid isPermaLink="false">8f551792-6503-4c76-9d7f-4383b7607544</guid>
             <pubDate>Thu, 17 Dec 2015 15:02:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Spherical DrosteProof of concept project...]]></title>
+            <description><![CDATA[<article><h1>Spherical DrosteProof of concept project...</h1><p>Spherical DrosteProof of concept project by Henry Segerman applies the Droste Effect to spherical 360 video, creating a recursive experience where the future and past loop in sequence:Henry discusses his research and methods for spherical 360 video editing at eleVR here</p><img src="http://49.media.tumblr.com/03e3c5d3d107cbcd8219bac0780cd333/tumblr_o1iw35OvpU1qav3uso1_540.gif"></article>]]></description>
+            <link>http://prostheticknowledge.tumblr.com/post/138035166206/spherical-droste-proof-of-concept-project-by-henry</link>
+            <guid isPermaLink="false">61b6944a-215e-499e-a686-fcaba1837819</guid>
+            <pubDate>Mon, 25 Jan 2016 23:49:46 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>https://vimeo.com/127320014</link>
             <guid isPermaLink="false">1f07108a-bdf7-4f82-af33-cf92b3ae45a3</guid>
             <pubDate>Sun, 17 Jan 2016 06:54:35 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[David Bowie, a massive legacy and inspiration to the world. You will be sadly missed but never forgotten. #davidbowie #bowie #memory #music #artist #legend]]></title>
-            <description><![CDATA[<article><h1>David Bowie, a massive legacy and inspiration to the world. You will be sadly missed but never forgotten. #davidbowie #bowie #memory #music #artist #legend</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6dfb25f03fb9d2cf5ff1cedd6ae4019fadc87bc3.jpg"></article>]]></description>
-            <link>https://www.instagram.com/p/BAY-85SCpSn/</link>
-            <guid isPermaLink="false">4a8dc3d4-9b3e-4ddf-a6fd-aea2c3c58f4c</guid>
-            <pubDate>Mon, 11 Jan 2016 18:00:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
