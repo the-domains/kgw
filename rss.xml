@@ -4,7 +4,7 @@
         <description><![CDATA[Keep Grid Weird]]></description>
         <link>https://thegrid.ai/kgw/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Jan 2016 23:50:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Jan 2016 20:34:46 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kgw/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[KGW Manifesto]]></title>
@@ -15,6 +15,13 @@
         </item>
         <item>
             <title><![CDATA[No title]]></title>
+            <description><![CDATA[<article><img src="http://i.imgur.com/TxDa4Gv.jpg?1"></article>]]></description>
+            <link>http://i.imgur.com/TxDa4Gv.jpg?1</link>
+            <guid isPermaLink="false">8087a191-dfc6-4d1b-816c-82554e116e99</guid>
+            <pubDate>Tue, 26 Jan 2016 20:33:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>don't bring politics into software unless it's about using collectivist rhetoric to describe donating labor to corporations then it's cool</p>]]></description>
             <link>https://twitter.com/coda/status/691396059554123776</link>
             <guid isPermaLink="false">687fdbd3-8e14-4369-894f-86c9ffa25264</guid>
@@ -22,7 +29,7 @@
         </item>
         <item>
             <title><![CDATA[Spherical DrosteProof of concept project...]]></title>
-            <description><![CDATA[<article><h1>Spherical DrosteProof of concept project...</h1><p>Spherical DrosteProof of concept project by Henry Segerman applies the Droste Effect to spherical 360 video, creating a recursive experience where the future and past loop in sequence:Henry discusses his research and methods for spherical 360 video editing at eleVR here</p><img src="http://49.media.tumblr.com/03e3c5d3d107cbcd8219bac0780cd333/tumblr_o1iw35OvpU1qav3uso1_540.gif"></article>]]></description>
+            <description><![CDATA[<article><h1>Spherical DrosteProof of concept project...</h1><p>Spherical DrosteProof of concept project by Henry Segerman applies the Droste Effect to spherical 360 video, creating a recursive experience where the future and past loop in sequence:Henry discusses his research and methods for spherical 360 video editing at eleVR here</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e40591c29a674aa5be2a9119d3fe33b51122d07d.gif"></article>]]></description>
             <link>http://prostheticknowledge.tumblr.com/post/138035166206/spherical-droste-proof-of-concept-project-by-henry</link>
             <guid isPermaLink="false">61b6944a-215e-499e-a686-fcaba1837819</guid>
             <pubDate>Mon, 25 Jan 2016 23:49:46 GMT</pubDate>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Optical Illusions Study I</h1><p>This shot is a tribute to the game Monument Valley. This game is absolutely stunning! I decided to meddle in C4D to recreate optical illusions.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b59b8c0c6d2b21d6b3dca49b4930784f939f2fe3.png"></article>]]></description>
             <link>https://dribbble.com/shots/1775283-Optical-Illusions-Study-I</link>
             <guid isPermaLink="false">9a348d2c-b219-493b-88d9-b4d4a3bba3cf</guid>
-            <pubDate>Sun, 17 Jan 2016 15:50:17 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img alt="This works alarmingly well as a universal New Yorker cartoon caption" src="https://pbs.twimg.com/media/CY0dDHRU0AAZ-vs.jpg:large">]]></description>
-            <link>https://twitter.com/mjg59/status/688238257935548416/photo/1?ref_src=twsrc%5Etfw</link>
-            <guid isPermaLink="false">5550e6ac-5ef5-4a74-b598-34d3880d6666</guid>
             <pubDate>Sun, 17 Jan 2016 15:50:17 GMT</pubDate>
         </item>
     </channel>
