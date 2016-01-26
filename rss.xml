@@ -4,7 +4,7 @@
         <description><![CDATA[Keep Grid Weird]]></description>
         <link>https://thegrid.ai/kgw/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 26 Jan 2016 20:34:46 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Jan 2016 22:36:41 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kgw/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[KGW Manifesto]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/kgw/kgw-manifesto/index.html</link>
             <guid isPermaLink="false">8f551792-6503-4c76-9d7f-4383b7607544</guid>
             <pubDate>Thu, 17 Dec 2015 15:02:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[10 styles, 100 characters]]></title>
+            <description><![CDATA[<article><h1>10 styles, 100 characters</h1><img src="http://www.malinen.info/100characters/10styles_100characters.jpg"></article>]]></description>
+            <link>http://www.malinen.info/100characters/</link>
+            <guid isPermaLink="false">4f0b6681-251a-4bf0-93b2-90430177c50b</guid>
+            <pubDate>Tue, 26 Jan 2016 22:35:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>http://boingboing.net/2016/01/12/keep-your-scythe-the-real-gre.html#more-443210</link>
             <guid isPermaLink="false">b2bcf26d-139a-4f92-95fe-1c1a73501f9f</guid>
             <pubDate>Sun, 17 Jan 2016 17:38:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Optical Illusions Study I]]></title>
-            <description><![CDATA[<article><h1>Optical Illusions Study I</h1><p>This shot is a tribute to the game Monument Valley. This game is absolutely stunning! I decided to meddle in C4D to recreate optical illusions.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b59b8c0c6d2b21d6b3dca49b4930784f939f2fe3.png"></article>]]></description>
-            <link>https://dribbble.com/shots/1775283-Optical-Illusions-Study-I</link>
-            <guid isPermaLink="false">9a348d2c-b219-493b-88d9-b4d4a3bba3cf</guid>
-            <pubDate>Sun, 17 Jan 2016 15:50:17 GMT</pubDate>
         </item>
     </channel>
 </rss>
