@@ -4,7 +4,7 @@
         <description><![CDATA[Keep Grid Weird]]></description>
         <link>https://thegrid.ai/kgw/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 27 Jan 2016 09:52:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Jan 2016 15:14:01 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kgw/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[KGW Manifesto]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/kgw/kgw-manifesto/index.html</link>
             <guid isPermaLink="false">8f551792-6503-4c76-9d7f-4383b7607544</guid>
             <pubDate>Thu, 17 Dec 2015 15:02:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[End notes from Karl Schroeder's "Degrees of Freedom"]]></title>
+            <description><![CDATA[<article><h1>End notes from Karl Schroeder's "Degrees of Freedom"</h1><p>Humanity’s biggest problem isn’t how to imagine or design solutions for our economic, environmental, and social woes; our problem is that we can’t agree to implement them. By 2013, for instance, international agreement on curbing greenhouse gas emissions was further away than ever, despite years of conferences, meetings, expert panels, and millions of dollars spent on studies. This issue—of how we decide important things in groups—is the “meta-problem”that trumps all other issues. If we solve it, our other crises become manageable. If we don’t solve it, it doesn’t matter how many fixes we come up with. If we can’t get them implemented, we might as well not have wasted our time. </p></article>]]></description>
+            <link>https://thegrid.ai/kgw/end-notes-from-karl-schroeders-degrees-of-freedom/index.html</link>
+            <guid isPermaLink="false">7a1c333b-793e-46e2-ba61-7903d90f968a</guid>
+            <pubDate>Wed, 27 Jan 2016 15:13:44 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>https://twitter.com/Oddly_Satisfied/status/690667126189858817</link>
             <guid isPermaLink="false">c4a04355-804d-4bcb-ac66-914bf6b378e7</guid>
             <pubDate>Sat, 23 Jan 2016 14:42:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[netgrind: gems04 // colab series with @...]]></title>
-            <description><![CDATA[<article><h1>netgrind: gems04 // colab series with @...</h1><p>netgrind: gems04 // colab series with @connorbell</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/287ad06d2221bc8e8fb2faf913548507f06c6823.gif"></article>]]></description>
-            <link>http://prostheticknowledge.tumblr.com/post/135976213251/netgrind-gems04-colab-series-with</link>
-            <guid isPermaLink="false">b5a3cbd9-bbce-416a-b498-6a195b0c346f</guid>
-            <pubDate>Thu, 21 Jan 2016 17:15:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
