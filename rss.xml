@@ -4,7 +4,7 @@
         <description><![CDATA[Keep Grid Weird]]></description>
         <link>https://thegrid.ai/kgw/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 27 Jan 2016 09:52:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Jan 2016 09:52:44 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kgw/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[KGW Manifesto]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/kgw/kgw-manifesto/index.html</link>
             <guid isPermaLink="false">8f551792-6503-4c76-9d7f-4383b7607544</guid>
             <pubDate>Thu, 17 Dec 2015 15:02:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img alt="Look what I just found on the last page of Codex Arundel&excl; This one was clearly drawn by the master himself&period; &num;DaVinci" src="https://pbs.twimg.com/media/CZsMaaWWYAAZmWO.png:large">]]></description>
+            <link>https://twitter.com/bitcraftlab/status/692160635833077760</link>
+            <guid isPermaLink="false">96cf5440-3845-4aa9-89bc-84f1be2c4726</guid>
+            <pubDate>Wed, 27 Jan 2016 09:52:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>http://imgur.com/r62YMD6</link>
             <guid isPermaLink="false">90d38624-baa8-4dc3-9395-27f6e057a94f</guid>
             <pubDate>Mon, 18 Jan 2016 16:13:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[How cybernetics connects computing, counterculture, and design]]></title>
-            <description><![CDATA[<article><h1>How cybernetics connects computing, counterculture, and design</h1><p>Written by Hugh Dubberly and Paul Pangaro. Originally published by the Walker Art Center in the catalog for the exhibit Hippie Modernism: The Struggle for Utopia. "Man is always aiming to achieve some goal and he is always looking for new goals."</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/95687303aba3aa808fd7733cfd80014aba58fb5e.png"></article>]]></description>
-            <link>http://www.dubberly.com/articles/cybernetics-and-counterculture.html</link>
-            <guid isPermaLink="false">669d2e3f-06c1-4c92-a86c-ef757fc6a858</guid>
-            <pubDate>Sun, 17 Jan 2016 17:39:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
