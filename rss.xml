@@ -4,7 +4,7 @@
         <description><![CDATA[Keep Grid Weird]]></description>
         <link>https://thegrid.ai/kgw/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 29 Jan 2016 04:55:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Jan 2016 19:02:58 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kgw/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[KGW Manifesto]]></title>
@@ -14,8 +14,22 @@
             <pubDate>Thu, 17 Dec 2015 15:02:51 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Can we hack the poor by giving them money? Or will they just waste it, like startups do? Y Combinator investigates: https://blog.ycombinator.com/basic-income</p>]]></description>
+            <link>https://twitter.com/Pinboard/status/692481935071920128</link>
+            <guid isPermaLink="false">b070bb7d-1beb-4c83-b940-971fb1542c07</guid>
+            <pubDate>Fri, 29 Jan 2016 19:02:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Soar over the mountains and craters of #Ceres with new images from NASA's #Dawn mission. Watch full video: https://youtu.be/nJiw2NxqoBU]]></title>
+            <description><![CDATA[<article><h1>Soar over the mountains and craters of #Ceres with new images from NASA's #Dawn mission. Watch full video: https://youtu.be/nJiw2NxqoBU</h1><p>Watch NASA JPL's Vine "Soar over the mountains and craters of #Ceres with new images from NASA's #Dawn mission. Watch full video: https://youtu.be/nJiw2NxqoBU" taken on 29 January 2016. It has 0 likes. The entertainment network where videos and personalities get really big, really fast. Download Vine to watch videos, remixes and trends before they blow up.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ee8d0840805ca1d608db23399e102201951ae46b.jpg"></article>]]></description>
+            <link>https://vine.co/v/i5OLvFUHDuY</link>
+            <guid isPermaLink="false">9b952491-84ff-4d49-baa0-97f800942892</guid>
+            <pubDate>Fri, 29 Jan 2016 14:19:26 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Scientists find evidence of mathematical structures in classic books]]></title>
-            <description><![CDATA[<article><h1>Scientists find evidence of mathematical structures in classic books</h1><p>James Joyce's Finnegans Wake has been described as many things, from a masterpiece to unreadable nonsense. But it is also, according to scientists at the Institute of Nuclear Physics in Poland, almost indistinguishable in its structure from a purely mathematical multifractal.</p><img src="https://i.guim.co.uk/img/media/d6de2f3d405988b083ae397c7bf1e6fed870e973/0_17_1993_1197/master/1993.jpg?w=1200&q=85&auto=format&sharp=10&s=2a1a8a22a9327eac5ed756da91067331"></article>]]></description>
+            <description><![CDATA[<article><h1>Scientists find evidence of mathematical structures in classic books</h1><p>James Joyce's Finnegans Wake has been described as many things, from a masterpiece to unreadable nonsense. But it is also, according to scientists at the Institute of Nuclear Physics in Poland, almost indistinguishable in its structure from a purely mathematical multifractal.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/84d1367f01ac5c9e09ec50e1b0026db47998fb52.jpg"></article>]]></description>
             <link>http://www.theguardian.com/books/2016/jan/27/scientists-reveal-multifractal-structure-of-finnegans-wake-james-joyce</link>
             <guid isPermaLink="false">6cd75ed8-0389-45ea-8215-e935a98620e9</guid>
             <pubDate>Fri, 29 Jan 2016 04:55:16 GMT</pubDate>
@@ -61,20 +75,6 @@
             <link>http://www.malinen.info/100characters/</link>
             <guid isPermaLink="false">4f0b6681-251a-4bf0-93b2-90430177c50b</guid>
             <pubDate>Tue, 26 Jan 2016 22:35:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<article><img src="http://i.imgur.com/TxDa4Gv.jpg?1"></article>]]></description>
-            <link>http://i.imgur.com/TxDa4Gv.jpg?1</link>
-            <guid isPermaLink="false">8087a191-dfc6-4d1b-816c-82554e116e99</guid>
-            <pubDate>Tue, 26 Jan 2016 20:33:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>don't bring politics into software unless it's about using collectivist rhetoric to describe donating labor to corporations then it's cool</p>]]></description>
-            <link>https://twitter.com/coda/status/691396059554123776</link>
-            <guid isPermaLink="false">687fdbd3-8e14-4369-894f-86c9ffa25264</guid>
-            <pubDate>Mon, 25 Jan 2016 23:49:56 GMT</pubDate>
         </item>
     </channel>
 </rss>
