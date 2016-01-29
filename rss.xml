@@ -4,7 +4,7 @@
         <description><![CDATA[Keep Grid Weird]]></description>
         <link>https://thegrid.ai/kgw/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 27 Jan 2016 15:14:01 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Jan 2016 02:33:16 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kgw/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[KGW Manifesto]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/kgw/kgw-manifesto/index.html</link>
             <guid isPermaLink="false">8f551792-6503-4c76-9d7f-4383b7607544</guid>
             <pubDate>Thu, 17 Dec 2015 15:02:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Dreams of Dalí, a new VR experience, takes you inside a surrealist desertscape dreamland.]]></title>
+            <description><![CDATA[<article><h1>Dreams of Dalí, a new VR experience, takes you inside a surrealist desertscape dreamland.</h1><p>When you first parachute into the virtual reality landscape of Dreams of Dalí, you find yourself in a vast desert, staring up at two impossibly tall statues-an amorphous man and woman, heads bowed in prayer.</p><img src="http://www.wired.com/wp-content/uploads/2016/01/Dali-1200x630-e1453848899626.jpg"></article>]]></description>
+            <link>http://www.wired.com/2016/01/oculus-rift-takes-you-inside-the-wild-mind-of-salvador-dali/</link>
+            <guid isPermaLink="false">1bce9ed9-c265-49b1-b5c6-3ff123d9f9ce</guid>
+            <pubDate>Fri, 29 Jan 2016 02:31:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[End notes from Karl Schroeder's "Degrees of Freedom"]]></title>
@@ -68,13 +75,6 @@
             <link>http://prostheticknowledge.tumblr.com/post/138035166206/spherical-droste-proof-of-concept-project-by-henry</link>
             <guid isPermaLink="false">61b6944a-215e-499e-a686-fcaba1837819</guid>
             <pubDate>Mon, 25 Jan 2016 23:49:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img alt="Climbing plant peeling off the side of a building&period;&period;&period;" src="https://pbs.twimg.com/media/CZW-FzeWAAItsUQ.jpg:large">]]></description>
-            <link>https://twitter.com/Oddly_Satisfied/status/690667126189858817</link>
-            <guid isPermaLink="false">c4a04355-804d-4bcb-ac66-914bf6b378e7</guid>
-            <pubDate>Sat, 23 Jan 2016 14:42:57 GMT</pubDate>
         </item>
     </channel>
 </rss>
