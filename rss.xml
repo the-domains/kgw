@@ -4,7 +4,7 @@
         <description><![CDATA[Keep Grid Weird]]></description>
         <link>https://thegrid.ai/kgw/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 03 Feb 2016 04:51:16 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Feb 2016 20:43:45 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kgw/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[KGW Manifesto]]></title>
@@ -14,8 +14,22 @@
             <pubDate>Thu, 17 Dec 2015 15:02:51 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://frameofmind.be/images/causeandeffect.gif">]]></description>
+            <link>https://thegrid.ai/kgw/5eeb94ce-9d6b-487b-9d20-49ae1e861e6a/index.html</link>
+            <guid isPermaLink="false">5eeb94ce-9d6b-487b-9d20-49ae1e861e6a</guid>
+            <pubDate>Wed, 03 Feb 2016 20:42:38 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>"The fact that revolutions smash their own rebellions is a reminder that the realities of power never go away" http://thebreakingtime.typepad.com/the_breaking_time/2013/03/when-revolutions-crush-rebellions.html#more ...</p>]]></description>
+            <link>https://twitter.com/marijnjh/status/692663023757062144</link>
+            <guid isPermaLink="false">fa917fbe-df04-48a2-b495-aefd3b490109</guid>
+            <pubDate>Wed, 03 Feb 2016 20:42:38 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Take On Me by A-ha w/ Maple 😋🐶]]></title>
-            <description><![CDATA[<article><h1>Take On Me by A-ha w/ Maple 😋🐶</h1><p>Watch Trench's Vine "Take On Me by A-ha w/ Maple 😋🐶" taken on 23 January 2016. It has 28670 likes. The entertainment network where videos and personalities get really big, really fast. Download Vine to watch videos, remixes and trends before they blow up.</p></article>]]></description>
+            <description><![CDATA[<article><h1>Take On Me by A-ha w/ Maple 😋🐶</h1><p>Watch Trench's Vine "Take On Me by A-ha w/ Maple 😋🐶" taken on 23 January 2016. It has 28670 likes. The entertainment network where videos and personalities get really big, really fast. Download Vine to watch videos, remixes and trends before they blow up.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d89ee23c0457ae1a283f7be231711952b51ca8b1.jpg"></article>]]></description>
             <link>https://vine.co/v/iel2H2dmtAA</link>
             <guid isPermaLink="false">e6293d82-5f04-46e9-bf09-9fd347bdca95</guid>
             <pubDate>Wed, 03 Feb 2016 04:49:45 GMT</pubDate>
@@ -61,20 +75,6 @@
             <link>http://www.theguardian.com/books/2016/jan/27/scientists-reveal-multifractal-structure-of-finnegans-wake-james-joyce</link>
             <guid isPermaLink="false">6cd75ed8-0389-45ea-8215-e935a98620e9</guid>
             <pubDate>Fri, 29 Jan 2016 04:55:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Dreams of Dalí, a new VR experience, takes you inside a surrealist desertscape dreamland.]]></title>
-            <description><![CDATA[<article><h1>Dreams of Dalí, a new VR experience, takes you inside a surrealist desertscape dreamland.</h1><p>When you first parachute into the virtual reality landscape of Dreams of Dalí, you find yourself in a vast desert, staring up at two impossibly tall statues-an amorphous man and woman, heads bowed in prayer.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1397f274ed90261a823057109a39c19c7bbd2f33.jpg"></article>]]></description>
-            <link>http://www.wired.com/2016/01/oculus-rift-takes-you-inside-the-wild-mind-of-salvador-dali/</link>
-            <guid isPermaLink="false">1bce9ed9-c265-49b1-b5c6-3ff123d9f9ce</guid>
-            <pubDate>Fri, 29 Jan 2016 02:31:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[End notes from Karl Schroeder's "Degrees of Freedom"]]></title>
-            <description><![CDATA[<article><h1>End notes from Karl Schroeder's "Degrees of Freedom"</h1><p>Humanity’s biggest problem isn’t how to imagine or design solutions for our economic, environmental, and social woes; our problem is that we can’t agree to implement them. By 2013, for instance, international agreement on curbing greenhouse gas emissions was further away than ever, despite years of conferences, meetings, expert panels, and millions of dollars spent on studies. This issue—of how we decide important things in groups—is the “meta-problem”that trumps all other issues. If we solve it, our other crises become manageable. If we don’t solve it, it doesn’t matter how many fixes we come up with. If we can’t get them implemented, we might as well not have wasted our time. </p></article>]]></description>
-            <link>https://thegrid.ai/kgw/end-notes-from-karl-schroeders-degrees-of-freedom/index.html</link>
-            <guid isPermaLink="false">7a1c333b-793e-46e2-ba61-7903d90f968a</guid>
-            <pubDate>Wed, 27 Jan 2016 15:13:44 GMT</pubDate>
         </item>
     </channel>
 </rss>
