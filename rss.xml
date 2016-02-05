@@ -4,7 +4,7 @@
         <description><![CDATA[Keep Grid Weird]]></description>
         <link>https://thegrid.ai/kgw/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 05 Feb 2016 04:47:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Feb 2016 04:46:49 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kgw/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[KGW Manifesto]]></title>
@@ -12,13 +12,6 @@
             <link>https://thegrid.ai/kgw/kgw-manifesto/index.html</link>
             <guid isPermaLink="false">8f551792-6503-4c76-9d7f-4383b7607544</guid>
             <pubDate>Thu, 17 Dec 2015 15:02:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img alt="Testing iPhone7" src="https://pbs.twimg.com/media/Caa4d2qUUAInFPY.jpg:large">]]></description>
-            <link>https://twitter.com/narrowd/status/695446022487564290</link>
-            <guid isPermaLink="false">ecfa4f5a-03b4-4ecd-84cb-0b44e6ce76d6</guid>
-            <pubDate>Fri, 05 Feb 2016 04:45:57 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -75,6 +68,13 @@
             <link>https://twitter.com/Pinboard/status/692481935071920128</link>
             <guid isPermaLink="false">b070bb7d-1beb-4c83-b940-971fb1542c07</guid>
             <pubDate>Fri, 29 Jan 2016 19:02:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Soar over the mountains and craters of #Ceres with new images from NASA's #Dawn mission. Watch full video: https://youtu.be/nJiw2NxqoBU]]></title>
+            <description><![CDATA[<article><h1>Soar over the mountains and craters of #Ceres with new images from NASA's #Dawn mission. Watch full video: https://youtu.be/nJiw2NxqoBU</h1><p>Watch NASA JPL's Vine "Soar over the mountains and craters of #Ceres with new images from NASA's #Dawn mission. Watch full video: https://youtu.be/nJiw2NxqoBU" taken on 29 January 2016. It has 0 likes. The entertainment network where videos and personalities get really big, really fast. Download Vine to watch videos, remixes and trends before they blow up.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ee8d0840805ca1d608db23399e102201951ae46b.jpg"></article>]]></description>
+            <link>https://vine.co/v/i5OLvFUHDuY</link>
+            <guid isPermaLink="false">9b952491-84ff-4d49-baa0-97f800942892</guid>
+            <pubDate>Fri, 29 Jan 2016 14:19:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
