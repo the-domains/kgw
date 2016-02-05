@@ -4,7 +4,7 @@
         <description><![CDATA[Keep Grid Weird]]></description>
         <link>https://thegrid.ai/kgw/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 05 Feb 2016 04:48:16 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Feb 2016 04:47:31 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kgw/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[KGW Manifesto]]></title>
@@ -12,17 +12,6 @@
             <link>https://thegrid.ai/kgw/kgw-manifesto/index.html</link>
             <guid isPermaLink="false">8f551792-6503-4c76-9d7f-4383b7607544</guid>
             <pubDate>Thu, 17 Dec 2015 15:02:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[GitHub is apparently in crisis again | Hacker News]]></title>
-            <description><![CDATA[<article><h1>GitHub is apparently in crisis again | Hacker News</h1><p>All this gets back to a bigger trend we see these days: closed platforms are like governments (google, apple, github, twitter). We don't allow (sane, first-world) governments to exist without citizen representation. We must demand user-level representation in corporations running global scale closed platforms everybody relies on. Community powered social platforms don't exist without the community, and private corporations exercising extended "we don't give a crap about the users even though we have millions (or hundreds of millions) of them" patterns must be... corrected.
-
-No Computation Without Representation.
-
-</p></article>]]></description>
-            <link>https://news.ycombinator.com/item?id=11038281</link>
-            <guid isPermaLink="false">885584ec-f30e-4e25-adc9-efe032a50a8a</guid>
-            <pubDate>Fri, 05 Feb 2016 04:45:57 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -79,6 +68,13 @@ No Computation Without Representation.
             <link>https://twitter.com/SarowidPalinUSA/status/692456519024058368</link>
             <guid isPermaLink="false">c35cbf73-fced-4277-8e64-4397a7d0e276</guid>
             <pubDate>Sun, 31 Jan 2016 13:08:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Can we hack the poor by giving them money? Or will they just waste it, like startups do? Y Combinator investigates: https://blog.ycombinator.com/basic-income</p>]]></description>
+            <link>https://twitter.com/Pinboard/status/692481935071920128</link>
+            <guid isPermaLink="false">b070bb7d-1beb-4c83-b940-971fb1542c07</guid>
+            <pubDate>Fri, 29 Jan 2016 19:02:19 GMT</pubDate>
         </item>
     </channel>
 </rss>
