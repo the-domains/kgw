@@ -4,7 +4,7 @@
         <description><![CDATA[Keep Grid Weird]]></description>
         <link>https://thegrid.ai/kgw/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 06 Feb 2016 15:20:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Feb 2016 00:51:01 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kgw/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[KGW Manifesto]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/kgw/kgw-manifesto/index.html</link>
             <guid isPermaLink="false">8f551792-6503-4c76-9d7f-4383b7607544</guid>
             <pubDate>Thu, 17 Dec 2015 15:02:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[A Declaration of the Independence of Cyberspace by John Perry Barlow.]]></title>
+            <description><![CDATA[<article><h1>A Declaration of the Independence of Cyberspace by John Perry Barlow.</h1><p>Recording of John Perry Barlow reading his "A Declaration of the Independence of Cyberspace" produced by Q Department for Department of Records. Video by IDEALOGUE.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cf36b820699b12fa77d1dfee777a5b39191f623b.jpg"></article>]]></description>
+            <link>https://vimeo.com/111576518</link>
+            <guid isPermaLink="false">5d668d26-6e19-4752-8c9a-9e9701b36b53</guid>
+            <pubDate>Tue, 09 Feb 2016 00:49:22 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -71,13 +78,6 @@ No Computation Without Representation.
             <description><![CDATA[<article><h1>African Masks Warp in These Hand-Drawn GIFs | The Creators Project</h1><p>Images courtesy the artist A series of hand-drawn African masks by Brooklyn artist Matthias Brown, a.k.a., Traceloops transforms in a series of seamless GIFs as addicting to watch as the Domino's Pizza Tracker in winter (read: very addicting).</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8e43c7226423da8fc5d0fbd1d858bcbe330d5332.jpg"></article>]]></description>
             <link>http://thecreatorsproject.vice.com/blog/hand-drawn-african-mask-gif-art</link>
             <guid isPermaLink="false">ef9156d2-72c3-4a24-8062-87220a50e7b6</guid>
-            <pubDate>Mon, 01 Feb 2016 03:31:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Why a bunch of Silicon Valley investors are suddenly interested in universal basic income]]></title>
-            <description><![CDATA[<article><h1>Why a bunch of Silicon Valley investors are suddenly interested in universal basic income</h1><p>Basic income is having a moment. First Finland announced it would launch an ambitious experiment to see if it would work to give everyone in a given area is given a set amount of cash every year from the government, no strings attached.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/19ae56b358f5077cbcd728b8199754d9b82c7a58.jpg"></article>]]></description>
-            <link>http://www.vox.com/2016/1/28/10860830/y-combinator-basic-income</link>
-            <guid isPermaLink="false">657553f3-552b-4018-918f-e956bd1a3074</guid>
             <pubDate>Mon, 01 Feb 2016 03:31:05 GMT</pubDate>
         </item>
     </channel>
