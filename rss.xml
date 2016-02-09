@@ -4,7 +4,7 @@
         <description><![CDATA[Keep Grid Weird]]></description>
         <link>https://thegrid.ai/kgw/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 09 Feb 2016 00:51:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Feb 2016 00:51:06 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kgw/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[KGW Manifesto]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/kgw/kgw-manifesto/index.html</link>
             <guid isPermaLink="false">8f551792-6503-4c76-9d7f-4383b7607544</guid>
             <pubDate>Thu, 17 Dec 2015 15:02:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[My LA Food Diary]]></title>
+            <description><![CDATA[<article><h1>My LA Food Diary</h1><p>Between my hectic job and nourishing social life, it's not always easy to find the time to make mealtime "me"-time. It's hard running an empire without being expected to make dinner! This ain't no disco, and it ain't no country club, either: this is America's glistening food megalopolis.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/00724969e6b48642afde94c1aa655e2881ec4ac0.png"></article>]]></description>
+            <link>https://thegrid.ai/kgw/my-la-food-diary/index.html</link>
+            <guid isPermaLink="false">4ac34d0a-661c-4e9e-b3fe-01bc0a9f1abc</guid>
+            <pubDate>Tue, 09 Feb 2016 00:50:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[A Declaration of the Independence of Cyberspace by John Perry Barlow.]]></title>
@@ -72,13 +79,6 @@ No Computation Without Representation.
             <link>https://vine.co/v/iel2H2dmtAA</link>
             <guid isPermaLink="false">e6293d82-5f04-46e9-bf09-9fd347bdca95</guid>
             <pubDate>Wed, 03 Feb 2016 04:49:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[African Masks Warp in These Hand-Drawn GIFs | The Creators Project]]></title>
-            <description><![CDATA[<article><h1>African Masks Warp in These Hand-Drawn GIFs | The Creators Project</h1><p>Images courtesy the artist A series of hand-drawn African masks by Brooklyn artist Matthias Brown, a.k.a., Traceloops transforms in a series of seamless GIFs as addicting to watch as the Domino's Pizza Tracker in winter (read: very addicting).</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8e43c7226423da8fc5d0fbd1d858bcbe330d5332.jpg"></article>]]></description>
-            <link>http://thecreatorsproject.vice.com/blog/hand-drawn-african-mask-gif-art</link>
-            <guid isPermaLink="false">ef9156d2-72c3-4a24-8062-87220a50e7b6</guid>
-            <pubDate>Mon, 01 Feb 2016 03:31:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
