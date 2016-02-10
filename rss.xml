@@ -4,7 +4,7 @@
         <description><![CDATA[Keep Grid Weird]]></description>
         <link>https://thegrid.ai/kgw/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 09 Feb 2016 00:51:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Feb 2016 17:50:24 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kgw/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[KGW Manifesto]]></title>
@@ -12,6 +12,20 @@
             <link>https://thegrid.ai/kgw/kgw-manifesto/index.html</link>
             <guid isPermaLink="false">8f551792-6503-4c76-9d7f-4383b7607544</guid>
             <pubDate>Thu, 17 Dec 2015 15:02:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Watson for President 2016]]></title>
+            <description><![CDATA[<article><h1>Watson for President 2016</h1><p>Political decision making is not simply a bullet list of separate issues but rather a complex interconnected network of systems, all of which affect each other. Watson's capabilities for parallel processing on a given query allow it to evaluate concerns on a variety of metrics, gauging the most beneficial response across all areas.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6d1aec9747514bc1374cf14838432b8bf8de5363.jpg"></article>]]></description>
+            <link>http://watson2016.com/</link>
+            <guid isPermaLink="false">f6689c4f-405f-4cb3-904c-64be7bc80636</guid>
+            <pubDate>Wed, 10 Feb 2016 17:50:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Electronic Superhighway (2016-1966) - Whitechapel Gallery]]></title>
+            <description><![CDATA[<article><h1>Electronic Superhighway (2016-1966) - Whitechapel Gallery</h1><p>Rafael Lozano-Hemmer, Surface Tension (1992) Courtesy the artist and Carroll/Fletcher, London. Installation photograph by Maxime Dufour © Rafael Lozano-Hemmer Nam June Paik, Internet Dream (1994), video sculpture, 287 x 380 x 80 cm. ZKM | Collection © (2008) ZKM | Center for Art and Media Karlsruhe, Photo: Steffen Harms Addie Wagenknecht, Asymmetric Love (2013) Courtesy bitforms gallery, New York.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1121b5719feb7c70a5ae02f3c47038e22a3e244e.jpg"></article>]]></description>
+            <link>http://www.whitechapelgallery.org/exhibitions/electronicsuperhighway/</link>
+            <guid isPermaLink="false">f172ee9b-1200-4860-ae6e-c624240f2ea1</guid>
+            <pubDate>Tue, 09 Feb 2016 00:50:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[A usb plug from Japan that's a humping dog]]></title>
@@ -22,7 +36,7 @@
         </item>
         <item>
             <title><![CDATA[My LA Food Diary]]></title>
-            <description><![CDATA[<article><h1>My LA Food Diary</h1><p>Between my hectic job and nourishing social life, it's not always easy to find the time to make mealtime "me"-time. It's hard running an empire without being expected to make dinner! This ain't no disco, and it ain't no country club, either: this is America's glistening food megalopolis.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/00724969e6b48642afde94c1aa655e2881ec4ac0.png"></article>]]></description>
+            <description><![CDATA[<article><h1>My LA Food Diary</h1><p>Between my hectic job and nourishing social life, it's not always easy to find the time to make mealtime "me"-time. It's hard running an empire without being expected to make dinner! This ain't no disco, and it ain't no country club, either: this is America's glistening food megalopolis.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a7942b918db50f95b055eaaa21e22c3b12d2604e.png"></article>]]></description>
             <link>https://thegrid.ai/kgw/my-la-food-diary/index.html</link>
             <guid isPermaLink="false">4ac34d0a-661c-4e9e-b3fe-01bc0a9f1abc</guid>
             <pubDate>Tue, 09 Feb 2016 00:50:01 GMT</pubDate>
@@ -65,20 +79,6 @@ No Computation Without Representation.
             <link>https://twitter.com/ianbremmer/status/695249304143974402</link>
             <guid isPermaLink="false">27a6bb66-363d-4019-b401-f9a82b1c2a33</guid>
             <pubDate>Fri, 05 Feb 2016 04:45:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="http://frameofmind.be/images/causeandeffect.gif">]]></description>
-            <link>https://thegrid.ai/kgw/5eeb94ce-9d6b-487b-9d20-49ae1e861e6a/index.html</link>
-            <guid isPermaLink="false">5eeb94ce-9d6b-487b-9d20-49ae1e861e6a</guid>
-            <pubDate>Wed, 03 Feb 2016 20:42:38 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>"The fact that revolutions smash their own rebellions is a reminder that the realities of power never go away" http://thebreakingtime.typepad.com/the_breaking_time/2013/03/when-revolutions-crush-rebellions.html#more ...</p>]]></description>
-            <link>https://twitter.com/marijnjh/status/692663023757062144</link>
-            <guid isPermaLink="false">fa917fbe-df04-48a2-b495-aefd3b490109</guid>
-            <pubDate>Wed, 03 Feb 2016 20:42:38 GMT</pubDate>
         </item>
     </channel>
 </rss>
