@@ -4,7 +4,7 @@
         <description><![CDATA[Keep Grid Weird]]></description>
         <link>https://thegrid.ai/kgw/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 11 Feb 2016 01:08:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Feb 2016 04:22:59 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kgw/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[KGW Manifesto]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Thu, 17 Dec 2015 15:02:51 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[ICKERMAN - OFFICIAL TEASER]]></title>
+            <description><![CDATA[<article><h1>ICKERMAN - OFFICIAL TEASER</h1><p>SYNOPSIS "Taking place in a futuristic megalopolis where new technologies and virtual reality are ruling society, Ickerman follows the adventures of a nostalgic high school teacher obsessed with 35 mm films and old cars.</p></article>]]></description>
+            <link>https://vimeo.com/152222436</link>
+            <guid isPermaLink="false">6e8dfb27-a60c-4e52-be3a-a8207c7cb2ee</guid>
+            <pubDate>Thu, 11 Feb 2016 04:19:36 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[DOORSInstallation by Theoriz is a doorwa...]]></title>
-            <description><![CDATA[<article><h1>DOORSInstallation by Theoriz is a doorwa...</h1><p>DOORSInstallation by Theoriz is a doorway that leads to virtual perceptions, utilizating head tracking to provide convincing perspective to participating observer:&ldquo;If the doors of perception were cleansed, everything would appear to man as it is, infinite.&rdquo; - William BlakeDoors is an ongoing research work from our R&amp;D department.Between reality and virtuality, we are playing with the feeling of perception and infinite space.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d14d42b0c4d3c6fd7d38b8d86deb1bf68dd9f72c.gif"></article>]]></description>
+            <description><![CDATA[<article><h1>DOORSInstallation by Theoriz is a doorwa...</h1><p>DOORSInstallation by Theoriz is a doorway that leads to virtual perceptions, utilizating head tracking to provide convincing perspective to participating observer:&ldquo;If the doors of perception were cleansed, everything would appear to man as it is, infinite.&rdquo; - William BlakeDoors is an ongoing research work from our R&amp;D department.Between reality and virtuality, we are playing with the feeling of perception and infinite space.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a0887f7a0ed2b6c1d826378225b1724bc0416eb1.gif"></article>]]></description>
             <link>http://prostheticknowledge.tumblr.com/post/138816432351/doors-installation-by-theoriz-is-a-doorway-that</link>
             <guid isPermaLink="false">1ad63ec1-5afd-4cc8-ae9e-5cd6bff9cfc0</guid>
             <pubDate>Thu, 11 Feb 2016 01:07:26 GMT</pubDate>
@@ -71,13 +78,6 @@ No Computation Without Representation.
 </p></article>]]></description>
             <link>https://news.ycombinator.com/item?id=11038281</link>
             <guid isPermaLink="false">885584ec-f30e-4e25-adc9-efe032a50a8a</guid>
-            <pubDate>Fri, 05 Feb 2016 04:45:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img alt="Testing iPhone7" src="https://pbs.twimg.com/media/Caa4d2qUUAInFPY.jpg:large">]]></description>
-            <link>https://twitter.com/narrowd/status/695446022487564290</link>
-            <guid isPermaLink="false">ecfa4f5a-03b4-4ecd-84cb-0b44e6ce76d6</guid>
             <pubDate>Fri, 05 Feb 2016 04:45:57 GMT</pubDate>
         </item>
     </channel>
