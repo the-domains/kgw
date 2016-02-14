@@ -4,7 +4,7 @@
         <description><![CDATA[Keep Grid Weird]]></description>
         <link>https://thegrid.ai/kgw/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 14 Feb 2016 19:14:36 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Feb 2016 19:14:47 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kgw/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[KGW Manifesto]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/kgw/kgw-manifesto/index.html</link>
             <guid isPermaLink="false">8f551792-6503-4c76-9d7f-4383b7607544</guid>
             <pubDate>Thu, 17 Dec 2015 15:02:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img alt="Hajime Sorayama&apos;s sexy cyborg pin-ups do Vegas at the &commat;sincitygallery http&colon;&sol;&sol;bit&period;ly&sol;1QcdyPE" src="https://pbs.twimg.com/media/CbC4c95WEAA_B99.jpg:large">]]></description>
+            <link>https://twitter.com/CreatorsProject/status/698491949972529152</link>
+            <guid isPermaLink="false">e8cdb8e9-fcd5-493e-99f4-066b272a5e6e</guid>
+            <pubDate>Sun, 14 Feb 2016 19:13:31 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[All done and ready for the show tomorrow! #cottonmill #triad #oilonpanel #galentinesday #lostatsea]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/kgw/my-la-food-diary/index.html</link>
             <guid isPermaLink="false">4ac34d0a-661c-4e9e-b3fe-01bc0a9f1abc</guid>
             <pubDate>Tue, 09 Feb 2016 00:50:01 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A Declaration of the Independence of Cyberspace by John Perry Barlow.]]></title>
-            <description><![CDATA[<article><h1>A Declaration of the Independence of Cyberspace by John Perry Barlow.</h1><p>Recording of John Perry Barlow reading his "A Declaration of the Independence of Cyberspace" produced by Q Department for Department of Records. Video by IDEALOGUE.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cf36b820699b12fa77d1dfee777a5b39191f623b.jpg"></article>]]></description>
-            <link>https://vimeo.com/111576518</link>
-            <guid isPermaLink="false">5d668d26-6e19-4752-8c9a-9e9701b36b53</guid>
-            <pubDate>Tue, 09 Feb 2016 00:49:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
