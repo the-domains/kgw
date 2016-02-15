@@ -4,7 +4,7 @@
         <description><![CDATA[Keep Grid Weird]]></description>
         <link>https://thegrid.ai/kgw/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 15 Feb 2016 16:37:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Feb 2016 16:45:00 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kgw/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[KGW Manifesto]]></title>
@@ -12,6 +12,20 @@
             <link>https://thegrid.ai/kgw/kgw-manifesto/index.html</link>
             <guid isPermaLink="false">8f551792-6503-4c76-9d7f-4383b7607544</guid>
             <pubDate>Thu, 17 Dec 2015 15:02:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Still getting mistaken for my doppelgänger regularly, but at least more and more, upon disabusal, people note I'm aging much better.</p>]]></description>
+            <link>https://twitter.com/bbrett/status/697623288290353153</link>
+            <guid isPermaLink="false">0bd0680b-ae01-4c43-a595-fcf2511a0819</guid>
+            <pubDate>Mon, 15 Feb 2016 16:44:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img alt="what" src="https://pbs.twimg.com/media/CbNU-TZVAAIdH3i.jpg:large">]]></description>
+            <link>https://twitter.com/worrydream/status/698995796906102784</link>
+            <guid isPermaLink="false">057931ef-bd97-4220-bf68-589fdaf374c5</guid>
+            <pubDate>Mon, 15 Feb 2016 16:37:14 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -61,20 +75,6 @@
             <link>https://vimeo.com/152222436</link>
             <guid isPermaLink="false">6e8dfb27-a60c-4e52-be3a-a8207c7cb2ee</guid>
             <pubDate>Thu, 11 Feb 2016 04:19:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[DOORSInstallation by Theoriz is a doorwa...]]></title>
-            <description><![CDATA[<article><h1>DOORSInstallation by Theoriz is a doorwa...</h1><p>DOORSInstallation by Theoriz is a doorway that leads to virtual perceptions, utilizating head tracking to provide convincing perspective to participating observer:&ldquo;If the doors of perception were cleansed, everything would appear to man as it is, infinite.&rdquo; - William BlakeDoors is an ongoing research work from our R&amp;D department.Between reality and virtuality, we are playing with the feeling of perception and infinite space.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a0887f7a0ed2b6c1d826378225b1724bc0416eb1.gif"></article>]]></description>
-            <link>http://prostheticknowledge.tumblr.com/post/138816432351/doors-installation-by-theoriz-is-a-doorway-that</link>
-            <guid isPermaLink="false">1ad63ec1-5afd-4cc8-ae9e-5cd6bff9cfc0</guid>
-            <pubDate>Thu, 11 Feb 2016 01:07:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Watson for President 2016]]></title>
-            <description><![CDATA[<article><h1>Watson for President 2016</h1><p>Political decision making is not simply a bullet list of separate issues but rather a complex interconnected network of systems, all of which affect each other. Watson's capabilities for parallel processing on a given query allow it to evaluate concerns on a variety of metrics, gauging the most beneficial response across all areas.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/802407880001ca26833cca8fba5f904e1e6de3e5.jpg"></article>]]></description>
-            <link>http://watson2016.com/</link>
-            <guid isPermaLink="false">f6689c4f-405f-4cb3-904c-64be7bc80636</guid>
-            <pubDate>Wed, 10 Feb 2016 17:50:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
