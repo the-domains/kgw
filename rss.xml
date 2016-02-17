@@ -4,7 +4,7 @@
         <description><![CDATA[Keep Grid Weird]]></description>
         <link>https://thegrid.ai/kgw/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 17 Feb 2016 16:01:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Feb 2016 16:01:27 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kgw/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[KGW Manifesto]]></title>
@@ -12,13 +12,6 @@
             <link>https://thegrid.ai/kgw/kgw-manifesto/index.html</link>
             <guid isPermaLink="false">8f551792-6503-4c76-9d7f-4383b7607544</guid>
             <pubDate>Thu, 17 Dec 2015 15:02:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[comic-book programming]]></title>
-            <description><![CDATA[<article><h1>comic-book programming</h1><p>The next revolution in visual programming: a comic book programming language???</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/34c406fce79106cd12aa2deff77d800577c856f5.jpg"></article>]]></description>
-            <link>https://twitter.com/hypotext/status/676901737974886402</link>
-            <guid isPermaLink="false">61640832-7b6b-4425-916a-ae000ff66403</guid>
-            <pubDate>Wed, 17 Feb 2016 16:00:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -75,6 +68,13 @@
             <link>https://twitter.com/GalaxyKate/status/699039426324746240</link>
             <guid isPermaLink="false">139334a9-cf51-4ed5-9924-826518f07a68</guid>
             <pubDate>Mon, 15 Feb 2016 04:59:43 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[X Files Illuminati Trap Extended]]></title>
+            <description><![CDATA[<article><h1>X Files Illuminati Trap Extended</h1><p>Deal with it Original by Major​League​Wobs Sources: https://www.youtube.com/watch?v=oK-VO97ufog https://soundcloud.com/majorleaguewobs/illuminati-theme-trap-remix</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d62f3fa7e40998c70f620d9c4022fcaffb5bea18.jpg"></article>]]></description>
+            <link>https://youtu.be/-44oa0jYpVI</link>
+            <guid isPermaLink="false">892d9f56-f067-416b-9181-09dc76a214b9</guid>
+            <pubDate>Sun, 14 Feb 2016 19:13:43 GMT</pubDate>
         </item>
     </channel>
 </rss>
