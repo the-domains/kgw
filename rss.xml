@@ -4,7 +4,7 @@
         <description><![CDATA[Keep Grid Weird]]></description>
         <link>https://thegrid.ai/kgw/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 17 Feb 2016 15:40:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Feb 2016 16:01:34 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kgw/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[KGW Manifesto]]></title>
@@ -14,8 +14,29 @@
             <pubDate>Thu, 17 Dec 2015 15:02:51 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[comic-book programming]]></title>
+            <description><![CDATA[<article><h1>comic-book programming</h1><p>The next revolution in visual programming: a comic book programming language???</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/34c406fce79106cd12aa2deff77d800577c856f5.jpg"></article>]]></description>
+            <link>https://twitter.com/hypotext/status/676901737974886402</link>
+            <guid isPermaLink="false">61640832-7b6b-4425-916a-ae000ff66403</guid>
+            <pubDate>Wed, 17 Feb 2016 16:00:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>im allergic to cats the musical</p>]]></description>
+            <link>https://twitter.com/ra/status/699381208636063744</link>
+            <guid isPermaLink="false">f8229a0a-2bd1-4cf1-9ac1-edb8ace97543</guid>
+            <pubDate>Wed, 17 Feb 2016 16:00:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>what's a weird dance involving memory and the natural world?</p>]]></description>
+            <link>https://twitter.com/mindscreensaver/status/699215011902783488</link>
+            <guid isPermaLink="false">4823bfdd-e656-489f-81bb-a4348db046a6</guid>
+            <pubDate>Wed, 17 Feb 2016 16:00:33 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Inconvergent - Home]]></title>
-            <description><![CDATA[<article><h1>Inconvergent - Home</h1><p>I'm not a fan of pagination on texts like these, but I use a lot of large animated gifs, so I had to split it into sections. Consider yourself warned. I've always been fascinated with patterns.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b52237561d8692d67e70cbdfc59a3b95af299add.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Inconvergent - Home</h1><p>I'm not a fan of pagination on texts like these, but I use a lot of large animated gifs, so I had to split it into sections. Consider yourself warned. I've always been fascinated with patterns.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cee5966e673fdac73a84001c4d88f5580288e32c.jpg"></article>]]></description>
             <link>http://inconvergent.net/generative/</link>
             <guid isPermaLink="false">e4c4a85b-8153-4ec7-8caf-8412d1dd7f91</guid>
             <pubDate>Wed, 17 Feb 2016 15:39:47 GMT</pubDate>
@@ -54,27 +75,6 @@
             <link>https://twitter.com/GalaxyKate/status/699039426324746240</link>
             <guid isPermaLink="false">139334a9-cf51-4ed5-9924-826518f07a68</guid>
             <pubDate>Mon, 15 Feb 2016 04:59:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[X Files Illuminati Trap Extended]]></title>
-            <description><![CDATA[<article><h1>X Files Illuminati Trap Extended</h1><p>Deal with it Original by Major​League​Wobs Sources: https://www.youtube.com/watch?v=oK-VO97ufog https://soundcloud.com/majorleaguewobs/illuminati-theme-trap-remix</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d62f3fa7e40998c70f620d9c4022fcaffb5bea18.jpg"></article>]]></description>
-            <link>https://youtu.be/-44oa0jYpVI</link>
-            <guid isPermaLink="false">892d9f56-f067-416b-9181-09dc76a214b9</guid>
-            <pubDate>Sun, 14 Feb 2016 19:13:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img alt="Hajime Sorayama&apos;s sexy cyborg pin-ups do Vegas at the &commat;sincitygallery http&colon;&sol;&sol;bit&period;ly&sol;1QcdyPE" src="https://pbs.twimg.com/media/CbC4c95WEAA_B99.jpg:large">]]></description>
-            <link>https://twitter.com/CreatorsProject/status/698491949972529152</link>
-            <guid isPermaLink="false">e8cdb8e9-fcd5-493e-99f4-066b272a5e6e</guid>
-            <pubDate>Sun, 14 Feb 2016 19:13:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[All done and ready for the show tomorrow! #cottonmill #triad #oilonpanel #galentinesday #lostatsea]]></title>
-            <description><![CDATA[<article><h1>All done and ready for the show tomorrow! #cottonmill #triad #oilonpanel #galentinesday #lostatsea</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cd8e5d2d6e504a7a48cad31ada8e1452276b4737.jpg"></article>]]></description>
-            <link>https://www.instagram.com/p/BBv_Hp4vqgG/</link>
-            <guid isPermaLink="false">b0c4a711-c9b4-46a2-beb5-0e34e6ce5fd5</guid>
-            <pubDate>Sun, 14 Feb 2016 19:13:31 GMT</pubDate>
         </item>
     </channel>
 </rss>
