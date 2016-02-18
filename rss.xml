@@ -4,7 +4,7 @@
         <description><![CDATA[Keep Grid Weird]]></description>
         <link>https://thegrid.ai/kgw/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 18 Feb 2016 20:34:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Feb 2016 23:44:14 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kgw/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[KGW Manifesto]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/kgw/kgw-manifesto/index.html</link>
             <guid isPermaLink="false">8f551792-6503-4c76-9d7f-4383b7607544</guid>
             <pubDate>Thu, 17 Dec 2015 15:02:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<article><img src="http://media3.giphy.com/media/l0COJ5gIPUN2vOj5u/giphy.gif"></article>]]></description>
+            <link>http://media3.giphy.com/media/l0COJ5gIPUN2vOj5u/giphy.gif</link>
+            <guid isPermaLink="false">fa440b38-3cfe-4e8f-98af-7e05b92bb9bf</guid>
+            <pubDate>Thu, 18 Feb 2016 23:39:30 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Back to the Future Prequel Trailer: 1.21 Gigawatts]]></title>
@@ -67,13 +74,6 @@
             <description><![CDATA[<img alt="what" src="https://pbs.twimg.com/media/CbNU-TZVAAIdH3i.jpg:large">]]></description>
             <link>https://twitter.com/worrydream/status/698995796906102784</link>
             <guid isPermaLink="false">057931ef-bd97-4220-bf68-589fdaf374c5</guid>
-            <pubDate>Mon, 15 Feb 2016 16:37:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img alt="This ad placement&period;" src="https://pbs.twimg.com/media/CbD75aoWwAEmWt5.png:large">]]></description>
-            <link>https://twitter.com/thegarance/status/698334907727114240</link>
-            <guid isPermaLink="false">1dcd3e19-b887-4efd-b022-9ea8f455c263</guid>
             <pubDate>Mon, 15 Feb 2016 16:37:14 GMT</pubDate>
         </item>
     </channel>
