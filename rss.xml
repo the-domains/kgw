@@ -4,7 +4,7 @@
         <description><![CDATA[Keep Grid Weird]]></description>
         <link>https://thegrid.ai/kgw/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 17 Feb 2016 16:01:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Feb 2016 20:34:29 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kgw/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[KGW Manifesto]]></title>
@@ -12,6 +12,27 @@
             <link>https://thegrid.ai/kgw/kgw-manifesto/index.html</link>
             <guid isPermaLink="false">8f551792-6503-4c76-9d7f-4383b7607544</guid>
             <pubDate>Thu, 17 Dec 2015 15:02:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Back to the Future Prequel Trailer: 1.21 Gigawatts]]></title>
+            <description><![CDATA[<article><h1>Back to the Future Prequel Trailer: 1.21 Gigawatts</h1><p>This is a fan edit trailer of what I think would make a pretty awesome movie: a Back to the Future prequel that explores Doc's shady dealings with the Libyan terrorist group.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5dd0bb022d3652d777bac184ae0a4daa6bdcdf82.jpg"></article>]]></description>
+            <link>https://vimeo.com/155616916</link>
+            <guid isPermaLink="false">c8ebb8b5-319c-437d-9ada-93ddd29ed26e</guid>
+            <pubDate>Thu, 18 Feb 2016 20:33:41 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[comic-book programming]]></title>
+            <description><![CDATA[<article><h1>comic-book programming</h1><p>The next revolution in visual programming: a comic book programming language???</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f3b1c6a097aaa59de8cf743e169b15050c922436.jpg"></article>]]></description>
+            <link>https://twitter.com/hypotext/status/676901737974886402</link>
+            <guid isPermaLink="false">61640832-7b6b-4425-916a-ae000ff66403</guid>
+            <pubDate>Wed, 17 Feb 2016 16:00:33 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>im allergic to cats the musical</p>]]></description>
+            <link>https://twitter.com/ra/status/699381208636063744</link>
+            <guid isPermaLink="false">f8229a0a-2bd1-4cf1-9ac1-edb8ace97543</guid>
+            <pubDate>Wed, 17 Feb 2016 16:00:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -54,27 +75,6 @@
             <link>https://twitter.com/thegarance/status/698334907727114240</link>
             <guid isPermaLink="false">1dcd3e19-b887-4efd-b022-9ea8f455c263</guid>
             <pubDate>Mon, 15 Feb 2016 16:37:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img alt="http&colon;&sol;&sol;www&period;galaxykate&period;com&sol;apps&sol;&sol;vday&sol;vday&period;html &period;&period;&period; Happy Valentine&apos;s day&comma; I made you a &num;tracery-based Valentine e-card generator&excl;" src="https://pbs.twimg.com/media/CbN8pxJUAAAMT12.png:large">]]></description>
-            <link>https://twitter.com/GalaxyKate/status/699039426324746240</link>
-            <guid isPermaLink="false">139334a9-cf51-4ed5-9924-826518f07a68</guid>
-            <pubDate>Mon, 15 Feb 2016 04:59:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[X Files Illuminati Trap Extended]]></title>
-            <description><![CDATA[<article><h1>X Files Illuminati Trap Extended</h1><p>Deal with it Original by Major​League​Wobs Sources: https://www.youtube.com/watch?v=oK-VO97ufog https://soundcloud.com/majorleaguewobs/illuminati-theme-trap-remix</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d62f3fa7e40998c70f620d9c4022fcaffb5bea18.jpg"></article>]]></description>
-            <link>https://youtu.be/-44oa0jYpVI</link>
-            <guid isPermaLink="false">892d9f56-f067-416b-9181-09dc76a214b9</guid>
-            <pubDate>Sun, 14 Feb 2016 19:13:43 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img alt="Hajime Sorayama&apos;s sexy cyborg pin-ups do Vegas at the &commat;sincitygallery http&colon;&sol;&sol;bit&period;ly&sol;1QcdyPE" src="https://pbs.twimg.com/media/CbC4c95WEAA_B99.jpg:large">]]></description>
-            <link>https://twitter.com/CreatorsProject/status/698491949972529152</link>
-            <guid isPermaLink="false">e8cdb8e9-fcd5-493e-99f4-066b272a5e6e</guid>
-            <pubDate>Sun, 14 Feb 2016 19:13:31 GMT</pubDate>
         </item>
     </channel>
 </rss>
