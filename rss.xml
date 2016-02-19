@@ -4,7 +4,7 @@
         <description><![CDATA[Keep Grid Weird]]></description>
         <link>https://thegrid.ai/kgw/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 19 Feb 2016 21:18:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Feb 2016 21:19:54 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kgw/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[KGW Manifesto]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/kgw/kgw-manifesto/index.html</link>
             <guid isPermaLink="false">8f551792-6503-4c76-9d7f-4383b7607544</guid>
             <pubDate>Thu, 17 Dec 2015 15:02:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img alt="World&apos;s first computer art&comma; made on secret Cold War computer in 1956&comma; was &period;&period;&period; you can guess&colon; http&colon;&sol;&sol;www&period;theatlantic&period;com&sol;technology&sol;archive&sol;2013&sol;01&sol;the-never-before-told-story-of-the-worlds-first-computer-art-its-a-sexy-dame&sol;267439&sol; &period;&period;&period;" src="https://pbs.twimg.com/media/CbXlyVnVAAAigI_.jpg:large">]]></description>
+            <link>https://twitter.com/alteredq/status/699717971267158016</link>
+            <guid isPermaLink="false">dd86bf2d-08cd-498a-90e0-891436bb303a</guid>
+            <pubDate>Fri, 19 Feb 2016 21:18:39 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>https://twitter.com/andyweirauthor/status/698930311996923904</link>
             <guid isPermaLink="false">f69840f2-c46f-4cbd-93f1-d23ea077e0e9</guid>
             <pubDate>Tue, 16 Feb 2016 00:21:40 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Still getting mistaken for my doppelgänger regularly, but at least more and more, upon disabusal, people note I'm aging much better.</p>]]></description>
-            <link>https://twitter.com/bbrett/status/697623288290353153</link>
-            <guid isPermaLink="false">0bd0680b-ae01-4c43-a595-fcf2511a0819</guid>
-            <pubDate>Mon, 15 Feb 2016 16:44:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
