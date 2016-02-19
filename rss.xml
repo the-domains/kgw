@@ -4,7 +4,7 @@
         <description><![CDATA[Keep Grid Weird]]></description>
         <link>https://thegrid.ai/kgw/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 18 Feb 2016 23:44:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Feb 2016 21:18:58 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kgw/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[KGW Manifesto]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/kgw/kgw-manifesto/index.html</link>
             <guid isPermaLink="false">8f551792-6503-4c76-9d7f-4383b7607544</guid>
             <pubDate>Thu, 17 Dec 2015 15:02:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img alt="Comment of the day&colon;" src="https://pbs.twimg.com/media/CbhZOJ0UsAA3Zvz.jpg:large">]]></description>
+            <link>https://twitter.com/LibertyBlitz/status/700407842352680960</link>
+            <guid isPermaLink="false">5e2fc456-04ce-4197-95eb-c7c92f7ef988</guid>
+            <pubDate>Fri, 19 Feb 2016 21:18:39 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>https://twitter.com/bbrett/status/697623288290353153</link>
             <guid isPermaLink="false">0bd0680b-ae01-4c43-a595-fcf2511a0819</guid>
             <pubDate>Mon, 15 Feb 2016 16:44:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img alt="what" src="https://pbs.twimg.com/media/CbNU-TZVAAIdH3i.jpg:large">]]></description>
-            <link>https://twitter.com/worrydream/status/698995796906102784</link>
-            <guid isPermaLink="false">057931ef-bd97-4220-bf68-589fdaf374c5</guid>
-            <pubDate>Mon, 15 Feb 2016 16:37:14 GMT</pubDate>
         </item>
     </channel>
 </rss>
