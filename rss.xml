@@ -4,7 +4,7 @@
         <description><![CDATA[Keep Grid Weird]]></description>
         <link>https://thegrid.ai/kgw/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 21 Feb 2016 13:17:20 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Feb 2016 13:17:52 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kgw/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[KGW Manifesto]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Thu, 17 Dec 2015 15:02:51 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img alt="Nefertiti Hack model&colon; http&colon;&sol;&sol;alteredqualia&period;com&sol;xg&sol;examples&sol;nefertiti&period;html &period;&period;&period; &num;webgl &num;xg &lpar;see background story here&colon; http&colon;&sol;&sol;hyperallergic&period;com&sol;274635&sol;artists-covertly-scan-bust-of-nefertiti-and-release-the-data-for-free-online&sol; &period;&period;&period;&rpar;" src="https://pbs.twimg.com/media/CbuKF1hW0AA-0Te.png:large">]]></description>
+            <link>https://twitter.com/alteredq/status/701306000784154624</link>
+            <guid isPermaLink="false">ae4c15dd-17d3-41b9-96db-d0c1854564af</guid>
+            <pubDate>Sun, 21 Feb 2016 13:16:58 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Artists Covertly Scan Bust of Nefertiti and Release the Data for Free Online]]></title>
-            <description><![CDATA[<article><h1>Artists Covertly Scan Bust of Nefertiti and Release the Data for Free Online</h1><p>Last October, two artists entered the Neues Museum in Berlin, where they clandestinely scanned the bust of Queen Nefertiti, the state museum's prized gem. Three months later, they released the collected 3D dataset online as a torrent, providing completely free access under public domain to the one object in the museum's collection off-limits to photographers.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8cd95488993a7d89d8a90bab0e8be11d4e91d896.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Artists Covertly Scan Bust of Nefertiti and Release the Data for Free Online</h1><p>Last October, two artists entered the Neues Museum in Berlin, where they clandestinely scanned the bust of Queen Nefertiti, the state museum's prized gem. Three months later, they released the collected 3D dataset online as a torrent, providing completely free access under public domain to the one object in the museum's collection off-limits to photographers.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0351926be73b6b5bb43d7b6c902816400eeaef42.jpg"></article>]]></description>
             <link>http://hyperallergic.com/274635/artists-covertly-scan-bust-of-nefertiti-and-release-the-data-for-free-online/</link>
             <guid isPermaLink="false">4541a623-8c5e-4582-a12a-8ec3af86b66f</guid>
             <pubDate>Sun, 21 Feb 2016 13:16:34 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://twitter.com/mindscreensaver/status/699215011902783488</link>
             <guid isPermaLink="false">4823bfdd-e656-489f-81bb-a4348db046a6</guid>
             <pubDate>Wed, 17 Feb 2016 16:00:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Inconvergent - Home]]></title>
-            <description><![CDATA[<article><h1>Inconvergent - Home</h1><p>I'm not a fan of pagination on texts like these, but I use a lot of large animated gifs, so I had to split it into sections. Consider yourself warned. I've always been fascinated with patterns.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/cee5966e673fdac73a84001c4d88f5580288e32c.jpg"></article>]]></description>
-            <link>http://inconvergent.net/generative/</link>
-            <guid isPermaLink="false">e4c4a85b-8153-4ec7-8caf-8412d1dd7f91</guid>
-            <pubDate>Wed, 17 Feb 2016 15:39:47 GMT</pubDate>
         </item>
     </channel>
 </rss>
