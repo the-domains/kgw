@@ -4,7 +4,7 @@
         <description><![CDATA[Keep Grid Weird]]></description>
         <link>https://thegrid.ai/kgw/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 21 Feb 2016 13:17:52 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Feb 2016 12:48:33 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kgw/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[KGW Manifesto]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/kgw/kgw-manifesto/index.html</link>
             <guid isPermaLink="false">8f551792-6503-4c76-9d7f-4383b7607544</guid>
             <pubDate>Thu, 17 Dec 2015 15:02:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img alt="To learn something new make image quilt&comma;not word stack Image pile&equals;deductive&plus;inductive &num;thinking &num;learning &num;teaching" src="https://pbs.twimg.com/media/Cbwi46zUUAALu_l.png:large">]]></description>
+            <link>https://twitter.com/EdwardTufte/status/701474003882479616</link>
+            <guid isPermaLink="false">3cad9f7e-7a2c-44a2-89eb-0f2de25b9194</guid>
+            <pubDate>Mon, 22 Feb 2016 12:48:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -67,13 +74,6 @@
             <description><![CDATA[<p>im allergic to cats the musical</p>]]></description>
             <link>https://twitter.com/ra/status/699381208636063744</link>
             <guid isPermaLink="false">f8229a0a-2bd1-4cf1-9ac1-edb8ace97543</guid>
-            <pubDate>Wed, 17 Feb 2016 16:00:33 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>what's a weird dance involving memory and the natural world?</p>]]></description>
-            <link>https://twitter.com/mindscreensaver/status/699215011902783488</link>
-            <guid isPermaLink="false">4823bfdd-e656-489f-81bb-a4348db046a6</guid>
             <pubDate>Wed, 17 Feb 2016 16:00:33 GMT</pubDate>
         </item>
     </channel>
