@@ -4,7 +4,7 @@
         <description><![CDATA[Keep Grid Weird]]></description>
         <link>https://thegrid.ai/kgw/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 22 Feb 2016 12:53:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Feb 2016 15:55:01 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kgw/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[KGW Manifesto]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/kgw/kgw-manifesto/index.html</link>
             <guid isPermaLink="false">8f551792-6503-4c76-9d7f-4383b7607544</guid>
             <pubDate>Thu, 17 Dec 2015 15:02:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img alt="Making the investigational vestigational&period;" src="https://pbs.twimg.com/media/Cb9e-SYW4AAw8Bz.png:large">]]></description>
+            <link>https://twitter.com/MakingInvisible/status/702384491709464576</link>
+            <guid isPermaLink="false">6823899f-152a-4f07-bae4-2c25d841fa34</guid>
+            <pubDate>Wed, 24 Feb 2016 15:54:03 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>http://media3.giphy.com/media/l0COJ5gIPUN2vOj5u/giphy.gif</link>
             <guid isPermaLink="false">fa440b38-3cfe-4e8f-98af-7e05b92bb9bf</guid>
             <pubDate>Thu, 18 Feb 2016 23:39:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Back to the Future Prequel Trailer: 1.21 Gigawatts]]></title>
-            <description><![CDATA[<article><h1>Back to the Future Prequel Trailer: 1.21 Gigawatts</h1><p>This is a fan edit trailer of what I think would make a pretty awesome movie: a Back to the Future prequel that explores Doc's shady dealings with the Libyan terrorist group.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5dd0bb022d3652d777bac184ae0a4daa6bdcdf82.jpg"></article>]]></description>
-            <link>https://vimeo.com/155616916</link>
-            <guid isPermaLink="false">c8ebb8b5-319c-437d-9ada-93ddd29ed26e</guid>
-            <pubDate>Thu, 18 Feb 2016 20:33:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
