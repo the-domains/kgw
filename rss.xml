@@ -4,7 +4,7 @@
         <description><![CDATA[Keep Grid Weird]]></description>
         <link>https://thegrid.ai/kgw/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 24 Feb 2016 15:55:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Feb 2016 15:55:36 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kgw/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[KGW Manifesto]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/kgw/kgw-manifesto/index.html</link>
             <guid isPermaLink="false">8f551792-6503-4c76-9d7f-4383b7607544</guid>
             <pubDate>Thu, 17 Dec 2015 15:02:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[After Capitalism]]></title>
+            <description><![CDATA[<article><h1>After Capitalism</h1><p>How will it end? For centuries even the most sanguine of capitalism's theorists have thought it not long for this world. Smith, Ricardo, and Mill pointed to a "falling rate of profit" linked to inevitable declines in agricultural productivity.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/de7a506e80ab474e5fc92f27ddeed2e69c1eecf2.jpg"></article>]]></description>
+            <link>https://nplusonemag.com/issue-24/the-intellectual-situation/after-capitalism/</link>
+            <guid isPermaLink="false">7139d6e1-6745-43dc-b9c2-14ab7cb38f85</guid>
+            <pubDate>Wed, 24 Feb 2016 15:54:04 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>https://twitter.com/LibertyBlitz/status/700407842352680960</link>
             <guid isPermaLink="false">5e2fc456-04ce-4197-95eb-c7c92f7ef988</guid>
             <pubDate>Fri, 19 Feb 2016 21:18:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<article><img src="http://media3.giphy.com/media/l0COJ5gIPUN2vOj5u/giphy.gif"></article>]]></description>
-            <link>http://media3.giphy.com/media/l0COJ5gIPUN2vOj5u/giphy.gif</link>
-            <guid isPermaLink="false">fa440b38-3cfe-4e8f-98af-7e05b92bb9bf</guid>
-            <pubDate>Thu, 18 Feb 2016 23:39:30 GMT</pubDate>
         </item>
     </channel>
 </rss>
