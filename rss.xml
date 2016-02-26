@@ -4,7 +4,7 @@
         <description><![CDATA[Keep Grid Weird]]></description>
         <link>https://thegrid.ai/kgw/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 24 Feb 2016 22:20:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Feb 2016 21:10:33 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kgw/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[KGW Manifesto]]></title>
@@ -12,6 +12,20 @@
             <link>https://thegrid.ai/kgw/kgw-manifesto/index.html</link>
             <guid isPermaLink="false">8f551792-6503-4c76-9d7f-4383b7607544</guid>
             <pubDate>Thu, 17 Dec 2015 15:02:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Exploring the abyss - Terence Mckenna]]></title>
+            <description><![CDATA[<article><h1>Exploring the abyss - Terence Mckenna</h1><p>This lecture was recorded in November 1982.</p></article>]]></description>
+            <link>https://www.youtube.com/watch?v=g_J-QIpP8wU</link>
+            <guid isPermaLink="false">24b80b05-bac2-4ce2-aa05-929079443bcf</guid>
+            <pubDate>Fri, 26 Feb 2016 21:09:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://i.imgur.com/UWO6HLu.jpg">]]></description>
+            <link>https://thegrid.ai/kgw/d3f18abf-7b0a-4130-8797-eca5e5340e1a/index.html</link>
+            <guid isPermaLink="false">d3f18abf-7b0a-4130-8797-eca5e5340e1a</guid>
+            <pubDate>Wed, 24 Feb 2016 22:19:22 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -61,20 +75,6 @@
             <link>https://twitter.com/alteredq/status/701306000784154624</link>
             <guid isPermaLink="false">ae4c15dd-17d3-41b9-96db-d0c1854564af</guid>
             <pubDate>Sun, 21 Feb 2016 13:16:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Artists Covertly Scan Bust of Nefertiti and Release the Data for Free Online]]></title>
-            <description><![CDATA[<article><h1>Artists Covertly Scan Bust of Nefertiti and Release the Data for Free Online</h1><p>Last October, two artists entered the Neues Museum in Berlin, where they clandestinely scanned the bust of Queen Nefertiti, the state museum's prized gem. Three months later, they released the collected 3D dataset online as a torrent, providing completely free access under public domain to the one object in the museum's collection off-limits to photographers.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0351926be73b6b5bb43d7b6c902816400eeaef42.jpg"></article>]]></description>
-            <link>http://hyperallergic.com/274635/artists-covertly-scan-bust-of-nefertiti-and-release-the-data-for-free-online/</link>
-            <guid isPermaLink="false">4541a623-8c5e-4582-a12a-8ec3af86b66f</guid>
-            <pubDate>Sun, 21 Feb 2016 13:16:34 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img alt="World&apos;s first computer art&comma; made on secret Cold War computer in 1956&comma; was &period;&period;&period; you can guess&colon; http&colon;&sol;&sol;www&period;theatlantic&period;com&sol;technology&sol;archive&sol;2013&sol;01&sol;the-never-before-told-story-of-the-worlds-first-computer-art-its-a-sexy-dame&sol;267439&sol; &period;&period;&period;" src="https://pbs.twimg.com/media/CbXlyVnVAAAigI_.jpg:large">]]></description>
-            <link>https://twitter.com/alteredq/status/699717971267158016</link>
-            <guid isPermaLink="false">dd86bf2d-08cd-498a-90e0-891436bb303a</guid>
-            <pubDate>Fri, 19 Feb 2016 21:18:39 GMT</pubDate>
         </item>
     </channel>
 </rss>
