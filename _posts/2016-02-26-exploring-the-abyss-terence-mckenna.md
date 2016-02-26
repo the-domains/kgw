@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: This lecture was recorded in November 1982.
-datePublished: '2016-02-26T21:09:21.808Z'
-dateModified: '2016-02-26T21:08:19.300Z'
+datePublished: '2016-02-26T21:08:13.959Z'
+dateModified: '2016-02-26T21:08:08.831Z'
 author:
   - name: MckennaCountrCulture
     url: 'https://www.youtube.com/user/MckennaCountrCulture'
@@ -16,14 +16,14 @@ author:
 related: []
 app_links: []
 title: Exploring the abyss - Terence Mckenna
-sourcePath: _posts/2016-02-26-exploring-the-abyss-terence-mckenna.md
-published: true
 authors: []
 publisher:
   name: YouTube
   domain: www.youtube.com
   url: 'https://www.youtube.com/'
   favicon: 'https://www.youtube.com/favicon.ico'
+sourcePath: _posts/2016-02-26-exploring-the-abyss-terence-mckenna.md
+published: true
 _type: VideoObject
 _context: 'http://schema.org'
 
