@@ -4,7 +4,7 @@
         <description><![CDATA[Keep Grid Weird]]></description>
         <link>https://thegrid.ai/kgw/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 26 Feb 2016 21:11:01 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Feb 2016 14:17:39 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kgw/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[KGW Manifesto]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Thu, 17 Dec 2015 15:02:51 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[FORMS IN NATURE: Understanding Our Universe]]></title>
+            <description><![CDATA[<article><h1>FORMS IN NATURE: Understanding Our Universe</h1><p>Through scientific study and understanding, we deepen our connection to the natural world. An audiovisual collaboration by Kevin Dart // Stéphane Coëdel // David Kamp // Nelson Boles PRESENTED IN 4K // ©MMXVI CHROMOSPHERE INC.</p></article>]]></description>
+            <link>https://vimeo.com/155262093</link>
+            <guid isPermaLink="false">4208d637-cf14-454f-bd7a-7dfd394b4d29</guid>
+            <pubDate>Sat, 27 Feb 2016 14:14:15 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Exploring the abyss - Terence Mckenna]]></title>
-            <description><![CDATA[<article><h1>Exploring the abyss - Terence Mckenna</h1><p>This lecture was recorded in November 1982.</p></article>]]></description>
+            <description><![CDATA[<article><h1>Exploring the abyss - Terence Mckenna</h1><p>This lecture was recorded in November 1982.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/13b98bcf7a0c1a3be4afa987a44c5e5ba045966a.jpg"></article>]]></description>
             <link>https://www.youtube.com/watch?v=g_J-QIpP8wU</link>
             <guid isPermaLink="false">24b80b05-bac2-4ce2-aa05-929079443bcf</guid>
             <pubDate>Fri, 26 Feb 2016 21:08:13 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://twitter.com/EdwardTufte/status/701474003882479616</link>
             <guid isPermaLink="false">3cad9f7e-7a2c-44a2-89eb-0f2de25b9194</guid>
             <pubDate>Mon, 22 Feb 2016 12:48:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img alt="Nefertiti Hack model&colon; http&colon;&sol;&sol;alteredqualia&period;com&sol;xg&sol;examples&sol;nefertiti&period;html &period;&period;&period; &num;webgl &num;xg &lpar;see background story here&colon; http&colon;&sol;&sol;hyperallergic&period;com&sol;274635&sol;artists-covertly-scan-bust-of-nefertiti-and-release-the-data-for-free-online&sol; &period;&period;&period;&rpar;" src="https://pbs.twimg.com/media/CbuKF1hW0AA-0Te.png:large">]]></description>
-            <link>https://twitter.com/alteredq/status/701306000784154624</link>
-            <guid isPermaLink="false">ae4c15dd-17d3-41b9-96db-d0c1854564af</guid>
-            <pubDate>Sun, 21 Feb 2016 13:16:58 GMT</pubDate>
         </item>
     </channel>
 </rss>
