@@ -4,7 +4,7 @@
         <description><![CDATA[Keep Grid Weird]]></description>
         <link>https://thegrid.ai/kgw/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 27 Feb 2016 14:17:39 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Feb 2016 22:53:43 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kgw/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[KGW Manifesto]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Thu, 17 Dec 2015 15:02:51 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>I am still suffering some mild emotional trauma from this and want your help in creating algorithms</p>]]></description>
+            <link>https://twitter.com/erowidrecruiter/status/678658909788241920</link>
+            <guid isPermaLink="false">f5ae09e6-c81a-4e14-9a81-fdfd751ee719</guid>
+            <pubDate>Sat, 27 Feb 2016 22:51:57 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[FORMS IN NATURE: Understanding Our Universe]]></title>
-            <description><![CDATA[<article><h1>FORMS IN NATURE: Understanding Our Universe</h1><p>Through scientific study and understanding, we deepen our connection to the natural world. An audiovisual collaboration by Kevin Dart // Stéphane Coëdel // David Kamp // Nelson Boles PRESENTED IN 4K // ©MMXVI CHROMOSPHERE INC.</p></article>]]></description>
+            <description><![CDATA[<article><h1>FORMS IN NATURE: Understanding Our Universe</h1><p>Through scientific study and understanding, we deepen our connection to the natural world. An audiovisual collaboration by Kevin Dart // Stéphane Coëdel // David Kamp // Nelson Boles PRESENTED IN 4K // ©MMXVI CHROMOSPHERE INC.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/db9a7eabe3da09de8683e6f2cb19e4900d8d6d24.jpg"></article>]]></description>
             <link>https://vimeo.com/155262093</link>
             <guid isPermaLink="false">4208d637-cf14-454f-bd7a-7dfd394b4d29</guid>
             <pubDate>Sat, 27 Feb 2016 14:14:15 GMT</pubDate>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Microsoft's Radical Bet On A New Type Of Design Thinking</h1><p>On one otherwise unremarkable day in May 2013, August de los Reyes fell out of bed and hurt his back. Forty-two years old at the time, he was just six months into his dream job at Microsoft: running design for Xbox and righting a franchise that was drifting due to mission creep.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2000fac811fe3e0e924e11b94bf39b67486a4dc6.jpg"></article>]]></description>
             <link>http://www.fastcodesign.com/3054927/the-big-idea/microsofts-inspiring-bet-on-a-radical-new-type-of-design-thinking</link>
             <guid isPermaLink="false">4d225153-94cd-4abb-ad27-19385f2299cc</guid>
-            <pubDate>Mon, 22 Feb 2016 12:48:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img alt="To learn something new make image quilt&comma;not word stack Image pile&equals;deductive&plus;inductive &num;thinking &num;learning &num;teaching" src="https://pbs.twimg.com/media/Cbwi46zUUAALu_l.png:large">]]></description>
-            <link>https://twitter.com/EdwardTufte/status/701474003882479616</link>
-            <guid isPermaLink="false">3cad9f7e-7a2c-44a2-89eb-0f2de25b9194</guid>
             <pubDate>Mon, 22 Feb 2016 12:48:26 GMT</pubDate>
         </item>
     </channel>
