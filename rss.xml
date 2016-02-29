@@ -4,7 +4,7 @@
         <description><![CDATA[Keep Grid Weird]]></description>
         <link>https://thegrid.ai/kgw/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 29 Feb 2016 14:24:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Feb 2016 14:25:30 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kgw/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[KGW Manifesto]]></title>
@@ -12,6 +12,20 @@
             <link>https://thegrid.ai/kgw/kgw-manifesto/index.html</link>
             <guid isPermaLink="false">8f551792-6503-4c76-9d7f-4383b7607544</guid>
             <pubDate>Thu, 17 Dec 2015 15:02:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img alt="two of the deeply weirdest things you&apos;ve maybe never seen are jupiter from above and below" src="https://pbs.twimg.com/media/CVrhfyxWcAIVr8R.jpg:large">]]></description>
+            <link>https://twitter.com/robdubbin/status/674099258686087168</link>
+            <guid isPermaLink="false">9f180d46-62af-44f5-a4a3-9098297545b4</guid>
+            <pubDate>Mon, 29 Feb 2016 14:24:55 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img alt="This &num;cartoon took me 16 years to do - http&colon;&sol;&sol;bit&period;ly&sol;216286b Happy &num;LeapDay&comma; everyone &semi;&rpar; &num;progress" src="https://pbs.twimg.com/media/CcYmzFDW0AAZcht.jpg:large">]]></description>
+            <link>https://twitter.com/dearconnie/status/704293058200866816</link>
+            <guid isPermaLink="false">1e436115-e545-44ed-aa2f-06fb87a5d9b6</guid>
+            <pubDate>Mon, 29 Feb 2016 14:24:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Cuba's DIY Inventions from 30 Years of Isolation]]></title>
@@ -61,20 +75,6 @@
             <link>https://nplusonemag.com/issue-24/the-intellectual-situation/after-capitalism/</link>
             <guid isPermaLink="false">7139d6e1-6745-43dc-b9c2-14ab7cb38f85</guid>
             <pubDate>Wed, 24 Feb 2016 15:54:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img alt="Making the investigational vestigational&period;" src="https://pbs.twimg.com/media/Cb9e-SYW4AAw8Bz.png:large">]]></description>
-            <link>https://twitter.com/MakingInvisible/status/702384491709464576</link>
-            <guid isPermaLink="false">6823899f-152a-4f07-bae4-2c25d841fa34</guid>
-            <pubDate>Wed, 24 Feb 2016 15:54:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img alt="Welcome to the connected age" src="https://pbs.twimg.com/media/Cb0cJcKWAAAsMRA.jpg:large">]]></description>
-            <link>https://twitter.com/GuusterBeek/status/701748066211274752</link>
-            <guid isPermaLink="false">81b28604-2d0b-4272-b94f-1522321dbb32</guid>
-            <pubDate>Mon, 22 Feb 2016 12:52:52 GMT</pubDate>
         </item>
     </channel>
 </rss>
