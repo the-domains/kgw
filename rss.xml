@@ -4,7 +4,7 @@
         <description><![CDATA[Keep Grid Weird]]></description>
         <link>https://thegrid.ai/kgw/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 27 Feb 2016 22:53:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Feb 2016 14:24:26 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kgw/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[KGW Manifesto]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/kgw/kgw-manifesto/index.html</link>
             <guid isPermaLink="false">8f551792-6503-4c76-9d7f-4383b7607544</guid>
             <pubDate>Thu, 17 Dec 2015 15:02:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Cuba's DIY Inventions from 30 Years of Isolation]]></title>
+            <description><![CDATA[<article><h1>Cuba's DIY Inventions from 30 Years of Isolation</h1><p>Subscribe to Motherboard Radio today! http://apple.co/1DWdc9d In 1991, Cuba's economy began to implode. "The Special Period in the Time of Peace" was the government's euphemism for what was a culmination of 30 years worth of isolation. It began in the 60s, with engineers leaving Cuba for America.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a2c81bfdbfa10e296b88bfa886f87c74e3856843.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=v-XS4aueDUg</link>
+            <guid isPermaLink="false">0a692b92-882c-4faf-bd49-e063a0dbc41b</guid>
+            <pubDate>Mon, 29 Feb 2016 14:23:27 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>https://twitter.com/GuusterBeek/status/701748066211274752</link>
             <guid isPermaLink="false">81b28604-2d0b-4272-b94f-1522321dbb32</guid>
             <pubDate>Mon, 22 Feb 2016 12:52:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Microsoft's Radical Bet On A New Type Of Design Thinking]]></title>
-            <description><![CDATA[<article><h1>Microsoft's Radical Bet On A New Type Of Design Thinking</h1><p>On one otherwise unremarkable day in May 2013, August de los Reyes fell out of bed and hurt his back. Forty-two years old at the time, he was just six months into his dream job at Microsoft: running design for Xbox and righting a franchise that was drifting due to mission creep.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2000fac811fe3e0e924e11b94bf39b67486a4dc6.jpg"></article>]]></description>
-            <link>http://www.fastcodesign.com/3054927/the-big-idea/microsofts-inspiring-bet-on-a-radical-new-type-of-design-thinking</link>
-            <guid isPermaLink="false">4d225153-94cd-4abb-ad27-19385f2299cc</guid>
-            <pubDate>Mon, 22 Feb 2016 12:48:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
