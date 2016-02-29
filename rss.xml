@@ -4,7 +4,7 @@
         <description><![CDATA[Keep Grid Weird]]></description>
         <link>https://thegrid.ai/kgw/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 29 Feb 2016 16:24:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Feb 2016 19:29:22 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kgw/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[KGW Manifesto]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Thu, 17 Dec 2015 15:02:51 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img alt="An accidental Escher &lpar;via http&colon;&sol;&sol;bit&period;ly&sol;24wUOEY &rpar;" src="https://pbs.twimg.com/media/CcY86DIUsAAenqG.jpg:large">]]></description>
+            <link>https://twitter.com/MaxCRoser/status/704318924658233348</link>
+            <guid isPermaLink="false">0e267b62-7792-4fe3-afeb-cb3802b0313e</guid>
+            <pubDate>Mon, 29 Feb 2016 19:28:41 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Design as Participation]]></title>
-            <description><![CDATA[<article><h1>Design as Participation</h1><p>This started with a drivetime conversation about contemporary design with Joi Ito. We were stuck in traffic, and in our conversation, a question emerged about designers: This new generation of designers that work with complex adaptive systems. Why are they so much more humble than their predecessors who designed, you know, stuff?</p><img src="https://s3.amazonaws.com/pubpub-upload/design-as-participation/1456281948386_mies_thomas_hawk.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Design as Participation</h1><p>This started with a drivetime conversation about contemporary design with Joi Ito. We were stuck in traffic, and in our conversation, a question emerged about designers: This new generation of designers that work with complex adaptive systems. Why are they so much more humble than their predecessors who designed, you know, stuff?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b0fe4b5be100cfb171b7f833e108abe8271d3b17.jpg"></article>]]></description>
             <link>http://www.pubpub.org/pub/design-as-participation</link>
             <guid isPermaLink="false">edc379b5-5d15-4606-98c7-cc82a24b5685</guid>
             <pubDate>Mon, 29 Feb 2016 16:23:31 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://www.youtube.com/watch?v=g_J-QIpP8wU</link>
             <guid isPermaLink="false">24b80b05-bac2-4ce2-aa05-929079443bcf</guid>
             <pubDate>Fri, 26 Feb 2016 21:08:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="http://i.imgur.com/UWO6HLu.jpg">]]></description>
-            <link>https://thegrid.ai/kgw/d3f18abf-7b0a-4130-8797-eca5e5340e1a/index.html</link>
-            <guid isPermaLink="false">d3f18abf-7b0a-4130-8797-eca5e5340e1a</guid>
-            <pubDate>Wed, 24 Feb 2016 22:19:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
