@@ -4,7 +4,7 @@
         <description><![CDATA[Keep Grid Weird]]></description>
         <link>https://thegrid.ai/kgw/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 29 Feb 2016 14:25:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Feb 2016 16:24:57 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kgw/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[KGW Manifesto]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/kgw/kgw-manifesto/index.html</link>
             <guid isPermaLink="false">8f551792-6503-4c76-9d7f-4383b7607544</guid>
             <pubDate>Thu, 17 Dec 2015 15:02:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Design as Participation]]></title>
+            <description><![CDATA[<article><h1>Design as Participation</h1><p>This started with a drivetime conversation about contemporary design with Joi Ito. We were stuck in traffic, and in our conversation, a question emerged about designers: This new generation of designers that work with complex adaptive systems. Why are they so much more humble than their predecessors who designed, you know, stuff?</p><img src="https://s3.amazonaws.com/pubpub-upload/design-as-participation/1456281948386_mies_thomas_hawk.jpg"></article>]]></description>
+            <link>http://www.pubpub.org/pub/design-as-participation</link>
+            <guid isPermaLink="false">edc379b5-5d15-4606-98c7-cc82a24b5685</guid>
+            <pubDate>Mon, 29 Feb 2016 16:23:31 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -67,13 +74,6 @@
             <description><![CDATA[<img src="http://i.imgur.com/UWO6HLu.jpg">]]></description>
             <link>https://thegrid.ai/kgw/d3f18abf-7b0a-4130-8797-eca5e5340e1a/index.html</link>
             <guid isPermaLink="false">d3f18abf-7b0a-4130-8797-eca5e5340e1a</guid>
-            <pubDate>Wed, 24 Feb 2016 22:19:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img alt="macbook selfie stick by &commat;tweetsnotfound and &commat;tomgalle" src="https://pbs.twimg.com/media/Cb62n6sUUAAyXz-.png:large">]]></description>
-            <link>https://twitter.com/zachlieberman/status/702199476262273024</link>
-            <guid isPermaLink="false">4a701610-cc27-4334-9e81-55ed7244722d</guid>
             <pubDate>Wed, 24 Feb 2016 22:19:22 GMT</pubDate>
         </item>
     </channel>
