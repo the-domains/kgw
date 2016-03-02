@@ -4,7 +4,7 @@
         <description><![CDATA[Keep Grid Weird]]></description>
         <link>https://thegrid.ai/kgw/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 02 Mar 2016 03:27:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Mar 2016 13:23:07 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kgw/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[KGW Manifesto]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/kgw/kgw-manifesto/index.html</link>
             <guid isPermaLink="false">8f551792-6503-4c76-9d7f-4383b7607544</guid>
             <pubDate>Thu, 17 Dec 2015 15:02:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[The Future of Work]]></title>
+            <description><![CDATA[<article><h1>The Future of Work</h1><p>All ants are part of a colony, and all colonies have a queen. Despite her royal title, other than laying eggs, the queen has no special abilities. She is not in command and she issues no orders. In fact, there is no central control; no ant is directing the activity of any other ant.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ffefb785a8f67856b472ed6d0917ce0a30f5d1bf.jpg"></article>]]></description>
+            <link>http://blog.colony.io/the-future-of-work/</link>
+            <guid isPermaLink="false">e3c4dccd-aebc-410b-ac84-6fa4d30f1b08</guid>
+            <pubDate>Wed, 02 Mar 2016 13:21:48 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -67,13 +74,6 @@
             <description><![CDATA[<img alt="two of the deeply weirdest things you&apos;ve maybe never seen are jupiter from above and below" src="https://pbs.twimg.com/media/CVrhfyxWcAIVr8R.jpg:large">]]></description>
             <link>https://twitter.com/robdubbin/status/674099258686087168</link>
             <guid isPermaLink="false">9f180d46-62af-44f5-a4a3-9098297545b4</guid>
-            <pubDate>Mon, 29 Feb 2016 14:24:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img alt="This &num;cartoon took me 16 years to do - http&colon;&sol;&sol;bit&period;ly&sol;216286b Happy &num;LeapDay&comma; everyone &semi;&rpar; &num;progress" src="https://pbs.twimg.com/media/CcYmzFDW0AAZcht.jpg:large">]]></description>
-            <link>https://twitter.com/dearconnie/status/704293058200866816</link>
-            <guid isPermaLink="false">1e436115-e545-44ed-aa2f-06fb87a5d9b6</guid>
             <pubDate>Mon, 29 Feb 2016 14:24:55 GMT</pubDate>
         </item>
     </channel>
