@@ -4,7 +4,7 @@
         <description><![CDATA[Keep Grid Weird]]></description>
         <link>https://thegrid.ai/kgw/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 02 Mar 2016 16:14:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Mar 2016 20:46:23 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kgw/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[KGW Manifesto]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/kgw/kgw-manifesto/index.html</link>
             <guid isPermaLink="false">8f551792-6503-4c76-9d7f-4383b7607544</guid>
             <pubDate>Thu, 17 Dec 2015 15:02:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img alt="5womenartists 6&lpar;bonus&excl;&rpar;&colon; Ferne Jacobs Basket weaver&period; http&colon;&sol;&sol;www&period;artsobserver&period;com&sol;2012&sol;07&sol;01&sol;ferne-jacobs-ancient-artful-basket-weaving&sol; &period;&period;&period;" src="https://pbs.twimg.com/media/CckgloCUkAA1V2i.jpg:large">]]></description>
+            <link>https://twitter.com/GalaxyKate/status/705130648692854784</link>
+            <guid isPermaLink="false">86575b75-266d-49db-aa47-0b6d74c95609</guid>
+            <pubDate>Wed, 02 Mar 2016 20:46:21 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Secret Art of Dr. Seuss]]></title>
@@ -68,13 +75,6 @@
             <link>https://twitter.com/ColinNorthway/status/704814014375723008</link>
             <guid isPermaLink="false">0a3245fe-dd8a-4aea-9bee-9a7fe64d8920</guid>
             <pubDate>Wed, 02 Mar 2016 03:24:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>The Logos can be unleashed, and the voice that spoke to Plato and Parmenides and Heraclitus can speak again in the minds of modern people. When it does, the ali</p>]]></description>
-            <link>https://www.erowid.org/culture/characters/mckenna_terence/mckenna_terence_maps_hyperspace.shtml</link>
-            <guid isPermaLink="false">0a75be4c-8444-4bae-a0c5-0ea3e11e6ff4</guid>
-            <pubDate>Wed, 02 Mar 2016 15:02:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
