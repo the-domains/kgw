@@ -4,7 +4,7 @@
         <description><![CDATA[Keep Grid Weird]]></description>
         <link>https://thegrid.ai/kgw/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 02 Mar 2016 13:23:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Mar 2016 13:23:09 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kgw/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[KGW Manifesto]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/kgw/kgw-manifesto/index.html</link>
             <guid isPermaLink="false">8f551792-6503-4c76-9d7f-4383b7607544</guid>
             <pubDate>Thu, 17 Dec 2015 15:02:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Which Way for the Gig Economy? | P2P Foundation]]></title>
+            <description><![CDATA[<article><h1>Which Way for the Gig Economy? | P2P Foundation</h1><p>The so-called "sharing economy" is sometimes also called the "gig economy" - arguably a more accurate term, because "sharing economy" carries overtones of cooperation and mutuality that are (to say the least) grossly misleading.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/72cf0da6defb0d049c0a602f063a7da4112cf1b9.jpg"></article>]]></description>
+            <link>https://blog.p2pfoundation.net/which-way-for-the-gig-economy/2016/03/01</link>
+            <guid isPermaLink="false">ed21598f-6c80-406f-a7b8-36de9a87aa5c</guid>
+            <pubDate>Wed, 02 Mar 2016 13:21:48 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[The Future of Work]]></title>
@@ -67,13 +74,6 @@
             <description><![CDATA[<p>2016: a choice between Donald Trump and Goldman Sachs.</p>]]></description>
             <link>https://twitter.com/Snowden/status/703733273504018432</link>
             <guid isPermaLink="false">69c4bd83-0026-43a3-b54e-1d724ecdc706</guid>
-            <pubDate>Mon, 29 Feb 2016 14:24:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img alt="two of the deeply weirdest things you&apos;ve maybe never seen are jupiter from above and below" src="https://pbs.twimg.com/media/CVrhfyxWcAIVr8R.jpg:large">]]></description>
-            <link>https://twitter.com/robdubbin/status/674099258686087168</link>
-            <guid isPermaLink="false">9f180d46-62af-44f5-a4a3-9098297545b4</guid>
             <pubDate>Mon, 29 Feb 2016 14:24:55 GMT</pubDate>
         </item>
     </channel>
