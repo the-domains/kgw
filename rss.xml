@@ -4,7 +4,7 @@
         <description><![CDATA[Keep Grid Weird]]></description>
         <link>https://thegrid.ai/kgw/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 02 Mar 2016 03:26:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Mar 2016 03:27:08 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kgw/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[KGW Manifesto]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/kgw/kgw-manifesto/index.html</link>
             <guid isPermaLink="false">8f551792-6503-4c76-9d7f-4383b7607544</guid>
             <pubDate>Thu, 17 Dec 2015 15:02:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>MAKE A҉ME҉RI͟CA G̦̩͚̓̓͌̓R̈́̂̿̑͛͏̮͉̪E̖͗ͨ͘Á̛̘̤̚T̴̰̱̣͇̦̣̒͂ A̶̢̨̞͎͖̦͖͖͔̰̝̻̺̣͚͔̤̖͔̣͢͝G̴̶̨̟̲͖̳̠͍͓̮̮͍̕͞À͝͏҉̩̠͙̫I̶̧̢̳̳̗̝͖͙͍ͅN̷̰̟̰̫̘̪̗͘</p>]]></description>
+            <link>https://twitter.com/kaepora/status/704793974133952512</link>
+            <guid isPermaLink="false">c65b1a5d-9da3-4b6f-a133-cb9006a9e5f6</guid>
+            <pubDate>Wed, 02 Mar 2016 03:25:29 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>https://www.youtube.com/watch?v=v-XS4aueDUg</link>
             <guid isPermaLink="false">0a692b92-882c-4faf-bd49-e063a0dbc41b</guid>
             <pubDate>Mon, 29 Feb 2016 14:23:27 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>I am still suffering some mild emotional trauma from this and want your help in creating algorithms</p>]]></description>
-            <link>https://twitter.com/erowidrecruiter/status/678658909788241920</link>
-            <guid isPermaLink="false">f5ae09e6-c81a-4e14-9a81-fdfd751ee719</guid>
-            <pubDate>Sat, 27 Feb 2016 22:51:57 GMT</pubDate>
         </item>
     </channel>
 </rss>
