@@ -4,7 +4,7 @@
         <description><![CDATA[Keep Grid Weird]]></description>
         <link>https://thegrid.ai/kgw/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 02 Mar 2016 13:23:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Mar 2016 14:44:04 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kgw/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[KGW Manifesto]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/kgw/kgw-manifesto/index.html</link>
             <guid isPermaLink="false">8f551792-6503-4c76-9d7f-4383b7607544</guid>
             <pubDate>Thu, 17 Dec 2015 15:02:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img alt="Why would O&apos;Reilly want cute animals on their covers&comma; if they could have THIS &quest; &num;nerdsploitation via &commat;PulpLibrarian" src="https://pbs.twimg.com/media/CcinIQwWIAAklMW.jpg:large">]]></description>
+            <link>https://twitter.com/bitcraftlab/status/704997104037531650</link>
+            <guid isPermaLink="false">66953718-278b-4be9-ae0b-84913217a370</guid>
+            <pubDate>Wed, 02 Mar 2016 14:43:48 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Wintergatan - Marble Machine (music instrument using 2000 marbles)]]></title>
@@ -68,13 +75,6 @@
             <link>https://twitter.com/MaxCRoser/status/704318924658233348</link>
             <guid isPermaLink="false">0e267b62-7792-4fe3-afeb-cb3802b0313e</guid>
             <pubDate>Mon, 29 Feb 2016 19:28:41 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Design as Participation]]></title>
-            <description><![CDATA[<article><h1>Design as Participation</h1><p>This started with a drivetime conversation about contemporary design with Joi Ito. We were stuck in traffic, and in our conversation, a question emerged about designers: This new generation of designers that work with complex adaptive systems. Why are they so much more humble than their predecessors who designed, you know, stuff?</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b0fe4b5be100cfb171b7f833e108abe8271d3b17.jpg"></article>]]></description>
-            <link>http://www.pubpub.org/pub/design-as-participation</link>
-            <guid isPermaLink="false">edc379b5-5d15-4606-98c7-cc82a24b5685</guid>
-            <pubDate>Mon, 29 Feb 2016 16:23:31 GMT</pubDate>
         </item>
     </channel>
 </rss>
