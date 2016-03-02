@@ -4,7 +4,7 @@
         <description><![CDATA[Keep Grid Weird]]></description>
         <link>https://thegrid.ai/kgw/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 02 Mar 2016 03:27:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Mar 2016 03:27:56 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kgw/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[KGW Manifesto]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/kgw/kgw-manifesto/index.html</link>
             <guid isPermaLink="false">8f551792-6503-4c76-9d7f-4383b7607544</guid>
             <pubDate>Thu, 17 Dec 2015 15:02:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>If you see a ghost in your house, don't freak out. Just be supernatural.</p>]]></description>
+            <link>https://twitter.com/WhatSamJustSaid/status/704803674716049408</link>
+            <guid isPermaLink="false">485bea6b-ae91-492f-ae9f-5e1e52fe6e47</guid>
+            <pubDate>Wed, 02 Mar 2016 03:25:44 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>https://twitter.com/dearconnie/status/704293058200866816</link>
             <guid isPermaLink="false">1e436115-e545-44ed-aa2f-06fb87a5d9b6</guid>
             <pubDate>Mon, 29 Feb 2016 14:24:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Cuba's DIY Inventions from 30 Years of Isolation]]></title>
-            <description><![CDATA[<article><h1>Cuba's DIY Inventions from 30 Years of Isolation</h1><p>Subscribe to Motherboard Radio today! http://apple.co/1DWdc9d In 1991, Cuba's economy began to implode. "The Special Period in the Time of Peace" was the government's euphemism for what was a culmination of 30 years worth of isolation. It began in the 60s, with engineers leaving Cuba for America.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a2c81bfdbfa10e296b88bfa886f87c74e3856843.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=v-XS4aueDUg</link>
-            <guid isPermaLink="false">0a692b92-882c-4faf-bd49-e063a0dbc41b</guid>
-            <pubDate>Mon, 29 Feb 2016 14:23:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
