@@ -4,7 +4,7 @@
         <description><![CDATA[Keep Grid Weird]]></description>
         <link>https://thegrid.ai/kgw/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 04 Mar 2016 15:47:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Mar 2016 15:48:11 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kgw/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[KGW Manifesto]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/kgw/kgw-manifesto/index.html</link>
             <guid isPermaLink="false">8f551792-6503-4c76-9d7f-4383b7607544</guid>
             <pubDate>Thu, 17 Dec 2015 15:02:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img alt="The earth unpeeled&period; &num;orangerind &num;projection via &commat;dmswart" src="https://pbs.twimg.com/media/CcsBOQbWwAA474y.jpg:large">]]></description>
+            <link>https://twitter.com/bitcraftlab/status/705659113020203010</link>
+            <guid isPermaLink="false">ea32a6ce-08ed-4912-bf72-822eda768738</guid>
+            <pubDate>Fri, 04 Mar 2016 15:47:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Visualing Poetry with 1960s Computer Gra...]]></title>
@@ -68,13 +75,6 @@
             <link>https://www.brainpickings.org/2012/03/23/the-secret-art-of-dr-seuss/</link>
             <guid isPermaLink="false">a2adb592-6e26-4b2f-b0d3-774dd087edaa</guid>
             <pubDate>Wed, 02 Mar 2016 16:13:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img alt="Why would O&apos;Reilly want cute animals on their covers&comma; if they could have THIS &quest; &num;nerdsploitation via &commat;PulpLibrarian" src="https://pbs.twimg.com/media/CcinIQwWIAAklMW.jpg:large">]]></description>
-            <link>https://twitter.com/bitcraftlab/status/704997104037531650</link>
-            <guid isPermaLink="false">66953718-278b-4be9-ae0b-84913217a370</guid>
-            <pubDate>Wed, 02 Mar 2016 14:43:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
