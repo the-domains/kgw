@@ -4,7 +4,7 @@
         <description><![CDATA[Keep Grid Weird]]></description>
         <link>https://thegrid.ai/kgw/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 04 Mar 2016 15:46:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Mar 2016 15:47:21 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kgw/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[KGW Manifesto]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/kgw/kgw-manifesto/index.html</link>
             <guid isPermaLink="false">8f551792-6503-4c76-9d7f-4383b7607544</guid>
             <pubDate>Thu, 17 Dec 2015 15:02:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Visualing Poetry with 1960s Computer Gra...]]></title>
+            <description><![CDATA[<article><h1>Visualing Poetry with 1960s Computer Gra...</h1><p>Visualing Poetry with 1960s Computer Graphics Experimental collection of films made in late 1960&rsquo;s using a computer has surprising digital and glitch aesthetic - video embedded below: [PK Note - I&rsquo;m not going to lie, the film isn&rsquo;t going to be for everyone, and it does feature some abstract jazz which may hurt your ears if you are listening via headphone.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8f3c92d1ef9f6dcf7bc63aa563b80eff3450afb1.gif"></article>]]></description>
+            <link>http://prostheticknowledge.tumblr.com/post/29438326230/visualing-poetry-with-1960s-computer-graphics</link>
+            <guid isPermaLink="false">44355d9e-0220-499d-b65e-66a85cbfe628</guid>
+            <pubDate>Fri, 04 Mar 2016 15:46:13 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Computer Classic: "The Incredible Machine" 1968 Western Electric AT&T 15min]]></title>
@@ -68,13 +75,6 @@
             <link>https://twitter.com/bitcraftlab/status/704997104037531650</link>
             <guid isPermaLink="false">66953718-278b-4be9-ae0b-84913217a370</guid>
             <pubDate>Wed, 02 Mar 2016 14:43:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Wintergatan - Marble Machine (music instrument using 2000 marbles)]]></title>
-            <description><![CDATA[<article><h1>Wintergatan - Marble Machine (music instrument using 2000 marbles)</h1><p>Marble Machine built and composed by Martin Molin Video filmed and edited by Hannes Knutsson Costume by Angelique Nagtegaal www.wintergatan.net</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b1e89b5004b4f0a96bfc4b6d7cbd2ad5d4b42697.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=IvUU8joBb1Q</link>
-            <guid isPermaLink="false">01d2261d-0f6e-4b61-918a-dd3564297715</guid>
-            <pubDate>Wed, 02 Mar 2016 13:21:48 GMT</pubDate>
         </item>
     </channel>
 </rss>
