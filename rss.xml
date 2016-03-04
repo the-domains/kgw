@@ -4,7 +4,7 @@
         <description><![CDATA[Keep Grid Weird]]></description>
         <link>https://thegrid.ai/kgw/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 04 Mar 2016 04:09:29 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Mar 2016 04:10:02 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kgw/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[KGW Manifesto]]></title>
@@ -12,6 +12,20 @@
             <link>https://thegrid.ai/kgw/kgw-manifesto/index.html</link>
             <guid isPermaLink="false">8f551792-6503-4c76-9d7f-4383b7607544</guid>
             <pubDate>Thu, 17 Dec 2015 15:02:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img alt="Make Mobile Phones Weird Again https&colon;&sol;&sol;instagram&period;com&sol;p&sol;BCd9BmprrTJHszO1ifKqe1EcjfT&lowbar;sQQyOBxqcA0&sol; &period;&period;&period;" src="https://pbs.twimg.com/media/CclTPL_W4AAmbK0.jpg:large">]]></description>
+            <link>https://twitter.com/iamdanw/status/705186376065507328</link>
+            <guid isPermaLink="false">a34c3da7-4a7e-46d1-9233-dc0f626e1891</guid>
+            <pubDate>Fri, 04 Mar 2016 04:09:14 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Joshua Vial - Culture First, Technology Second]]></title>
+            <description><![CDATA[<article><h1>Joshua Vial - Culture First, Technology Second</h1><p>This post is an exploration of the idea of capped returns which we've been talking about and experimenting with in some of our Enspiral businesses for the past few years. Loomio has just completed the first significant capped return investment with external investors using redeemable preference shares and Enspiral Dev Academy is in the process of following suite.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f830330965eda6333066110914c2e267a0a1b587.jpg"></article>]]></description>
+            <link>http://joshuavial.com/</link>
+            <guid isPermaLink="false">970a5b3a-0666-4e0f-a516-e38da6ae24ee</guid>
+            <pubDate>Fri, 04 Mar 2016 04:08:53 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[DRushkoff's comment from discussion "[AMA] I'm Douglas Rushkoff, author of Throwing Rocks at the Google Bus, ask me anything"]]></title>
@@ -61,20 +75,6 @@
             <link>https://blog.p2pfoundation.net/which-way-for-the-gig-economy/2016/03/01</link>
             <guid isPermaLink="false">ed21598f-6c80-406f-a7b8-36de9a87aa5c</guid>
             <pubDate>Wed, 02 Mar 2016 13:21:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Future of Work]]></title>
-            <description><![CDATA[<article><h1>The Future of Work</h1><p>All ants are part of a colony, and all colonies have a queen. Despite her royal title, other than laying eggs, the queen has no special abilities. She is not in command and she issues no orders. In fact, there is no central control; no ant is directing the activity of any other ant.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ffefb785a8f67856b472ed6d0917ce0a30f5d1bf.jpg"></article>]]></description>
-            <link>http://blog.colony.io/the-future-of-work/</link>
-            <guid isPermaLink="false">e3c4dccd-aebc-410b-ac84-6fa4d30f1b08</guid>
-            <pubDate>Wed, 02 Mar 2016 13:21:48 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>If you see a ghost in your house, don't freak out. Just be supernatural.</p>]]></description>
-            <link>https://twitter.com/WhatSamJustSaid/status/704803674716049408</link>
-            <guid isPermaLink="false">485bea6b-ae91-492f-ae9f-5e1e52fe6e47</guid>
-            <pubDate>Wed, 02 Mar 2016 03:25:44 GMT</pubDate>
         </item>
     </channel>
 </rss>
