@@ -4,7 +4,7 @@
         <description><![CDATA[Keep Grid Weird]]></description>
         <link>https://thegrid.ai/kgw/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 04 Mar 2016 15:48:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Mar 2016 13:27:12 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kgw/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[KGW Manifesto]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/kgw/kgw-manifesto/index.html</link>
             <guid isPermaLink="false">8f551792-6503-4c76-9d7f-4383b7607544</guid>
             <pubDate>Thu, 17 Dec 2015 15:02:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img alt="This weekend I&apos;ll be throwing &num;CrypticCards &amp; crypsis-related moths&sol;insects into the whirling &num;sciart tweetstorm&period;&period;&period;" src="https://pbs.twimg.com/media/Ccxp29sWEAAwdsZ.jpg:large">]]></description>
+            <link>https://twitter.com/DrImmySmith/status/706055635624992769</link>
+            <guid isPermaLink="false">4d686eb4-2980-4f19-b6a7-5fe48f7862e0</guid>
+            <pubDate>Tue, 08 Mar 2016 13:26:26 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>https://twitter.com/GalaxyKate/status/705130648692854784</link>
             <guid isPermaLink="false">86575b75-266d-49db-aa47-0b6d74c95609</guid>
             <pubDate>Wed, 02 Mar 2016 20:46:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[The Secret Art of Dr. Seuss]]></title>
-            <description><![CDATA[<article><h1>The Secret Art of Dr. Seuss</h1><p>When we celebrated the 108th would-be birthday of Dr. Seuss earlier this month with his little-known, body-positive "adult" book of nudes, reader Jennifer Alluisi flagged a fascinating deeper dive into Geisel's more obscure creations - The Secret Art of Dr. Seuss (public library | IndieBound ), originally published in 1995, collects 65 of Geisel's whimsical paintings, sculptures, and rough sketches of weird and wonderful beings in otherworldly settings, created for his own pleasure and never exhibited in public.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/68d7dccdc564fe6d08f36996ce4fba8fc4514c6c.jpg"></article>]]></description>
-            <link>https://www.brainpickings.org/2012/03/23/the-secret-art-of-dr-seuss/</link>
-            <guid isPermaLink="false">a2adb592-6e26-4b2f-b0d3-774dd087edaa</guid>
-            <pubDate>Wed, 02 Mar 2016 16:13:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
