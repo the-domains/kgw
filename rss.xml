@@ -4,7 +4,7 @@
         <description><![CDATA[Keep Grid Weird]]></description>
         <link>https://thegrid.ai/kgw/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 10 Mar 2016 16:05:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Mar 2016 15:29:41 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kgw/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[KGW Manifesto]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/kgw/kgw-manifesto/index.html</link>
             <guid isPermaLink="false">8f551792-6503-4c76-9d7f-4383b7607544</guid>
             <pubDate>Thu, 17 Dec 2015 15:02:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img alt="This saga appeared in my secure dropbox late last month&comma; along with a plea to post it on Facebook today in exactly the format you see here&period; I gather I&apos;m not the only one to have received those instructions&period; I can&apos;t vouch for the authenticity of the story&comma; but I thought it was weird and interesting enough to share&period;" src="https://scontent.xx.fbcdn.net/hphotos-xpl1/v/t1.0-9/12523864_985738091521142_6458252770571299045_n.jpg?oh=0d46348b70ecfbccb4ba5532203ce54e&oe=5758C8B9">]]></description>
+            <link>https://www.facebook.com/notes/robin-sloan/julie-rubicon/985697811525170</link>
+            <guid isPermaLink="false">9e60ae71-a69a-4e8b-80e8-fc2225ca1afe</guid>
+            <pubDate>Wed, 16 Mar 2016 15:29:23 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>https://www.reddit.com/r/Futurology/comments/48t4u2/ama_im_douglas_rushkoff_author_of_throwing_rocks/d0mc29e</link>
             <guid isPermaLink="false">16d782a4-20a8-489d-8ce7-99ddd7b6e0e9</guid>
             <pubDate>Fri, 04 Mar 2016 04:08:30 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img alt="Bioengineered Forelimb is Fully Transplantable with Functioning Muscle and Vascular Tissue - http&colon;&sol;&sol;www&period;sciencedirect&period;com&sol;science&sol;article&sol;pii&sol;S014296121500438X &period;&period;&period;" src="https://pbs.twimg.com/media/CGrK5VWW8AAB_WP.png:large">]]></description>
-            <link>https://twitter.com/LukeRobertMason/status/705132339396014080</link>
-            <guid isPermaLink="false">396bc752-cac5-4095-8c91-c5e9e6bb5116</guid>
-            <pubDate>Thu, 03 Mar 2016 14:04:31 GMT</pubDate>
         </item>
     </channel>
 </rss>
