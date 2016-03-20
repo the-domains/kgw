@@ -4,7 +4,7 @@
         <description><![CDATA[Keep Grid Weird]]></description>
         <link>https://thegrid.ai/kgw/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 20 Mar 2016 12:02:20 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Mar 2016 21:06:19 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kgw/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[KGW Manifesto]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Thu, 17 Dec 2015 15:02:51 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Gold Noise]]></title>
+            <description><![CDATA[<article><h1>Gold Noise</h1><p>What are the sounds that are most representative of human life on Earth? In 1977, Voyager 1 and 2, two space probes, were launched by NASA to study the outer Solar System and beyond. They are the first probes to leave the Solar System and are currently the farthest man-made objects from Earth.</p><img src="http://goldnoise.org/images/meditation2.jpg"></article>]]></description>
+            <link>http://goldnoise.org/</link>
+            <guid isPermaLink="false">041cfdf5-6782-4a5f-8062-0790137bc19a</guid>
+            <pubDate>Sun, 20 Mar 2016 21:05:14 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Face2Face: Real-time Face Capture and Reenactment of RGB Videos (CVPR 2016 Oral)]]></title>
-            <description><![CDATA[<article><h1>Face2Face: Real-time Face Capture and Reenactment of RGB Videos (CVPR 2016 Oral)</h1><p>CVPR 2016 Paper Video (Oral) Project Page: http://www.graphics.stanford.edu/~niessner/thies2016face.html We present a novel approach for real-time facial reenactment of a monocular target video sequence (e.g., Youtube video). The source sequence is also a monocular video stream, captured live with a commodity webcam.</p></article>]]></description>
+            <description><![CDATA[<article><h1>Face2Face: Real-time Face Capture and Reenactment of RGB Videos (CVPR 2016 Oral)</h1><p>CVPR 2016 Paper Video (Oral) Project Page: http://www.graphics.stanford.edu/~niessner/thies2016face.html We present a novel approach for real-time facial reenactment of a monocular target video sequence (e.g., Youtube video). The source sequence is also a monocular video stream, captured live with a commodity webcam.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7e9d4f0e4812e2f8c92579f98e66660ebdf71964.jpg"></article>]]></description>
             <link>https://youtu.be/ohmajJTcpNk</link>
             <guid isPermaLink="false">830cf21f-c584-460e-95a3-076cebb74a14</guid>
             <pubDate>Sun, 20 Mar 2016 12:01:22 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://twitter.com/iamdanw/status/705186376065507328</link>
             <guid isPermaLink="false">a34c3da7-4a7e-46d1-9233-dc0f626e1891</guid>
             <pubDate>Fri, 04 Mar 2016 04:09:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Joshua Vial - Culture First, Technology Second]]></title>
-            <description><![CDATA[<article><h1>Joshua Vial - Culture First, Technology Second</h1><p>This post is an exploration of the idea of capped returns which we've been talking about and experimenting with in some of our Enspiral businesses for the past few years. Loomio has just completed the first significant capped return investment with external investors using redeemable preference shares and Enspiral Dev Academy is in the process of following suite.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f830330965eda6333066110914c2e267a0a1b587.jpg"></article>]]></description>
-            <link>http://joshuavial.com/</link>
-            <guid isPermaLink="false">970a5b3a-0666-4e0f-a516-e38da6ae24ee</guid>
-            <pubDate>Fri, 04 Mar 2016 04:08:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
