@@ -4,7 +4,7 @@
         <description><![CDATA[Keep Grid Weird]]></description>
         <link>https://thegrid.ai/kgw/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 21 Mar 2016 20:48:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Mar 2016 20:48:32 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kgw/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[KGW Manifesto]]></title>
@@ -12,13 +12,6 @@
             <link>https://thegrid.ai/kgw/kgw-manifesto/index.html</link>
             <guid isPermaLink="false">8f551792-6503-4c76-9d7f-4383b7607544</guid>
             <pubDate>Thu, 17 Dec 2015 15:02:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Double tap to look at all the majesty.]]></title>
-            <description><![CDATA[<article><h1>Double tap to look at all the majesty.</h1><p>This album is really big! It's going to take us a bit to get your download ready for you. Enter your email and we will notify you when it's ready. Once ready, it will be available for up to 24 hours.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/006bb86956ba0b8b75c449a521e96b4735230382.jpg"></article>]]></description>
-            <link>http://m.imgur.com/gallery/JZRKh</link>
-            <guid isPermaLink="false">846ed2a8-8b50-4b3e-ad49-bbc4517e909c</guid>
-            <pubDate>Mon, 21 Mar 2016 20:48:09 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -75,6 +68,13 @@
             <link>http://prostheticknowledge.tumblr.com/post/29438326230/visualing-poetry-with-1960s-computer-graphics</link>
             <guid isPermaLink="false">44355d9e-0220-499d-b65e-66a85cbfe628</guid>
             <pubDate>Fri, 04 Mar 2016 15:46:13 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Computer Classic: "The Incredible Machine" 1968 Western Electric AT&T 15min]]></title>
+            <description><![CDATA[<article><h1>Computer Classic: "The Incredible Machine" 1968 Western Electric AT&T 15min</h1><p>more at http://computers.quickfound.net 'Informs viewer of the experimental advances in audiovisual communications techniques Bell Telephone Laboratories' researchers are experimenting with: computer graphics, synthesized speech, computer-made movies and music, and designing prototypical devices. 20:27:20:29 CU man working on... computer screen tracing line with digital pen over graph on screen, sheet music above graph, audio track jumbled notes corresponding to music written on computer screen.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f1862ec0d7c62833488d9ba5b30ed2e47ca2c14f.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=crbfSY6vf7s</link>
+            <guid isPermaLink="false">f4e1ce72-1656-49ab-aba7-e731f118edee</guid>
+            <pubDate>Fri, 04 Mar 2016 15:46:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
