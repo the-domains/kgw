@@ -4,7 +4,7 @@
         <description><![CDATA[Keep Grid Weird]]></description>
         <link>https://thegrid.ai/kgw/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 21 Mar 2016 20:48:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Mar 2016 20:48:41 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kgw/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[KGW Manifesto]]></title>
@@ -12,13 +12,6 @@
             <link>https://thegrid.ai/kgw/kgw-manifesto/index.html</link>
             <guid isPermaLink="false">8f551792-6503-4c76-9d7f-4383b7607544</guid>
             <pubDate>Thu, 17 Dec 2015 15:02:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<article><img src="http://imgur.com/8qhB140.jpg"></article>]]></description>
-            <link>http://m.imgur.com/8qhB140</link>
-            <guid isPermaLink="false">9ece53fa-38f6-4b13-be25-ae8abfe40e76</guid>
-            <pubDate>Mon, 21 Mar 2016 20:48:46 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Double tap to look at all the majesty.]]></title>
@@ -75,6 +68,13 @@
             <link>https://twitter.com/bitcraftlab/status/705659113020203010</link>
             <guid isPermaLink="false">ea32a6ce-08ed-4912-bf72-822eda768738</guid>
             <pubDate>Fri, 04 Mar 2016 15:47:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Visualing Poetry with 1960s Computer Gra...]]></title>
+            <description><![CDATA[<article><h1>Visualing Poetry with 1960s Computer Gra...</h1><p>Visualing Poetry with 1960s Computer Graphics Experimental collection of films made in late 1960&rsquo;s using a computer has surprising digital and glitch aesthetic - video embedded below: [PK Note - I&rsquo;m not going to lie, the film isn&rsquo;t going to be for everyone, and it does feature some abstract jazz which may hurt your ears if you are listening via headphone.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8f3c92d1ef9f6dcf7bc63aa563b80eff3450afb1.gif"></article>]]></description>
+            <link>http://prostheticknowledge.tumblr.com/post/29438326230/visualing-poetry-with-1960s-computer-graphics</link>
+            <guid isPermaLink="false">44355d9e-0220-499d-b65e-66a85cbfe628</guid>
+            <pubDate>Fri, 04 Mar 2016 15:46:13 GMT</pubDate>
         </item>
     </channel>
 </rss>
