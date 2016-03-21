@@ -4,7 +4,7 @@
         <description><![CDATA[Keep Grid Weird]]></description>
         <link>https://thegrid.ai/kgw/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 21 Mar 2016 20:48:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Mar 2016 21:03:15 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kgw/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[KGW Manifesto]]></title>
@@ -12,6 +12,27 @@
             <link>https://thegrid.ai/kgw/kgw-manifesto/index.html</link>
             <guid isPermaLink="false">8f551792-6503-4c76-9d7f-4383b7607544</guid>
             <pubDate>Thu, 17 Dec 2015 15:02:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Kids are so inquisitive. "Will robots ever take over the world?" Me: "Almost certainly." "But when? Before I die?" "A bit before, yes."</p>]]></description>
+            <link>https://twitter.com/malcolmsparks/status/708054355317035008</link>
+            <guid isPermaLink="false">dbd853b6-2155-4734-92c5-56a04ec4f27d</guid>
+            <pubDate>Mon, 21 Mar 2016 21:03:06 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<article><img src="http://imgur.com/8qhB140.jpg"></article>]]></description>
+            <link>http://m.imgur.com/8qhB140</link>
+            <guid isPermaLink="false">9ece53fa-38f6-4b13-be25-ae8abfe40e76</guid>
+            <pubDate>Mon, 21 Mar 2016 20:48:46 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Double tap to look at all the majesty.]]></title>
+            <description><![CDATA[<article><h1>Double tap to look at all the majesty.</h1><p>This album is really big! It's going to take us a bit to get your download ready for you. Enter your email and we will notify you when it's ready. Once ready, it will be available for up to 24 hours.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/006bb86956ba0b8b75c449a521e96b4735230382.jpg"></article>]]></description>
+            <link>http://m.imgur.com/gallery/JZRKh</link>
+            <guid isPermaLink="false">846ed2a8-8b50-4b3e-ad49-bbc4517e909c</guid>
+            <pubDate>Mon, 21 Mar 2016 20:48:09 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -54,27 +75,6 @@
             <link>https://twitter.com/DrImmySmith/status/706055635624992769</link>
             <guid isPermaLink="false">4d686eb4-2980-4f19-b6a7-5fe48f7862e0</guid>
             <pubDate>Tue, 08 Mar 2016 13:26:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img alt="The earth unpeeled&period; &num;orangerind &num;projection via &commat;dmswart" src="https://pbs.twimg.com/media/CcsBOQbWwAA474y.jpg:large">]]></description>
-            <link>https://twitter.com/bitcraftlab/status/705659113020203010</link>
-            <guid isPermaLink="false">ea32a6ce-08ed-4912-bf72-822eda768738</guid>
-            <pubDate>Fri, 04 Mar 2016 15:47:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Visualing Poetry with 1960s Computer Gra...]]></title>
-            <description><![CDATA[<article><h1>Visualing Poetry with 1960s Computer Gra...</h1><p>Visualing Poetry with 1960s Computer Graphics Experimental collection of films made in late 1960&rsquo;s using a computer has surprising digital and glitch aesthetic - video embedded below: [PK Note - I&rsquo;m not going to lie, the film isn&rsquo;t going to be for everyone, and it does feature some abstract jazz which may hurt your ears if you are listening via headphone.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8f3c92d1ef9f6dcf7bc63aa563b80eff3450afb1.gif"></article>]]></description>
-            <link>http://prostheticknowledge.tumblr.com/post/29438326230/visualing-poetry-with-1960s-computer-graphics</link>
-            <guid isPermaLink="false">44355d9e-0220-499d-b65e-66a85cbfe628</guid>
-            <pubDate>Fri, 04 Mar 2016 15:46:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Computer Classic: "The Incredible Machine" 1968 Western Electric AT&T 15min]]></title>
-            <description><![CDATA[<article><h1>Computer Classic: "The Incredible Machine" 1968 Western Electric AT&T 15min</h1><p>more at http://computers.quickfound.net 'Informs viewer of the experimental advances in audiovisual communications techniques Bell Telephone Laboratories' researchers are experimenting with: computer graphics, synthesized speech, computer-made movies and music, and designing prototypical devices. 20:27:20:29 CU man working on... computer screen tracing line with digital pen over graph on screen, sheet music above graph, audio track jumbled notes corresponding to music written on computer screen.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f1862ec0d7c62833488d9ba5b30ed2e47ca2c14f.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=crbfSY6vf7s</link>
-            <guid isPermaLink="false">f4e1ce72-1656-49ab-aba7-e731f118edee</guid>
-            <pubDate>Fri, 04 Mar 2016 15:46:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
