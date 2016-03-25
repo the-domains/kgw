@@ -4,7 +4,7 @@
         <description><![CDATA[Keep Grid Weird]]></description>
         <link>https://thegrid.ai/kgw/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 21 Mar 2016 21:03:15 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Mar 2016 14:31:55 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kgw/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[KGW Manifesto]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/kgw/kgw-manifesto/index.html</link>
             <guid isPermaLink="false">8f551792-6503-4c76-9d7f-4383b7607544</guid>
             <pubDate>Thu, 17 Dec 2015 15:02:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img alt="New gmail warnings are *solid*. https://security.googleblog.com/2016/03/more-encryption-more-notifications-more.html ..." src="https://pbs.twimg.com/media/CeZKdBbWIAALEdP.jpg:large">]]></description>
+            <link>https://twitter.com/mikemaccana/status/713339454308687873</link>
+            <guid isPermaLink="false">07bf536c-f07b-496e-8c56-7058ab95293c</guid>
+            <pubDate>Fri, 25 Mar 2016 14:31:46 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>http://m.imgur.com/j9vb10u</link>
             <guid isPermaLink="false">663fe299-b97b-4d26-8de1-0d321522c9a9</guid>
             <pubDate>Thu, 10 Mar 2016 16:04:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img alt="This weekend I&apos;ll be throwing &num;CrypticCards &amp; crypsis-related moths&sol;insects into the whirling &num;sciart tweetstorm&period;&period;&period;" src="https://pbs.twimg.com/media/Ccxp29sWEAAwdsZ.jpg:large">]]></description>
-            <link>https://twitter.com/DrImmySmith/status/706055635624992769</link>
-            <guid isPermaLink="false">4d686eb4-2980-4f19-b6a7-5fe48f7862e0</guid>
-            <pubDate>Tue, 08 Mar 2016 13:26:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
