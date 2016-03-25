@@ -4,7 +4,7 @@
         <description><![CDATA[Keep Grid Weird]]></description>
         <link>https://thegrid.ai/kgw/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 25 Mar 2016 14:32:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Mar 2016 21:13:45 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kgw/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[KGW Manifesto]]></title>
@@ -12,6 +12,12 @@
             <link>https://thegrid.ai/kgw/kgw-manifesto/index.html</link>
             <guid isPermaLink="false">8f551792-6503-4c76-9d7f-4383b7607544</guid>
             <pubDate>Thu, 17 Dec 2015 15:02:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>https://thegrid.ai/kgw/5541e0ff-393b-42b1-bc82-e32d6ad29638/index.html</link>
+            <guid isPermaLink="false">5541e0ff-393b-42b1-bc82-e32d6ad29638</guid>
+            <pubDate>Fri, 25 Mar 2016 21:13:34 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +74,6 @@
             <link>https://youtu.be/ohmajJTcpNk</link>
             <guid isPermaLink="false">830cf21f-c584-460e-95a3-076cebb74a14</guid>
             <pubDate>Sun, 20 Mar 2016 12:01:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img alt="This saga appeared in my secure dropbox late last month&comma; along with a plea to post it on Facebook today in exactly the format you see here&period; I gather I&apos;m not the only one to have received those instructions&period; I can&apos;t vouch for the authenticity of the story&comma; but I thought it was weird and interesting enough to share&period;" src="https://scontent.xx.fbcdn.net/hphotos-xpl1/v/t1.0-9/12523864_985738091521142_6458252770571299045_n.jpg?oh=0d46348b70ecfbccb4ba5532203ce54e&oe=5758C8B9">]]></description>
-            <link>https://www.facebook.com/notes/robin-sloan/julie-rubicon/985697811525170</link>
-            <guid isPermaLink="false">9e60ae71-a69a-4e8b-80e8-fc2225ca1afe</guid>
-            <pubDate>Wed, 16 Mar 2016 15:29:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
