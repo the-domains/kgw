@@ -4,7 +4,7 @@
         <description><![CDATA[Keep Grid Weird]]></description>
         <link>https://thegrid.ai/kgw/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 29 Mar 2016 02:12:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Mar 2016 02:12:13 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kgw/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[KGW Manifesto]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/kgw/kgw-manifesto/index.html</link>
             <guid isPermaLink="false">8f551792-6503-4c76-9d7f-4383b7607544</guid>
             <pubDate>Thu, 17 Dec 2015 15:02:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img alt="Happy Friday everyone; just for giggles..." src="https://pbs.twimg.com/media/CeZMj7SWwAAUbBH.jpg:large">]]></description>
+            <link>https://twitter.com/russmiles/status/713341782684250113</link>
+            <guid isPermaLink="false">ad3fd567-53af-4335-8f95-a5ae25eb9b1a</guid>
+            <pubDate>Tue, 29 Mar 2016 02:11:29 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[MoMA.org | Access to Tools]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.commondreams.org/sites/default/files/bernie.danny.jpg</link>
             <guid isPermaLink="false">5a558e3b-4b7e-4572-ad96-c3c4594a9a13</guid>
             <pubDate>Mon, 21 Mar 2016 20:48:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Gold Noise]]></title>
-            <description><![CDATA[<article><h1>Gold Noise</h1><p>What are the sounds that are most representative of human life on Earth? In 1977, Voyager 1 and 2, two space probes, were launched by NASA to study the outer Solar System and beyond. They are the first probes to leave the Solar System and are currently the farthest man-made objects from Earth.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7bb3eb4aacb77e63c888e1545715307fa59ce427.jpg"></article>]]></description>
-            <link>http://goldnoise.org/</link>
-            <guid isPermaLink="false">041cfdf5-6782-4a5f-8062-0790137bc19a</guid>
-            <pubDate>Sun, 20 Mar 2016 21:05:14 GMT</pubDate>
         </item>
     </channel>
 </rss>
