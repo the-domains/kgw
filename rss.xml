@@ -4,7 +4,7 @@
         <description><![CDATA[Keep Grid Weird]]></description>
         <link>https://thegrid.ai/kgw/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 25 Mar 2016 21:13:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Mar 2016 02:12:08 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kgw/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[KGW Manifesto]]></title>
@@ -14,7 +14,15 @@
             <pubDate>Thu, 17 Dec 2015 15:02:51 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[MoMA.org | Access to Tools]]></title>
+            <description><![CDATA[<article><h1>MoMA.org | Access to Tools</h1><p>Whole Earth Catalog, spring 1969 In 1968, Stewart Brand founded the Whole Earth Catalog. Brand's goals were to make a variety of tools accessible to newly dispersed counterculture communities, back-to-the-land households, and innovators in the fields of technology, design, and architecture, and to create a community meeting-place in print.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/33cc7ca6be3660f4a695bd391d20a93ed013ccee.jpg"></article>]]></description>
+            <link>http://www.moma.org/interactives/exhibitions/2011/AccesstoTools/</link>
+            <guid isPermaLink="false">ab636a37-eac9-4270-a423-b13f1532360c</guid>
+            <pubDate>Tue, 29 Mar 2016 02:11:29 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>https://youtu.be/NmIyeM82ct0?t=18s</p>]]></description>
             <link>https://thegrid.ai/kgw/5541e0ff-393b-42b1-bc82-e32d6ad29638/index.html</link>
             <guid isPermaLink="false">5541e0ff-393b-42b1-bc82-e32d6ad29638</guid>
             <pubDate>Fri, 25 Mar 2016 21:13:34 GMT</pubDate>
@@ -67,13 +75,6 @@
             <link>http://goldnoise.org/</link>
             <guid isPermaLink="false">041cfdf5-6782-4a5f-8062-0790137bc19a</guid>
             <pubDate>Sun, 20 Mar 2016 21:05:14 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Face2Face: Real-time Face Capture and Reenactment of RGB Videos (CVPR 2016 Oral)]]></title>
-            <description><![CDATA[<article><h1>Face2Face: Real-time Face Capture and Reenactment of RGB Videos (CVPR 2016 Oral)</h1><p>CVPR 2016 Paper Video (Oral) Project Page: http://www.graphics.stanford.edu/~niessner/thies2016face.html We present a novel approach for real-time facial reenactment of a monocular target video sequence (e.g., Youtube video). The source sequence is also a monocular video stream, captured live with a commodity webcam.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7e9d4f0e4812e2f8c92579f98e66660ebdf71964.jpg"></article>]]></description>
-            <link>https://youtu.be/ohmajJTcpNk</link>
-            <guid isPermaLink="false">830cf21f-c584-460e-95a3-076cebb74a14</guid>
-            <pubDate>Sun, 20 Mar 2016 12:01:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
