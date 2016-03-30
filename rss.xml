@@ -4,7 +4,7 @@
         <description><![CDATA[Keep Grid Weird]]></description>
         <link>https://thegrid.ai/kgw/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 29 Mar 2016 02:12:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Mar 2016 13:34:55 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kgw/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[KGW Manifesto]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/kgw/kgw-manifesto/index.html</link>
             <guid isPermaLink="false">8f551792-6503-4c76-9d7f-4383b7607544</guid>
             <pubDate>Thu, 17 Dec 2015 15:02:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[GRAIL Text Recognizer]]></title>
+            <description><![CDATA[<article><h1>GRAIL Text Recognizer</h1><p>IBM System/360 computer, and robust enough to properly identify 90 percent of the symbols drawn by first-time users. Groner documented his method in a 1966 RAND memorandum on the Real-Time Recognition of Handprinted Text . By the end of this essay, you should understand exactly how Groner's handwriting recognition scheme works.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/79ff5b2ba259a5b0590f4001602736fbf714cbdb.jpg"></article>]]></description>
+            <link>http://jackschaedler.github.io/handwriting-recognition/</link>
+            <guid isPermaLink="false">ea39f459-2e0a-4009-a7f0-db0ea576ec77</guid>
+            <pubDate>Wed, 30 Mar 2016 13:34:50 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Double tap to look at all the majesty.</h1><p>This album is really big! It's going to take us a bit to get your download ready for you. Enter your email and we will notify you when it's ready. Once ready, it will be available for up to 24 hours.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/006bb86956ba0b8b75c449a521e96b4735230382.jpg"></article>]]></description>
             <link>http://m.imgur.com/gallery/JZRKh</link>
             <guid isPermaLink="false">846ed2a8-8b50-4b3e-ad49-bbc4517e909c</guid>
-            <pubDate>Mon, 21 Mar 2016 20:48:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<article><img src="http://www.commondreams.org/sites/default/files/bernie.danny.jpg"></article>]]></description>
-            <link>http://www.commondreams.org/sites/default/files/bernie.danny.jpg</link>
-            <guid isPermaLink="false">5a558e3b-4b7e-4572-ad96-c3c4594a9a13</guid>
             <pubDate>Mon, 21 Mar 2016 20:48:09 GMT</pubDate>
         </item>
     </channel>
