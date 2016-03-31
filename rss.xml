@@ -4,7 +4,7 @@
         <description><![CDATA[Keep Grid Weird]]></description>
         <link>https://thegrid.ai/kgw/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 30 Mar 2016 13:34:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Mar 2016 13:48:01 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kgw/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[KGW Manifesto]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/kgw/kgw-manifesto/index.html</link>
             <guid isPermaLink="false">8f551792-6503-4c76-9d7f-4383b7607544</guid>
             <pubDate>Thu, 17 Dec 2015 15:02:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Carl Sagan on Extraterrestrials | Blank on Blank | PBS Digital Studios]]></title>
+            <description><![CDATA[<article><h1>Carl Sagan on Extraterrestrials | Blank on Blank | PBS Digital Studios</h1><p>This episode is brought to you by http://squarespace.com/blankonblank "A literal reading of the Bible simply is a mistake; I mean it's just wrong" - Carl Sagan on October 4, 1985, as told to Studs Terkel. Hear more interview outtakes and learn more about Carl Sagan http://blankonblank.org/carl-sagan The incomprehensible vastness of the universe, the wonder of our own place in it all...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/32a734549d0924a2395fa529dd5e010989aa724b.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=u9WHs49nlHk</link>
+            <guid isPermaLink="false">b830e38e-3075-4289-82eb-fc47f042d4b3</guid>
+            <pubDate>Thu, 31 Mar 2016 13:47:57 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[GRAIL Text Recognizer]]></title>
@@ -68,13 +75,6 @@
             <link>http://m.imgur.com/8qhB140</link>
             <guid isPermaLink="false">9ece53fa-38f6-4b13-be25-ae8abfe40e76</guid>
             <pubDate>Mon, 21 Mar 2016 20:48:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Double tap to look at all the majesty.]]></title>
-            <description><![CDATA[<article><h1>Double tap to look at all the majesty.</h1><p>This album is really big! It's going to take us a bit to get your download ready for you. Enter your email and we will notify you when it's ready. Once ready, it will be available for up to 24 hours.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/006bb86956ba0b8b75c449a521e96b4735230382.jpg"></article>]]></description>
-            <link>http://m.imgur.com/gallery/JZRKh</link>
-            <guid isPermaLink="false">846ed2a8-8b50-4b3e-ad49-bbc4517e909c</guid>
-            <pubDate>Mon, 21 Mar 2016 20:48:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
