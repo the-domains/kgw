@@ -4,7 +4,7 @@
         <description><![CDATA[Keep Grid Weird]]></description>
         <link>https://thegrid.ai/kgw/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 31 Mar 2016 13:48:01 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Apr 2016 03:15:48 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kgw/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[KGW Manifesto]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/kgw/kgw-manifesto/index.html</link>
             <guid isPermaLink="false">8f551792-6503-4c76-9d7f-4383b7607544</guid>
             <pubDate>Thu, 17 Dec 2015 15:02:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hybrid Forms: New Growth]]></title>
+            <description><![CDATA[<article><h1>Hybrid Forms: New Growth</h1><p>This is a variation of my previous Hybrid Forms video (https://vimeo.com/134814340), using the same simulation data but showing regions of active cell growth instead of the internal structures. As cells are born they are highlighted in blue, which gradually fades as each cell ages.</p></article>]]></description>
+            <link>https://vimeo.com/160595256</link>
+            <guid isPermaLink="false">11250f52-9e3b-4b95-a8f4-904487fb1dfa</guid>
+            <pubDate>Fri, 01 Apr 2016 03:14:52 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Carl Sagan on Extraterrestrials | Blank on Blank | PBS Digital Studios]]></title>
@@ -68,13 +75,6 @@
             <link>https://twitter.com/malcolmsparks/status/708054355317035008</link>
             <guid isPermaLink="false">dbd853b6-2155-4734-92c5-56a04ec4f27d</guid>
             <pubDate>Mon, 21 Mar 2016 21:03:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<article><img src="http://imgur.com/8qhB140.jpg"></article>]]></description>
-            <link>http://m.imgur.com/8qhB140</link>
-            <guid isPermaLink="false">9ece53fa-38f6-4b13-be25-ae8abfe40e76</guid>
-            <pubDate>Mon, 21 Mar 2016 20:48:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
