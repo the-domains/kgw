@@ -4,7 +4,7 @@
         <description><![CDATA[Keep Grid Weird]]></description>
         <link>https://thegrid.ai/kgw/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 02 Apr 2016 13:43:27 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Apr 2016 06:14:23 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kgw/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[KGW Manifesto]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/kgw/kgw-manifesto/index.html</link>
             <guid isPermaLink="false">8f551792-6503-4c76-9d7f-4383b7607544</guid>
             <pubDate>Thu, 17 Dec 2015 15:02:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Slan]]></title>
+            <description><![CDATA[<article><h1>Slan</h1><p>Slans are evolved humans, named after their alleged creator, Samuel Lann. They have the psychic abilities to read minds and are super-intelligent. They possess near limitless stamina, "nerves of steel," and superior strength and speed. When Slans are ill or seriously injured, they go into a healing trance automatically.</p><img src="https://upload.wikimedia.org/wikipedia/en/thumb/c/ca/Slan.jpg/220px-Slan.jpg"></article>]]></description>
+            <link>https://en.m.wikipedia.org/wiki/Slan</link>
+            <guid isPermaLink="false">4563e36c-8879-412b-ae4b-29085e031b68</guid>
+            <pubDate>Sun, 03 Apr 2016 06:13:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -67,13 +74,6 @@
             <description><![CDATA[<img alt="i found the mailing list for me" src="https://pbs.twimg.com/media/CeVKQhoW8AAWw1u.jpg:large">]]></description>
             <link>https://twitter.com/knigt/status/713057811354165248</link>
             <guid isPermaLink="false">634be5d9-0f11-481a-9f67-009d5bc0a73c</guid>
-            <pubDate>Fri, 25 Mar 2016 14:31:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img alt="New gmail warnings are *solid*. https://security.googleblog.com/2016/03/more-encryption-more-notifications-more.html ..." src="https://pbs.twimg.com/media/CeZKdBbWIAALEdP.jpg:large">]]></description>
-            <link>https://twitter.com/mikemaccana/status/713339454308687873</link>
-            <guid isPermaLink="false">07bf536c-f07b-496e-8c56-7058ab95293c</guid>
             <pubDate>Fri, 25 Mar 2016 14:31:46 GMT</pubDate>
         </item>
     </channel>
