@@ -4,7 +4,7 @@
         <description><![CDATA[Keep Grid Weird]]></description>
         <link>https://thegrid.ai/kgw/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 05 Apr 2016 03:19:10 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Apr 2016 21:24:16 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kgw/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[KGW Manifesto]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/kgw/kgw-manifesto/index.html</link>
             <guid isPermaLink="false">8f551792-6503-4c76-9d7f-4383b7607544</guid>
             <pubDate>Thu, 17 Dec 2015 15:02:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<article><img src="http://hyperallergic.com/wp-content/uploads/2016/04/catwilliamblake01.jpg"></article>]]></description>
+            <link>http://hyperallergic.com/wp-content/uploads/2016/04/catwilliamblake01.jpg</link>
+            <guid isPermaLink="false">7756da65-3682-42f9-ab31-dcabaec72d80</guid>
+            <pubDate>Thu, 07 Apr 2016 21:24:10 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>https://www.youtube.com/watch?v=u9WHs49nlHk</link>
             <guid isPermaLink="false">b830e38e-3075-4289-82eb-fc47f042d4b3</guid>
             <pubDate>Thu, 31 Mar 2016 13:47:57 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[GRAIL Text Recognizer]]></title>
-            <description><![CDATA[<article><h1>GRAIL Text Recognizer</h1><p>IBM System/360 computer, and robust enough to properly identify 90 percent of the symbols drawn by first-time users. Groner documented his method in a 1966 RAND memorandum on the Real-Time Recognition of Handprinted Text . By the end of this essay, you should understand exactly how Groner's handwriting recognition scheme works.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/79ff5b2ba259a5b0590f4001602736fbf714cbdb.jpg"></article>]]></description>
-            <link>http://jackschaedler.github.io/handwriting-recognition/</link>
-            <guid isPermaLink="false">ea39f459-2e0a-4009-a7f0-db0ea576ec77</guid>
-            <pubDate>Wed, 30 Mar 2016 13:34:50 GMT</pubDate>
         </item>
     </channel>
 </rss>
