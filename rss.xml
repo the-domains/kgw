@@ -4,7 +4,7 @@
         <description><![CDATA[Keep Grid Weird]]></description>
         <link>https://thegrid.ai/kgw/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 07 Apr 2016 21:24:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Apr 2016 21:28:23 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kgw/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[KGW Manifesto]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/kgw/kgw-manifesto/index.html</link>
             <guid isPermaLink="false">8f551792-6503-4c76-9d7f-4383b7607544</guid>
             <pubDate>Thu, 17 Dec 2015 15:02:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bits and Pieces]]></title>
+            <description><![CDATA[<article><h1>Bits and Pieces</h1><p>Bits and Pieces Nome Gallery Berlin (Germany) 2016 www.nomeproject.com www.nilsvoelker.com</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/dbee595876c0ed74af886bc375b0887af123251d.jpg"></article>]]></description>
+            <link>https://vimeo.com/161621218</link>
+            <guid isPermaLink="false">a9b810f4-a766-4613-8854-6ed888e47437</guid>
+            <pubDate>Thu, 07 Apr 2016 21:27:44 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>https://vimeo.com/160595256</link>
             <guid isPermaLink="false">11250f52-9e3b-4b95-a8f4-904487fb1dfa</guid>
             <pubDate>Fri, 01 Apr 2016 03:14:52 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Carl Sagan on Extraterrestrials | Blank on Blank | PBS Digital Studios]]></title>
-            <description><![CDATA[<article><h1>Carl Sagan on Extraterrestrials | Blank on Blank | PBS Digital Studios</h1><p>This episode is brought to you by http://squarespace.com/blankonblank "A literal reading of the Bible simply is a mistake; I mean it's just wrong" - Carl Sagan on October 4, 1985, as told to Studs Terkel. Hear more interview outtakes and learn more about Carl Sagan http://blankonblank.org/carl-sagan The incomprehensible vastness of the universe, the wonder of our own place in it all...</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/32a734549d0924a2395fa529dd5e010989aa724b.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=u9WHs49nlHk</link>
-            <guid isPermaLink="false">b830e38e-3075-4289-82eb-fc47f042d4b3</guid>
-            <pubDate>Thu, 31 Mar 2016 13:47:57 GMT</pubDate>
         </item>
     </channel>
 </rss>
