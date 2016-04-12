@@ -4,7 +4,7 @@
         <description><![CDATA[Keep Grid Weird]]></description>
         <link>https://thegrid.ai/kgw/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 07 Apr 2016 21:34:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Apr 2016 15:56:27 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kgw/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[KGW Manifesto]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/kgw/kgw-manifesto/index.html</link>
             <guid isPermaLink="false">8f551792-6503-4c76-9d7f-4383b7607544</guid>
             <pubDate>Thu, 17 Dec 2015 15:02:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img alt="Samplers were once how young girls showed their skill, modesty &amp; marriageability. But Edith-Anne didn&apos;t give a shitpic.twitter.com/A4Cp4LtGzg" src="https://pbs.twimg.com/media/CftDzFBXEAEf-we.jpg:large">]]></description>
+            <link>https://twitter.com/ianduhig/status/719243112514785280</link>
+            <guid isPermaLink="false">55dbe232-18b8-4fc9-90e9-c46c4c7c724c</guid>
+            <pubDate>Tue, 12 Apr 2016 15:56:05 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Thirty Three]]></title>
@@ -68,13 +75,6 @@
             <link>https://twitter.com/sciencevsmagic/status/707499284497739776</link>
             <guid isPermaLink="false">77da57c7-f7e4-4dab-ac20-035c924c1e78</guid>
             <pubDate>Sat, 02 Apr 2016 13:43:02 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hybrid Forms: New Growth]]></title>
-            <description><![CDATA[<article><h1>Hybrid Forms: New Growth</h1><p>foldy shroomy broccoli brainy</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/84827e64e2e52409e4edd0ce894d2afd1f602c82.jpg"></article>]]></description>
-            <link>https://vimeo.com/160595256</link>
-            <guid isPermaLink="false">11250f52-9e3b-4b95-a8f4-904487fb1dfa</guid>
-            <pubDate>Fri, 01 Apr 2016 03:14:52 GMT</pubDate>
         </item>
     </channel>
 </rss>
