@@ -4,7 +4,7 @@
         <description><![CDATA[Keep Grid Weird]]></description>
         <link>https://thegrid.ai/kgw/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 13 Apr 2016 16:34:27 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Apr 2016 13:46:30 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kgw/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[KGW Manifesto]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Thu, 17 Dec 2015 15:02:51 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Loading...]]></title>
+            <description><![CDATA[<article><h1>Loading...</h1><p>silicone tube with mouth-shaped end for the weird </p></article>]]></description>
+            <link>http://www.creativeai.net/posts/iPZPzeoDjxbiQvz4X/talking-robot-with-voice-generation-organ</link>
+            <guid isPermaLink="false">5cf931d9-6989-40a5-96c3-426028f3dc48</guid>
+            <pubDate>Thu, 14 Apr 2016 13:46:26 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Andy Shauf - "The Magician"]]></title>
-            <description><![CDATA[<article><h1>Andy Shauf - "The Magician"</h1><p>"The Magician" by Andy Shauf from the album 'The Party,' available May 20 on Anti (World Excl.</p></article>]]></description>
+            <description><![CDATA[<article><h1>Andy Shauf - "The Magician"</h1><p>"The Magician" by Andy Shauf from the album 'The Party,' available May 20 on Anti (World Excl.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f9a8c461887488b3083d020dc71efb2016c1c193.jpg"></article>]]></description>
             <link>https://youtu.be/PN0RPWII7gY</link>
             <guid isPermaLink="false">8da84376-382e-46c6-8cb3-d169840d23d1</guid>
             <pubDate>Wed, 13 Apr 2016 16:32:47 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>https://en.m.wikipedia.org/wiki/News_from_Nowhere</link>
             <guid isPermaLink="false">ea844289-fd04-4e3c-87c2-858774ca8dab</guid>
             <pubDate>Sun, 03 Apr 2016 06:36:56 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Slan]]></title>
-            <description><![CDATA[<article><h1>Slan</h1><p>Slans are evolved humans, named after their alleged creator, Samuel Lann. They have the psychic abilities to read minds and are super-intelligent. They possess near limitless stamina, "nerves of steel," and superior strength and speed. When Slans are ill or seriously injured, they go into a healing trance automatically.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/66583b45ed2f3369966ba27cf31c1fab86bb56a5.jpg"></article>]]></description>
-            <link>https://en.m.wikipedia.org/wiki/Slan</link>
-            <guid isPermaLink="false">4563e36c-8879-412b-ae4b-29085e031b68</guid>
-            <pubDate>Sun, 03 Apr 2016 06:13:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
