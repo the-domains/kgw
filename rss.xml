@@ -4,7 +4,7 @@
         <description><![CDATA[Keep Grid Weird]]></description>
         <link>https://thegrid.ai/kgw/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 22 Apr 2016 23:07:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2016 03:14:39 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kgw/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[KGW Manifesto]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/kgw/kgw-manifesto/index.html</link>
             <guid isPermaLink="false">8f551792-6503-4c76-9d7f-4383b7607544</guid>
             <pubDate>Thu, 17 Dec 2015 15:02:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Farma: a home bioreactor for pharmaceutical drugs]]></title>
+            <description><![CDATA[<article><h1>Farma: a home bioreactor for pharmaceutical drugs</h1><p>OverviewSynthetic Biology has rapidly developed from a scientific discipline into a large industry. Many new companies are designing microbes that produce valuable chemicals, such as pharmaceutical drugs and fragrances, in very large fermentation reactors.Today, we are on the verge of using synthetic microbes within consumer products.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5009e7fc0b9482cdc1314aab78a84f90fae239b7.jpg"></article>]]></description>
+            <link>http://www.instructables.com/id/Farma-an-at-home-bioreactor-for-pharmaceutical-dru/</link>
+            <guid isPermaLink="false">affb8786-ebeb-44ad-ba6b-1b603f285041</guid>
+            <pubDate>Mon, 25 Apr 2016 03:14:36 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>http://hyperallergic.com/wp-content/uploads/2016/04/catwilliamblake01.jpg</link>
             <guid isPermaLink="false">7756da65-3682-42f9-ab31-dcabaec72d80</guid>
             <pubDate>Thu, 07 Apr 2016 21:24:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img alt="Googling Africa vs. googling places in Africa. (via @imgur)pic.twitter.com/BRf9MaQh6g" src="https://pbs.twimg.com/media/CfPNZbxW4AE7_Fk.jpg:large">]]></description>
-            <link>https://twitter.com/dadakim/status/717142603586637824</link>
-            <guid isPermaLink="false">c63d14ef-6ce1-4f85-81d0-0e54ebecbefc</guid>
-            <pubDate>Tue, 05 Apr 2016 03:18:29 GMT</pubDate>
         </item>
     </channel>
 </rss>
