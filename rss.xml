@@ -4,7 +4,7 @@
         <description><![CDATA[Keep Grid Weird]]></description>
         <link>https://thegrid.ai/kgw/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Apr 2016 03:14:39 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Apr 2016 14:23:07 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kgw/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[KGW Manifesto]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/kgw/kgw-manifesto/index.html</link>
             <guid isPermaLink="false">8f551792-6503-4c76-9d7f-4383b7607544</guid>
             <pubDate>Thu, 17 Dec 2015 15:02:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[On the Political Dimensions of Solarpunk]]></title>
+            <description><![CDATA[<article><h1>On the Political Dimensions of Solarpunk</h1><p>Can the new Tumblr-grown aesthetic break through the smog to change the Twenty-First Century conversation? I. Something Stirs It is the nature of our era to stymie the exploration of political alternatives. We live in a fog that obscures our possibilities. We are moving very fast, but tumbling without sense of direction or progress.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/76ea6f321b5e00d6ea4dd619d397ce71746bc11d.jpg"></article>]]></description>
+            <link>https://thegrid.ai/kgw/on-the-political-dimensions-of-solarpunk/index.html</link>
+            <guid isPermaLink="false">e204a69f-d334-4c40-be2d-1e5ef9a013a6</guid>
+            <pubDate>Fri, 29 Apr 2016 14:23:04 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Farma: a home bioreactor for pharmaceutical drugs]]></title>
@@ -68,13 +75,6 @@
             <link>https://vimeo.com/70360578</link>
             <guid isPermaLink="false">7b860c7d-ab16-4e2b-b093-ec7e71026db2</guid>
             <pubDate>Thu, 07 Apr 2016 21:34:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<article><img src="http://hyperallergic.com/wp-content/uploads/2016/04/catwilliamblake01.jpg"></article>]]></description>
-            <link>http://hyperallergic.com/wp-content/uploads/2016/04/catwilliamblake01.jpg</link>
-            <guid isPermaLink="false">7756da65-3682-42f9-ab31-dcabaec72d80</guid>
-            <pubDate>Thu, 07 Apr 2016 21:24:10 GMT</pubDate>
         </item>
     </channel>
 </rss>
