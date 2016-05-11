@@ -4,7 +4,7 @@
         <description><![CDATA[Keep Grid Weird]]></description>
         <link>https://thegrid.ai/kgw/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 11 May 2016 13:40:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 May 2016 13:40:05 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kgw/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[KGW Manifesto]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/kgw/kgw-manifesto/index.html</link>
             <guid isPermaLink="false">8f551792-6503-4c76-9d7f-4383b7607544</guid>
             <pubDate>Thu, 17 Dec 2015 15:02:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Shout out to the wikileaks guy who could tell I was about to cry, took me back via bullet bike to hotel, while singing little mermaid songs</p>]]></description>
+            <link>https://twitter.com/wheresaddie/status/727628074385313794</link>
+            <guid isPermaLink="false">0b1c4054-4360-4644-8913-133a6c516d31</guid>
+            <pubDate>Wed, 11 May 2016 13:39:58 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>https://www.youtube.com/watch?v=-VIqA3i2zQw&amp;feature=youtu.be</link>
             <guid isPermaLink="false">8d620590-8993-4561-9f95-dec84f2b7e41</guid>
             <pubDate>Tue, 19 Apr 2016 16:30:31 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Loading...]]></title>
-            <description><![CDATA[<article><h1>Loading...</h1><p>silicone tube with mouth-shaped end for the weird </p></article>]]></description>
-            <link>http://www.creativeai.net/posts/iPZPzeoDjxbiQvz4X/talking-robot-with-voice-generation-organ</link>
-            <guid isPermaLink="false">5cf931d9-6989-40a5-96c3-426028f3dc48</guid>
-            <pubDate>Thu, 14 Apr 2016 13:46:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
