@@ -4,7 +4,7 @@
         <description><![CDATA[Keep Grid Weird]]></description>
         <link>https://thegrid.ai/kgw/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 20 May 2016 02:54:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 May 2016 02:54:14 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kgw/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[KGW Manifesto]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/kgw/kgw-manifesto/index.html</link>
             <guid isPermaLink="false">8f551792-6503-4c76-9d7f-4383b7607544</guid>
             <pubDate>Thu, 17 Dec 2015 15:02:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img alt="So sad to see your heroes fall so low.pic.twitter.com/5gEJ92au98" src="https://pbs.twimg.com/media/CiTx79kUgAAp2UN.jpg:large">]]></description>
+            <link>https://twitter.com/dubroy/status/730975062988185601</link>
+            <guid isPermaLink="false">e4c3f55c-51c9-4648-aa3b-e41da8594103</guid>
+            <pubDate>Fri, 20 May 2016 02:53:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Hyper-Reality]]></title>
@@ -68,13 +75,6 @@
             <link>https://twitter.com/algoritmic/status/723425481861685248</link>
             <guid isPermaLink="false">b323ef40-5f49-4e0a-8062-cce86418024c</guid>
             <pubDate>Fri, 22 Apr 2016 23:06:51 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img alt="EarthDaypic.twitter.com/YAssDBBAlL" src="https://pbs.twimg.com/media/CgpJAayWIAEi-qh.jpg:large">]]></description>
-            <link>https://twitter.com/SatWcomic/status/723470965531877376</link>
-            <guid isPermaLink="false">c01773bf-aeb2-4aa9-b8de-84d2d319ae25</guid>
-            <pubDate>Fri, 22 Apr 2016 17:50:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
