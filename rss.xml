@@ -4,7 +4,7 @@
         <description><![CDATA[Keep Grid Weird]]></description>
         <link>https://thegrid.ai/kgw/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 20 May 2016 02:54:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 May 2016 22:02:18 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kgw/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[KGW Manifesto]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/kgw/kgw-manifesto/index.html</link>
             <guid isPermaLink="false">8f551792-6503-4c76-9d7f-4383b7607544</guid>
             <pubDate>Thu, 17 Dec 2015 15:02:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[do it, do it, do it]]></title>
+            <description><![CDATA[<article><h1>do it, do it, do it</h1><p>Mr. Rogers and Shia LaBeouf</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/83ac2a6b610f83798833da64e5fb551567ca2cdf.jpg"></article>]]></description>
+            <link>https://youtu.be/YGnJ5lZL5OI</link>
+            <guid isPermaLink="false">247971cf-207f-4a9e-9a12-a18e148b80b5</guid>
+            <pubDate>Fri, 27 May 2016 22:02:13 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -68,13 +75,6 @@
             <link>http://www.instructables.com/id/Farma-an-at-home-bioreactor-for-pharmaceutical-dru/</link>
             <guid isPermaLink="false">affb8786-ebeb-44ad-ba6b-1b603f285041</guid>
             <pubDate>Mon, 25 Apr 2016 03:14:36 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img alt="The Algorithmic Beauty of Plants [pdf] http://algorithmicbotany.org/papers/abop/abop.pdf ... via http://algorithmicbotany.org" src="https://pbs.twimg.com/media/CgofpDxUcAAVktW.jpg:large">]]></description>
-            <link>https://twitter.com/algoritmic/status/723425481861685248</link>
-            <guid isPermaLink="false">b323ef40-5f49-4e0a-8062-cce86418024c</guid>
-            <pubDate>Fri, 22 Apr 2016 23:06:51 GMT</pubDate>
         </item>
     </channel>
 </rss>
