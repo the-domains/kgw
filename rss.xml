@@ -4,7 +4,7 @@
         <description><![CDATA[Keep Grid Weird]]></description>
         <link>https://thegrid.ai/kgw/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 27 May 2016 22:02:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 May 2016 13:30:01 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kgw/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[KGW Manifesto]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/kgw/kgw-manifesto/index.html</link>
             <guid isPermaLink="false">8f551792-6503-4c76-9d7f-4383b7607544</guid>
             <pubDate>Thu, 17 Dec 2015 15:02:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Mattis Dovier - Inside]]></title>
+            <description><![CDATA[<article><h1>Mattis Dovier - Inside</h1><p>Dive into Parisian artist Mattis Dovier's monochrome 'sketch' animation detailing the end of humanity as we know it, commissioned in collaboration with It's Nice That. WATCH: http://randomacts.channel4.com/ FOLLOW: https://twitter.com/C4RandomActs LIKE: https://www.facebook.com/C4RandomActs/ SUBSCRIBE: https://www.youtube.com/c/RandomActsC4</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8b9d6c99402072c8ecdb0335eebd0dacec3e524f.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=eyphP62mTko</link>
+            <guid isPermaLink="false">338c9e85-1b50-462f-bdac-07d32ce9a0e5</guid>
+            <pubDate>Mon, 30 May 2016 13:29:50 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[do it, do it, do it]]></title>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/kgw/on-the-political-dimensions-of-solarpunk/index.html</link>
             <guid isPermaLink="false">e204a69f-d334-4c40-be2d-1e5ef9a013a6</guid>
             <pubDate>Fri, 29 Apr 2016 14:23:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Farma: a home bioreactor for pharmaceutical drugs]]></title>
-            <description><![CDATA[<article><h1>Farma: a home bioreactor for pharmaceutical drugs</h1><p>OverviewSynthetic Biology has rapidly developed from a scientific discipline into a large industry. Many new companies are designing microbes that produce valuable chemicals, such as pharmaceutical drugs and fragrances, in very large fermentation reactors.Today, we are on the verge of using synthetic microbes within consumer products.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5009e7fc0b9482cdc1314aab78a84f90fae239b7.jpg"></article>]]></description>
-            <link>http://www.instructables.com/id/Farma-an-at-home-bioreactor-for-pharmaceutical-dru/</link>
-            <guid isPermaLink="false">affb8786-ebeb-44ad-ba6b-1b603f285041</guid>
-            <pubDate>Mon, 25 Apr 2016 03:14:36 GMT</pubDate>
         </item>
     </channel>
 </rss>
