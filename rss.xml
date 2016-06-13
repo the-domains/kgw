@@ -4,7 +4,7 @@
         <description><![CDATA[Keep Grid Weird]]></description>
         <link>https://thegrid.ai/kgw/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 12 Jun 2016 17:11:10 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Jun 2016 16:02:13 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kgw/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[KGW Manifesto]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/kgw/kgw-manifesto/index.html</link>
             <guid isPermaLink="false">8f551792-6503-4c76-9d7f-4383b7607544</guid>
             <pubDate>Thu, 17 Dec 2015 15:02:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Colossal]]></title>
+            <description><![CDATA[<article><h1>Colossal</h1><p>This three minute dance performance was created by Method Studios for this year's AICP Awards as a way to promote different sponsors. Each sponsor is imagined briefly as a dancing avatar rendered with the help of motion capture, procedural animation and dynamic simulations.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2b73143d80462586fddf95fc1c36fba6b482e20b.jpg"></article>]]></description>
+            <link>http://www.thisiscolossal.com/</link>
+            <guid isPermaLink="false">184b2d50-e063-4796-a148-6b563a121bc0</guid>
+            <pubDate>Mon, 13 Jun 2016 16:02:09 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Think Labyrinth: Hypermazes]]></title>
@@ -68,13 +75,6 @@
             <link>https://twitter.com/renaudbedard/status/730104297199943681</link>
             <guid isPermaLink="false">40a8b813-2142-44ea-a28e-11e00a88eddf</guid>
             <pubDate>Wed, 11 May 2016 13:39:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Free Motion Handling By Festo]]></title>
-            <description><![CDATA[<article><h1>Free Motion Handling By Festo</h1><p>Uploaded by Juan Carlos Estrada on 2016-04-06.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/194422104fe6db55d55def63dbb81012b4c06ba1.jpg"></article>]]></description>
-            <link>https://youtu.be/JE050xGj-8E</link>
-            <guid isPermaLink="false">81ec8903-0e89-4548-abba-6d1f989ef1b7</guid>
-            <pubDate>Wed, 04 May 2016 14:56:40 GMT</pubDate>
         </item>
     </channel>
 </rss>
