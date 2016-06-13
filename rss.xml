@@ -4,7 +4,7 @@
         <description><![CDATA[Keep Grid Weird]]></description>
         <link>https://thegrid.ai/kgw/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 13 Jun 2016 16:26:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Jun 2016 16:40:27 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kgw/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[KGW Manifesto]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/kgw/kgw-manifesto/index.html</link>
             <guid isPermaLink="false">8f551792-6503-4c76-9d7f-4383b7607544</guid>
             <pubDate>Thu, 17 Dec 2015 15:02:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[AICP - 2016 ReelMotion Graphics reel fro...]]></title>
+            <description><![CDATA[<article><h1>AICP - 2016 ReelMotion Graphics reel fro...</h1><p>AICP - 2016 ReelMotion Graphics reel from Method Design presents motion captured dancers in various renderings, notable for some impressive realistic physics: Method Design was tapped by production company RSA to concept and create this year's sponsor reel for AICP at the MoMA The AICP awards celebrate global creativity within commercial production.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/80744494eb9dcf8a8ee5237df300258a9002e3b1.gif"></article>]]></description>
+            <link>http://prostheticknowledge.tumblr.com/post/145719963801/aicp-2016-reel-motion-graphics-reel-from-method</link>
+            <guid isPermaLink="false">93bbd040-51ca-4f31-a896-f4aeea377be9</guid>
+            <pubDate>Mon, 13 Jun 2016 16:37:53 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -67,13 +74,6 @@
             <description><![CDATA[<p>Shout out to the wikileaks guy who could tell I was about to cry, took me back via bullet bike to hotel, while singing little mermaid songs</p>]]></description>
             <link>https://twitter.com/wheresaddie/status/727628074385313794</link>
             <guid isPermaLink="false">0b1c4054-4360-4644-8913-133a6c516d31</guid>
-            <pubDate>Wed, 11 May 2016 13:39:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img alt="Isn&apos;t it nuts that we have a literal gryroscope with three axis-aligned rings in our EARS #waitingroomythoughtspic.twitter.com/qJloLBbmhm" src="https://pbs.twimg.com/media/CiHZ_P0VEAAIq81.jpg:large">]]></description>
-            <link>https://twitter.com/renaudbedard/status/730104297199943681</link>
-            <guid isPermaLink="false">40a8b813-2142-44ea-a28e-11e00a88eddf</guid>
             <pubDate>Wed, 11 May 2016 13:39:58 GMT</pubDate>
         </item>
     </channel>
