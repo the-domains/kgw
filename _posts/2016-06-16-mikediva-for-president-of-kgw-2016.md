@@ -1,25 +1,24 @@
 ---
-description: >-
-  ● Music: Home - Resonance [https://soundcloud.com/home-2001/resonance] ●
-  INSTAGRAM: http://instagram.com/mikediva TWITTER: http://twitter.com/mikediva
-  SNAPCHAT: mike_diva
-dateModified: '2016-06-16T20:06:36.606Z'
-datePublished: '2016-06-16T20:06:39.932Z'
-title: '@mikediva for President of KGW 2016'
+description: "\uD83D\uDE02\uD83D\uDE39\uD83D\uDE02\uD83D\uDE39\uD83D\uDE02\uD83D\uDE39\uD83D\uDE02\uD83D\uDE39\uD83D\uDE02\uD83D\uDE39\uD83D\uDE02\uD83D\uDE39\uD83D\uDE02\uD83D\uDE39\uD83D\uDE02\uD83D\uDE39\uD83D\uDE02\uD83D\uDE39\uD83D\uDE02\uD83D\uDE39\uD83D\uDE02\uD83D\uDE39"
+dateModified: '2016-06-16T20:10:03.101Z'
+datePublished: '2016-06-16T20:10:12.587Z'
+title: "@mikediva for President of KGW 2016 \uD83D\uDE02\uD83D\uDE39"
 author:
   - name: Mike Diva
     url: 'https://www.youtube.com/user/MikeDiva'
     avatar: {}
 isBasedOnUrl: 'https://www.youtube.com/watch?v=wphbL1YdS_M'
-starred: false
 sourcePath: _posts/2016-06-16-mikediva-for-president-of-kgw-2016.md
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
 _type: MediaObject
 
 ---
-# @mikediva for President of KGW 2016
+# @mikediva for President of KGW 2016 😂😹
+
+😂😹😂😹😂😹😂😹😂😹😂😹😂😹😂😹😂😹😂😹😂😹
 
 <iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FwphbL1YdS_M%3Ffeature%3Doembed&amp;url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DwphbL1YdS_M&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FwphbL1YdS_M%2Fhqdefault.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=youtube" width="854" height="480" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
 
