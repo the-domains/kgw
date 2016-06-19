@@ -4,7 +4,7 @@
         <description><![CDATA[Keep Grid Weird]]></description>
         <link>https://thegrid.ai/kgw/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 16 Jun 2016 20:15:27 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Jun 2016 21:36:29 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kgw/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[KGW Manifesto]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/kgw/kgw-manifesto/index.html</link>
             <guid isPermaLink="false">8f551792-6503-4c76-9d7f-4383b7607544</guid>
             <pubDate>Thu, 17 Dec 2015 15:02:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Movie written by algorithm turns out to be hilarious and intense]]></title>
+            <description><![CDATA[<article><h1>Movie written by algorithm turns out to be hilarious and intense</h1><p>Ars is excited to be hosting this online debut of Sunspring, a short science fiction film that's not entirely what it seems. It's about three people living in a weird future, possibly on a space station, probably in a love triangle.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/aa7fdf7c8848c3521fc81ef56d321f40af667598.jpg"></article>]]></description>
+            <link>http://arstechnica.com/the-multiverse/2016/06/an-ai-wrote-this-movie-and-its-strangely-moving/</link>
+            <guid isPermaLink="false">c06b33a3-d0e5-4ee3-b3a8-d5b26ef5cdd3</guid>
+            <pubDate>Sun, 19 Jun 2016 21:36:25 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -67,13 +74,6 @@
             <description><![CDATA[<img alt="So sad to see your heroes fall so low.pic.twitter.com/5gEJ92au98" src="https://pbs.twimg.com/media/CiTx79kUgAAp2UN.jpg:large">]]></description>
             <link>https://twitter.com/dubroy/status/730975062988185601</link>
             <guid isPermaLink="false">e4c3f55c-51c9-4648-aa3b-e41da8594103</guid>
-            <pubDate>Fri, 20 May 2016 02:53:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Hyper-Reality]]></title>
-            <description><![CDATA[<article><h1>Hyper-Reality</h1><p>Our physical and virtual realities are becoming increasingly intertwined. Technologies such as VR, augmented reality, wearables, and the internet of things are pointing to a world where technology will envelop every aspect of our lives. It will be the glue between every interaction and experience, offering amazing possibilities, while also controlling the way we understand the world.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/01a7222f2e0275df9d00c6e01fe44d7ca0a5a878.png"></article>]]></description>
-            <link>http://hyper-reality.co/</link>
-            <guid isPermaLink="false">507adc5f-7647-4c4d-8f8f-790f52dec535</guid>
             <pubDate>Fri, 20 May 2016 02:53:42 GMT</pubDate>
         </item>
     </channel>
