@@ -4,7 +4,7 @@
         <description><![CDATA[Keep Grid Weird]]></description>
         <link>https://thegrid.ai/kgw/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 19 Jun 2016 21:36:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jun 2016 13:43:48 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kgw/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[KGW Manifesto]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/kgw/kgw-manifesto/index.html</link>
             <guid isPermaLink="false">8f551792-6503-4c76-9d7f-4383b7607544</guid>
             <pubDate>Thu, 17 Dec 2015 15:02:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA["Daily Inspiration" now available at my print shop]]></title>
+            <description><![CDATA[<article><h1>"Daily Inspiration" now available at my print shop</h1><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/f175a34f95a4ac937a8e72311adf7b56/noop.jpg?input=https%3A%2F%2Fscontent.cdninstagram.com%2Ft51.2885-15%2Fsh0.08%2Fe35%2Fp640x640%2F12081245_948423405193415_1863126598_n.jpg%3Fig_cache_key%3DMTEyMTg0NTQ3NjI3MDgzMzgzNQ%253D%253D.2"></article>]]></description>
+            <link>https://www.instagram.com/p/-RmIRSAICr/</link>
+            <guid isPermaLink="false">e5859112-5e0e-4dde-934e-bdfb2cd46bdf</guid>
+            <pubDate>Mon, 20 Jun 2016 13:43:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Movie written by algorithm turns out to be hilarious and intense]]></title>
@@ -68,13 +75,6 @@
             <link>https://youtu.be/YGnJ5lZL5OI</link>
             <guid isPermaLink="false">247971cf-207f-4a9e-9a12-a18e148b80b5</guid>
             <pubDate>Fri, 27 May 2016 22:02:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img alt="So sad to see your heroes fall so low.pic.twitter.com/5gEJ92au98" src="https://pbs.twimg.com/media/CiTx79kUgAAp2UN.jpg:large">]]></description>
-            <link>https://twitter.com/dubroy/status/730975062988185601</link>
-            <guid isPermaLink="false">e4c3f55c-51c9-4648-aa3b-e41da8594103</guid>
-            <pubDate>Fri, 20 May 2016 02:53:42 GMT</pubDate>
         </item>
     </channel>
 </rss>
