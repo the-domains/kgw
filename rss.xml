@@ -4,7 +4,7 @@
         <description><![CDATA[Keep Grid Weird]]></description>
         <link>https://thegrid.ai/kgw/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 27 Jun 2016 04:39:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Jun 2016 04:49:09 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kgw/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[KGW Manifesto]]></title>
@@ -12,6 +12,20 @@
             <link>https://thegrid.ai/kgw/kgw-manifesto/index.html</link>
             <guid isPermaLink="false">8f551792-6503-4c76-9d7f-4383b7607544</guid>
             <pubDate>Thu, 17 Dec 2015 15:02:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2edbfd84-2f09-43bd-889a-d12bf77eb5b5.jpg" alt="A TR 48 desktop computer from the 1960s.">]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/2edbfd84-2f09-43bd-889a-d12bf77eb5b5.jpg</link>
+            <guid isPermaLink="false">0f68beb3-ddbc-4bfd-972a-d48c453e5b3b</guid>
+            <pubDate>Mon, 27 Jun 2016 04:49:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Area 51 by Miguelangelo Rosario]]></title>
+            <description><![CDATA[<article><h1>Area 51 by Miguelangelo Rosario</h1><p>webvr with web-based editor, works with cardboard</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/33e24a85218a43afc37e25d12cd6f288/noop.png?input=http%3A%2F%2Fvizor.io%2Fdata%2Fpreviews%2Fvisualgimmicks%2Farea-51-preview-1280x720.png"></article>]]></description>
+            <link>http://vizor.io/visualgimmicks/area-51</link>
+            <guid isPermaLink="false">cfde1b9e-c210-4bbb-a841-8d0d810f7011</guid>
+            <pubDate>Mon, 27 Jun 2016 04:39:21 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -62,20 +76,6 @@ The twin joys of perusing other people's photos and imaginging fictional univers
             <link>http://prostheticknowledge.tumblr.com/post/145719963801/aicp-2016-reel-motion-graphics-reel-from-method</link>
             <guid isPermaLink="false">93bbd040-51ca-4f31-a896-f4aeea377be9</guid>
             <pubDate>Mon, 13 Jun 2016 16:37:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Think Labyrinth: Hypermazes]]></title>
-            <description><![CDATA[<article><h1>Think Labyrinth: Hypermazes</h1><p>Definition: A hypermaze is a Maze in a higher dimension. A hypermaze is more than just what is normally considered to be a "3D Maze". A standard 3D Maze has passages like any other, just they tunnel through a 3D solid instead of move across a 2D surface.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d28514f7-5bb8-4d55-abd9-f37a9f8166da.gif"></article>]]></description>
-            <link>http://www.astrolog.org/labyrnth/hypermaz.htm</link>
-            <guid isPermaLink="false">83cfcb9d-40dc-4d1c-b167-177675bbddeb</guid>
-            <pubDate>Sun, 12 Jun 2016 17:10:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A complete Dope Rider episode by Paul Ki...]]></title>
-            <description><![CDATA[<article><h1>A complete Dope Rider episode by Paul Ki...</h1><p>A complete Dope Rider episode by Paul Kirchner</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7bf959317577f4403ec037044d4a316adc89b448.jpg"></article>]]></description>
-            <link>http://70sscifiart.tumblr.com/post/135353349746/a-complete-dope-rider-episode-by-paul-kirchner</link>
-            <guid isPermaLink="false">0230be54-e1ca-4538-9f62-260fb952e1a1</guid>
-            <pubDate>Tue, 07 Jun 2016 17:58:46 GMT</pubDate>
         </item>
     </channel>
 </rss>
