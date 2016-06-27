@@ -4,7 +4,7 @@
         <description><![CDATA[Keep Grid Weird]]></description>
         <link>https://thegrid.ai/kgw/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 27 Jun 2016 04:39:10 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Jun 2016 04:39:54 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kgw/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[KGW Manifesto]]></title>
@@ -12,6 +12,20 @@
             <link>https://thegrid.ai/kgw/kgw-manifesto/index.html</link>
             <guid isPermaLink="false">8f551792-6503-4c76-9d7f-4383b7607544</guid>
             <pubDate>Thu, 17 Dec 2015 15:02:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Area 51 by Miguelangelo Rosario]]></title>
+            <description><![CDATA[<article><h1>Area 51 by Miguelangelo Rosario</h1><p>webvr with web-based editor, works with cardboard</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/33e24a85218a43afc37e25d12cd6f288/noop.png?input=http%3A%2F%2Fvizor.io%2Fdata%2Fpreviews%2Fvisualgimmicks%2Farea-51-preview-1280x720.png"></article>]]></description>
+            <link>http://vizor.io/visualgimmicks/area-51</link>
+            <guid isPermaLink="false">cfde1b9e-c210-4bbb-a841-8d0d810f7011</guid>
+            <pubDate>Mon, 27 Jun 2016 04:39:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img alt="The system built to divide, improverish and destroy us cannot stand if we do. - Jesse Williams #mondaymotivationpic.twitter.com/UtAjHjC6W4" src="https://pbs.twimg.com/media/Cl7lTd3VEAUDBVH.jpg:large">]]></description>
+            <link>https://twitter.com/urban_teacher/status/747286719054000129</link>
+            <guid isPermaLink="false">72467bed-1f08-42e4-a6ec-a64016728758</guid>
+            <pubDate>Mon, 27 Jun 2016 04:39:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Democratize the Internet Now!]]></title>
@@ -62,20 +76,6 @@ The twin joys of perusing other people's photos and imaginging fictional univers
             <link>http://www.astrolog.org/labyrnth/hypermaz.htm</link>
             <guid isPermaLink="false">83cfcb9d-40dc-4d1c-b167-177675bbddeb</guid>
             <pubDate>Sun, 12 Jun 2016 17:10:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[A complete Dope Rider episode by Paul Ki...]]></title>
-            <description><![CDATA[<article><h1>A complete Dope Rider episode by Paul Ki...</h1><p>A complete Dope Rider episode by Paul Kirchner</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7bf959317577f4403ec037044d4a316adc89b448.jpg"></article>]]></description>
-            <link>http://70sscifiart.tumblr.com/post/135353349746/a-complete-dope-rider-episode-by-paul-kirchner</link>
-            <guid isPermaLink="false">0230be54-e1ca-4538-9f62-260fb952e1a1</guid>
-            <pubDate>Tue, 07 Jun 2016 17:58:46 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mattis Dovier - Inside]]></title>
-            <description><![CDATA[<article><h1>Mattis Dovier - Inside</h1><p>Dive into Parisian artist Mattis Dovier's monochrome 'sketch' animation detailing the end of humanity as we know it, commissioned in collaboration with It's Nice That. WATCH: http://randomacts.channel4.com/ FOLLOW: https://twitter.com/C4RandomActs LIKE: https://www.facebook.com/C4RandomActs/ SUBSCRIBE: https://www.youtube.com/c/RandomActsC4</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/8b9d6c99402072c8ecdb0335eebd0dacec3e524f.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=eyphP62mTko</link>
-            <guid isPermaLink="false">338c9e85-1b50-462f-bdac-07d32ce9a0e5</guid>
-            <pubDate>Mon, 30 May 2016 13:29:50 GMT</pubDate>
         </item>
     </channel>
 </rss>
