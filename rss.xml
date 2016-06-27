@@ -4,7 +4,7 @@
         <description><![CDATA[Keep Grid Weird]]></description>
         <link>https://thegrid.ai/kgw/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 20 Jun 2016 13:46:49 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Jun 2016 04:39:10 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kgw/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[KGW Manifesto]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/kgw/kgw-manifesto/index.html</link>
             <guid isPermaLink="false">8f551792-6503-4c76-9d7f-4383b7607544</guid>
             <pubDate>Thu, 17 Dec 2015 15:02:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Democratize the Internet Now!]]></title>
+            <description><![CDATA[<article><h1>Democratize the Internet Now!</h1><p>This was several leaks ago, so a refresher: Ashley Madison is a web site that helps you have affairs. You enter your personal information and the site lets you look at other people who have also entered their information. Then you can make arrangements to have sex with these other people.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/0daacd7b53a34a9f2b936cda208c4f3a/noop.jpeg?input=https%3A%2F%2Fimages.newrepublic.com%2Feef57baadf9c463964bc6656497feb5138b7c48e.jpeg%3Fw%3D1109%26h%3D577%26crop%3Dfaces%26fit%3Dcrop%26fm%3Djpg"></article>]]></description>
+            <link>https://newrepublic.com/article/133889/reboot-world</link>
+            <guid isPermaLink="false">415325de-e686-4f0c-993f-ebe8e481c275</guid>
+            <pubDate>Mon, 27 Jun 2016 04:39:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA["Daily Inspiration" now available at my print shop]]></title>
@@ -69,13 +76,6 @@ The twin joys of perusing other people's photos and imaginging fictional univers
             <link>https://www.youtube.com/watch?v=eyphP62mTko</link>
             <guid isPermaLink="false">338c9e85-1b50-462f-bdac-07d32ce9a0e5</guid>
             <pubDate>Mon, 30 May 2016 13:29:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[do it, do it, do it]]></title>
-            <description><![CDATA[<article><h1>do it, do it, do it</h1><p>Mr. Rogers and Shia LaBeouf</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/83ac2a6b610f83798833da64e5fb551567ca2cdf.jpg"></article>]]></description>
-            <link>https://youtu.be/YGnJ5lZL5OI</link>
-            <guid isPermaLink="false">247971cf-207f-4a9e-9a12-a18e148b80b5</guid>
-            <pubDate>Fri, 27 May 2016 22:02:13 GMT</pubDate>
         </item>
     </channel>
 </rss>
