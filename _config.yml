@@ -3,6 +3,7 @@ favicon: null
 layout_spectrum: 0.54696
 typography_spectrum: 0.18926
 title: Keep Grid Weird
+style: the-composer
 cta:
   domain: null
   bucket: null
