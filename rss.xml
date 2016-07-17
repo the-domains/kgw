@@ -4,7 +4,7 @@
         <description><![CDATA[Keep Grid Weird]]></description>
         <link>https://thegrid.ai/kgw/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 06 Jul 2016 13:35:10 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Jul 2016 17:17:56 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kgw/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[KGW Manifesto]]></title>
@@ -12,6 +12,12 @@
             <link>https://thegrid.ai/kgw/kgw-manifesto/index.html</link>
             <guid isPermaLink="false">8f551792-6503-4c76-9d7f-4383b7607544</guid>
             <pubDate>Thu, 17 Dec 2015 15:02:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Victoria Island, Nunavut, Unnamed Island]]></title>
+            <link>https://www.google.com/maps/d/viewer?ll=69.792357%2C-108.240395&amp;spn=0.041507%2C0.146255&amp;hl=en&amp;t=f&amp;vpsrc=6&amp;msa=0&amp;z=12&amp;source=embed&amp;ie=UTF8&amp;ecpose=69.7738227%2C-108.24039459%2C4450.74%2C0%2C25.13%2C0&amp;mid=1uksgXYzCxdMzi7EuVL2w9uviHMY</link>
+            <guid isPermaLink="false">622b5590-a4d3-41eb-9e70-3d26153a2c23</guid>
+            <pubDate>Sun, 17 Jul 2016 17:17:53 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Woelab and the e-waste 3D Printer | P2P Foundation]]></title>
@@ -69,13 +75,6 @@ The twin joys of perusing other people's photos and imaginging fictional univers
             <link>https://thegrid.ai/kgw/b63d81f0-eb8e-440a-beec-5144fe33f328/index.html</link>
             <guid isPermaLink="false">b63d81f0-eb8e-440a-beec-5144fe33f328</guid>
             <pubDate>Thu, 16 Jun 2016 20:15:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[@mikediva for President of KGW 2016 😂😹]]></title>
-            <description><![CDATA[<article><h1>@mikediva for President of KGW 2016 😂😹</h1><p>😂😹😂😹😂😹😂😹😂😹😂😹😂😹😂😹😂😹😂😹😂😹</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/737be1632bab30498bb12524f91eb7da/noop.jpg?input=http%3A%2F%2Fimg.youtube.com%2Fvi%2FwphbL1YdS_M%2Fmaxresdefault.jpg"></article>]]></description>
-            <link>https://www.youtube.com/watch?v=wphbL1YdS_M</link>
-            <guid isPermaLink="false">15460fce-0b1b-4d08-9315-fbb36855dc46</guid>
-            <pubDate>Thu, 16 Jun 2016 20:10:12 GMT</pubDate>
         </item>
     </channel>
 </rss>
