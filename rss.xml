@@ -4,7 +4,7 @@
         <description><![CDATA[Keep Grid Weird]]></description>
         <link>https://thegrid.ai/kgw/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 17 Jul 2016 17:17:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 Aug 2016 08:38:14 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kgw/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[KGW Manifesto]]></title>
@@ -12,6 +12,20 @@
             <link>https://thegrid.ai/kgw/kgw-manifesto/index.html</link>
             <guid isPermaLink="false">8f551792-6503-4c76-9d7f-4383b7607544</guid>
             <pubDate>Thu, 17 Dec 2015 15:02:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://pbs.twimg.com/media/CocKWjJWEAAlPJI.jpg">]]></description>
+            <link>https://thegrid.ai/kgw/eceac27f-5be3-467b-9003-d4b0dc1b2ba4/index.html</link>
+            <guid isPermaLink="false">eceac27f-5be3-467b-9003-d4b0dc1b2ba4</guid>
+            <pubDate>Wed, 03 Aug 2016 08:38:09 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Rachel Maddow notes that Chelsea and Ivanka are friends IRL--as are their husbands. It's almost like there's a ruling class in this country.</p>]]></description>
+            <link>https://twitter.com/LilianaSegura/status/758845530935930883</link>
+            <guid isPermaLink="false">7b29ccf4-109d-4cc5-b246-dc5dec41c08f</guid>
+            <pubDate>Wed, 03 Aug 2016 08:38:09 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Victoria Island, Nunavut, Unnamed Island]]></title>
@@ -61,20 +75,6 @@ The twin joys of perusing other people's photos and imaginging fictional univers
             <link>https://www.instagram.com/p/-RmIRSAICr/</link>
             <guid isPermaLink="false">e5859112-5e0e-4dde-934e-bdfb2cd46bdf</guid>
             <pubDate>Mon, 20 Jun 2016 13:46:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Movie written by algorithm turns out to be hilarious and intense]]></title>
-            <description><![CDATA[<article><h1>Movie written by algorithm turns out to be hilarious and intense</h1><p>Ars is excited to be hosting this online debut of Sunspring, a short science fiction film that's not entirely what it seems. It's about three people living in a weird future, possibly on a space station, probably in a love triangle.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/aa7fdf7c8848c3521fc81ef56d321f40af667598.jpg"></article>]]></description>
-            <link>http://arstechnica.com/the-multiverse/2016/06/an-ai-wrote-this-movie-and-its-strangely-moving/</link>
-            <guid isPermaLink="false">c06b33a3-d0e5-4ee3-b3a8-d5b26ef5cdd3</guid>
-            <pubDate>Sun, 19 Jun 2016 21:36:25 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b239037efe7644d82d944cdb07d8acfccbb55d13.jpg" alt="Hyperrealist painter Kevin Peterson paints fairytale-like interactions of children and wolves, birds, and bears in scenes much different than the pastoral worlds of storybooks....">]]></description>
-            <link>https://thegrid.ai/kgw/b63d81f0-eb8e-440a-beec-5144fe33f328/index.html</link>
-            <guid isPermaLink="false">b63d81f0-eb8e-440a-beec-5144fe33f328</guid>
-            <pubDate>Thu, 16 Jun 2016 20:15:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
