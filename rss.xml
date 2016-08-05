@@ -4,7 +4,7 @@
         <description><![CDATA[Keep Grid Weird]]></description>
         <link>https://thegrid.ai/kgw/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 03 Aug 2016 08:38:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Aug 2016 07:40:46 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kgw/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[KGW Manifesto]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/kgw/kgw-manifesto/index.html</link>
             <guid isPermaLink="false">8f551792-6503-4c76-9d7f-4383b7607544</guid>
             <pubDate>Thu, 17 Dec 2015 15:02:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[World's First Tattoo by Industrial Robot...]]></title>
+            <description><![CDATA[<article><h1>World's First Tattoo by Industrial Robot...</h1><p>nope, nope, nope, ok kinda cool</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/7d991490a663fc36aa7a4d1b97bee8fb/noop.gif?input=http%3A%2F%2F67.media.tumblr.com%2F136c43e2d05d75e37d6238aeeec0305d%2Ftumblr_obe3phHOVW1qav3uso2_r1_540.gif"></article>]]></description>
+            <link>http://prostheticknowledge.tumblr.com/post/148449669971/worlds-first-tattoo-by-industrial-robot</link>
+            <guid isPermaLink="false">12a66400-4efd-48db-beab-0cd1d9b44ab9</guid>
+            <pubDate>Fri, 05 Aug 2016 07:40:42 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -67,14 +74,6 @@
             <link>https://newrepublic.com/article/133889/reboot-world</link>
             <guid isPermaLink="false">415325de-e686-4f0c-993f-ebe8e481c275</guid>
             <pubDate>Mon, 27 Jun 2016 04:39:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA["Daily Inspiration" now available at my print shop]]></title>
-            <description><![CDATA[<article><h1>"Daily Inspiration" now available at my print shop</h1><p>
-The twin joys of perusing other people's photos and imaginging fictional universes meet in the surreal illustrations of Pierre Schmidt.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/f175a34f95a4ac937a8e72311adf7b56/noop.jpg?input=https%3A%2F%2Fscontent.cdninstagram.com%2Ft51.2885-15%2Fsh0.08%2Fe35%2Fp640x640%2F12081245_948423405193415_1863126598_n.jpg%3Fig_cache_key%3DMTEyMTg0NTQ3NjI3MDgzMzgzNQ%253D%253D.2"></article>]]></description>
-            <link>https://www.instagram.com/p/-RmIRSAICr/</link>
-            <guid isPermaLink="false">e5859112-5e0e-4dde-934e-bdfb2cd46bdf</guid>
-            <pubDate>Mon, 20 Jun 2016 13:46:45 GMT</pubDate>
         </item>
     </channel>
 </rss>
