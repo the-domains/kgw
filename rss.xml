@@ -4,7 +4,7 @@
         <description><![CDATA[Keep Grid Weird]]></description>
         <link>https://thegrid.ai/kgw/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 05 Aug 2016 10:47:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Aug 2016 10:48:25 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kgw/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[KGW Manifesto]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/kgw/kgw-manifesto/index.html</link>
             <guid isPermaLink="false">8f551792-6503-4c76-9d7f-4383b7607544</guid>
             <pubDate>Thu, 17 Dec 2015 15:02:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Psychedelics and Systems Change | P2P Foundation]]></title>
+            <description><![CDATA[<article><h1>Psychedelics and Systems Change | P2P Foundation</h1><p>Originally published (in a modified form) on the MAPS Bulletin (Spring 2016) Many arguments for the legalization of cannabis and psychedelics draw on their relative harmlessness. Countering the rationale of prohibition, we can point out that compared to legal drugs like alcohol and tobacco, psychedelics are extremely safe.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/a1e209cb3dbb78cfd9382d376700a67d/noop.jpg?input=https%3A%2F%2Fcdn6-blog.p2pfoundation.net%2Fwp-content%2Fuploads%2F5952227620_4e3cd5c8e0_b_Psychedelic.jpg"></article>]]></description>
+            <link>https://blog.p2pfoundation.net/psychedelics-and-systems-change/2016/08/05</link>
+            <guid isPermaLink="false">2b5a1748-8acf-43d1-8f48-6c042f738ecd</guid>
+            <pubDate>Fri, 05 Aug 2016 10:48:19 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Psychedelics and Systems Change | P2P Foundation]]></title>
@@ -67,13 +74,6 @@
             <link>http://vizor.io/visualgimmicks/area-51</link>
             <guid isPermaLink="false">cfde1b9e-c210-4bbb-a841-8d0d810f7011</guid>
             <pubDate>Mon, 27 Jun 2016 04:39:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img alt="The system built to divide, improverish and destroy us cannot stand if we do. - Jesse Williams #mondaymotivationpic.twitter.com/UtAjHjC6W4" src="https://pbs.twimg.com/media/Cl7lTd3VEAUDBVH.jpg:large">]]></description>
-            <link>https://twitter.com/urban_teacher/status/747286719054000129</link>
-            <guid isPermaLink="false">72467bed-1f08-42e4-a6ec-a64016728758</guid>
-            <pubDate>Mon, 27 Jun 2016 04:39:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
