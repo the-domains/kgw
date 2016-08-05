@@ -4,7 +4,7 @@
         <description><![CDATA[Keep Grid Weird]]></description>
         <link>https://thegrid.ai/kgw/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 05 Aug 2016 10:48:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 05 Aug 2016 11:16:26 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kgw/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[KGW Manifesto]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/kgw/kgw-manifesto/index.html</link>
             <guid isPermaLink="false">8f551792-6503-4c76-9d7f-4383b7607544</guid>
             <pubDate>Thu, 17 Dec 2015 15:02:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[File:AdmiraltyUmbrellaRevolution.JPG - Wikimedia Commons]]></title>
+            <description><![CDATA[<article><h1>File:AdmiraltyUmbrellaRevolution.JPG - Wikimedia Commons</h1><p>800 × 532 pixels. 320 × 213 pixels | 640 × 426 pixels | 1,024 × 681 pixels | 1,280 × 852 pixels | 4,592 × 3,056 pixels.</p><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/AdmiraltyUmbrellaRevolution.JPG/800px-AdmiraltyUmbrellaRevolution.JPG"></article>]]></description>
+            <link>https://en.m.wikipedia.org/wiki/Do_You_Hear_the_People_Sing%3F#/media/File%3AAdmiraltyUmbrellaRevolution.JPG</link>
+            <guid isPermaLink="false">298e5cd7-ba6c-41e5-b82f-0b416dc6cd9b</guid>
+            <pubDate>Fri, 05 Aug 2016 11:15:44 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Psychedelics and Systems Change | P2P Foundation]]></title>
@@ -67,13 +74,6 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/2edbfd84-2f09-43bd-889a-d12bf77eb5b5.jpg</link>
             <guid isPermaLink="false">0f68beb3-ddbc-4bfd-972a-d48c453e5b3b</guid>
             <pubDate>Mon, 27 Jun 2016 15:43:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Area 51 by Miguelangelo Rosario]]></title>
-            <description><![CDATA[<article><h1>Area 51 by Miguelangelo Rosario</h1><p>webvr with web-based editor, works with cardboard</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/33e24a85218a43afc37e25d12cd6f288/noop.png?input=http%3A%2F%2Fvizor.io%2Fdata%2Fpreviews%2Fvisualgimmicks%2Farea-51-preview-1280x720.png"></article>]]></description>
-            <link>http://vizor.io/visualgimmicks/area-51</link>
-            <guid isPermaLink="false">cfde1b9e-c210-4bbb-a841-8d0d810f7011</guid>
-            <pubDate>Mon, 27 Jun 2016 04:39:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
