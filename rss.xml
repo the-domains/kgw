@@ -4,7 +4,7 @@
         <description><![CDATA[Keep Grid Weird]]></description>
         <link>https://thegrid.ai/kgw/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 24 Aug 2016 01:37:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Aug 2016 16:48:21 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kgw/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[KGW Manifesto]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/kgw/kgw-manifesto/index.html</link>
             <guid isPermaLink="false">8f551792-6503-4c76-9d7f-4383b7607544</guid>
             <pubDate>Thu, 17 Dec 2015 15:02:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://pbs.twimg.com/media/Cqn8GC6XgAAAWVb.jpg:large">]]></description>
+            <link>https://twitter.com/connrbell/status/759468325902675972</link>
+            <guid isPermaLink="false">e1315464-f169-461b-851d-b215388c5b81</guid>
+            <pubDate>Thu, 25 Aug 2016 16:48:11 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[RoboActionPainting series by Dragan Ilić...]]></title>
@@ -68,12 +75,6 @@
             <link>https://twitter.com/LilianaSegura/status/758845530935930883</link>
             <guid isPermaLink="false">7b29ccf4-109d-4cc5-b246-dc5dec41c08f</guid>
             <pubDate>Wed, 03 Aug 2016 08:38:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Victoria Island, Nunavut, Unnamed Island]]></title>
-            <link>https://www.google.com/maps/d/viewer?ll=69.792357%2C-108.240395&amp;spn=0.041507%2C0.146255&amp;hl=en&amp;t=f&amp;vpsrc=6&amp;msa=0&amp;z=12&amp;source=embed&amp;ie=UTF8&amp;ecpose=69.7738227%2C-108.24039459%2C4450.74%2C0%2C25.13%2C0&amp;mid=1uksgXYzCxdMzi7EuVL2w9uviHMY</link>
-            <guid isPermaLink="false">622b5590-a4d3-41eb-9e70-3d26153a2c23</guid>
-            <pubDate>Sun, 17 Jul 2016 17:17:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
