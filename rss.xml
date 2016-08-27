@@ -4,7 +4,7 @@
         <description><![CDATA[Keep Grid Weird]]></description>
         <link>https://thegrid.ai/kgw/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 25 Aug 2016 16:48:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Aug 2016 18:34:32 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kgw/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[KGW Manifesto]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/kgw/kgw-manifesto/index.html</link>
             <guid isPermaLink="false">8f551792-6503-4c76-9d7f-4383b7607544</guid>
             <pubDate>Thu, 17 Dec 2015 15:02:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Brain " Laura JuoHsin Chen]]></title>
+            <description><![CDATA[<article><h1>Brain " Laura JuoHsin Chen</h1><p>We are imaginative beasts.</p><img src="http://www.jhclaura.com/wp-content/themes/equilibrium/timthumb.php?src=http://www.jhclaura.com/wp-content/uploads/2015/01/6B2A0882.jpg&h=453&w=680&q=90"></article>]]></description>
+            <link>http://www.jhclaura.com/portfolio/brain/</link>
+            <guid isPermaLink="false">60ad6cfc-9909-4dda-a9af-7e6392210bb6</guid>
+            <pubDate>Fri, 26 Aug 2016 18:34:18 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -67,13 +74,6 @@
             <description><![CDATA[<img src="https://pbs.twimg.com/media/CocKWjJWEAAlPJI.jpg">]]></description>
             <link>https://thegrid.ai/kgw/eceac27f-5be3-467b-9003-d4b0dc1b2ba4/index.html</link>
             <guid isPermaLink="false">eceac27f-5be3-467b-9003-d4b0dc1b2ba4</guid>
-            <pubDate>Wed, 03 Aug 2016 08:38:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Rachel Maddow notes that Chelsea and Ivanka are friends IRL--as are their husbands. It's almost like there's a ruling class in this country.</p>]]></description>
-            <link>https://twitter.com/LilianaSegura/status/758845530935930883</link>
-            <guid isPermaLink="false">7b29ccf4-109d-4cc5-b246-dc5dec41c08f</guid>
             <pubDate>Wed, 03 Aug 2016 08:38:09 GMT</pubDate>
         </item>
     </channel>
