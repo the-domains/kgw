@@ -1,21 +1,15 @@
-name: kgw
-favicon: null
+name: KGW
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/ed8bfb04-6b38-4db5-bfb7-b6bada247547.jpg
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/8bb54a69-cb52-4479-9417-a68dd9d6d2ab.jpg
 layout_spectrum: 0.54696
 typography_spectrum: 0.18926
-title: Keep Grid Weird
-style: the-composer
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+cta: {}
+analytics: {}
 opengraph:
-  image: null
-  type: null
-  appId: null
+  type: ''
+  appId: ''
 color:
   brandColors:
     - '#00fe4d'
@@ -28,3 +22,10 @@ color:
   saturation: 0.875
   rhythmicContrast: 0.75
 purpose: []
+title: Keep Grid Weird
+author:
+  name: ''
+  url: ''
+  email: ''
+content_rating:
+  adult: false
