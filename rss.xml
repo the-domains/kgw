@@ -4,7 +4,7 @@
         <description><![CDATA[Keep Grid Weird]]></description>
         <link>https://thegrid.ai/kgw/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 26 Aug 2016 18:34:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Aug 2016 21:11:46 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kgw/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[KGW Manifesto]]></title>
@@ -14,8 +14,15 @@
             <pubDate>Thu, 17 Dec 2015 15:02:51 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Minecraft Acid Interstate V3]]></title>
+            <description><![CDATA[<article><h1>Minecraft Acid Interstate V3</h1><p>a trip in minecraft</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/a0d780d5838c7232a44e9a3faf7b73c6/noop.jpg?input=https%3A%2F%2Fimg.youtube.com%2Fvi%2FgeGziPUQD2U%2Fmaxresdefault.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=geGziPUQD2U</link>
+            <guid isPermaLink="false">c4c33862-bc43-4a08-83a9-6430c19508b5</guid>
+            <pubDate>Wed, 31 Aug 2016 21:11:42 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Brain " Laura JuoHsin Chen]]></title>
-            <description><![CDATA[<article><h1>Brain " Laura JuoHsin Chen</h1><p>We are imaginative beasts.</p><img src="http://www.jhclaura.com/wp-content/themes/equilibrium/timthumb.php?src=http://www.jhclaura.com/wp-content/uploads/2015/01/6B2A0882.jpg&h=453&w=680&q=90"></article>]]></description>
+            <description><![CDATA[<article><h1>Brain " Laura JuoHsin Chen</h1><p>We are imaginative beasts.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/8a54d2934e4e16115b8610c031c6b08c/noop?input=http%3A%2F%2Fwww.jhclaura.com%2Fwp-content%2Fthemes%2Fequilibrium%2Ftimthumb.php%3Fsrc%3Dhttp%3A%2F%2Fwww.jhclaura.com%2Fwp-content%2Fuploads%2F2015%2F01%2F6B2A0882.jpg%26h%3D453%26w%3D680%26q%3D90"></article>]]></description>
             <link>http://www.jhclaura.com/portfolio/brain/</link>
             <guid isPermaLink="false">60ad6cfc-9909-4dda-a9af-7e6392210bb6</guid>
             <pubDate>Fri, 26 Aug 2016 18:34:18 GMT</pubDate>
@@ -68,13 +75,6 @@
             <link>http://prostheticknowledge.tumblr.com/post/148449669971/worlds-first-tattoo-by-industrial-robot</link>
             <guid isPermaLink="false">12a66400-4efd-48db-beab-0cd1d9b44ab9</guid>
             <pubDate>Fri, 05 Aug 2016 07:40:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://pbs.twimg.com/media/CocKWjJWEAAlPJI.jpg">]]></description>
-            <link>https://thegrid.ai/kgw/eceac27f-5be3-467b-9003-d4b0dc1b2ba4/index.html</link>
-            <guid isPermaLink="false">eceac27f-5be3-467b-9003-d4b0dc1b2ba4</guid>
-            <pubDate>Wed, 03 Aug 2016 08:38:09 GMT</pubDate>
         </item>
     </channel>
 </rss>
