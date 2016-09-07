@@ -4,7 +4,7 @@
         <description><![CDATA[Keep Grid Weird]]></description>
         <link>https://thegrid.ai/kgw/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 06 Sep 2016 17:12:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Sep 2016 19:50:10 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kgw/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[KGW Manifesto]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/kgw/kgw-manifesto/index.html</link>
             <guid isPermaLink="false">8f551792-6503-4c76-9d7f-4383b7607544</guid>
             <pubDate>Thu, 17 Dec 2015 15:02:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[George Carlin: The Apocalypse (2012)]]></title>
+            <description><![CDATA[<article><h1>George Carlin: The Apocalypse (2012)</h1><p>morbid week on kgw...</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/9f0823cd750af12a90d60c5c04b44094/noop.jpg?input=https%3A%2F%2Fimg.youtube.com%2Fvi%2FXiW4dwoIz-k%2Fhqdefault.jpg"></article>]]></description>
+            <link>https://youtu.be/XiW4dwoIz-k</link>
+            <guid isPermaLink="false">5c4e8f39-9edd-41e6-ac89-b3a4fa5e10af</guid>
+            <pubDate>Tue, 06 Sep 2016 19:50:06 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[qrmemorials]]></title>
@@ -68,13 +75,6 @@
             <link>http://prostheticknowledge.tumblr.com/post/149382671016/roboaction-painting-series-by-dragan-ili%C4%87-features</link>
             <guid isPermaLink="false">59881b35-0fa7-48c7-a281-1a81ef46c644</guid>
             <pubDate>Wed, 24 Aug 2016 01:37:20 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/10e0cdc2-964d-420f-a1d9-968e9be5e08f.jpg" alt="Dune VR">]]></description>
-            <link>http://thecreatorsproject.vice.com/blog/dune-psychedelic-vr-immersive-exhibition</link>
-            <guid isPermaLink="false">61a86324-eb02-407a-8793-328790d38ce7</guid>
-            <pubDate>Thu, 18 Aug 2016 13:40:31 GMT</pubDate>
         </item>
     </channel>
 </rss>
