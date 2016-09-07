@@ -4,7 +4,7 @@
         <description><![CDATA[Keep Grid Weird]]></description>
         <link>https://thegrid.ai/kgw/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 06 Sep 2016 19:50:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Sep 2016 01:09:50 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kgw/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[KGW Manifesto]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/kgw/kgw-manifesto/index.html</link>
             <guid isPermaLink="false">8f551792-6503-4c76-9d7f-4383b7607544</guid>
             <pubDate>Thu, 17 Dec 2015 15:02:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sleep With Bees]]></title>
+            <description><![CDATA[<article><h1>Sleep With Bees</h1><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/d8abd445d58aebdb987ea5a225df632d/noop.jpg?input=http%3A%2F%2Fwww.horizontalhive.com%2Fhoney-bee-images%2Fbee-bed-sleep-apitherapy.jpg"></article>]]></description>
+            <link>http://www.horizontalhive.com/how-to-build/bee-bed-sleep-hive-plans.shtml</link>
+            <guid isPermaLink="false">1b6c5be8-b052-4aa9-980d-1cf4a3f84dcb</guid>
+            <pubDate>Wed, 07 Sep 2016 01:09:44 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[George Carlin: The Apocalypse (2012)]]></title>
@@ -68,13 +75,6 @@
             <link>https://twitter.com/connrbell/status/759468325902675972</link>
             <guid isPermaLink="false">e1315464-f169-461b-851d-b215388c5b81</guid>
             <pubDate>Thu, 25 Aug 2016 16:48:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[RoboActionPainting series by Dragan Ilić...]]></title>
-            <description><![CDATA[<article><h1>RoboActionPainting series by Dragan Ilić...</h1><p>RoboActionPainting series by Dragan Ilić features abstracted mark-making using an industrial robot, sometimes carrying and guiding the artist himself: The artist constantly transposes into the third dimension his decade's long-running conceptual practice based on the usage of pencils as the basic draftsman's tool, starting primarily with the media of performance art, installation and sculpture in extended field.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/93baccc20a7e8daf1511bde4ca1c39e1/noop.gif?input=http%3A%2F%2F66.media.tumblr.com%2F54824f5f06a013cb888a1fbca8c07bfb%2Ftumblr_ocdq29r9ht1qav3uso1_540.gif"></article>]]></description>
-            <link>http://prostheticknowledge.tumblr.com/post/149382671016/roboaction-painting-series-by-dragan-ili%C4%87-features</link>
-            <guid isPermaLink="false">59881b35-0fa7-48c7-a281-1a81ef46c644</guid>
-            <pubDate>Wed, 24 Aug 2016 01:37:20 GMT</pubDate>
         </item>
     </channel>
 </rss>
