@@ -4,7 +4,7 @@
         <description><![CDATA[Keep Grid Weird]]></description>
         <link>https://thegrid.ai/kgw/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 03 Sep 2016 17:08:48 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 Sep 2016 17:08:46 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kgw/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[KGW Manifesto]]></title>
@@ -14,15 +14,8 @@
             <pubDate>Thu, 17 Dec 2015 15:02:51 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[My Lil' Donut on Steam]]></title>
-            <description><![CDATA[<article><h1>My Lil' Donut on Steam</h1><p>Before you lies your Donut. You can pull and twist it, snap and swish it. You have a whole arsenal of settings, presets and tools to play with. You can freeze it, relax it, save any contortion to be viewed later. You can even rip it apart so it returns to the void from which it came.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/a9adabce7c8fb1222e21ab30729497f1/noop.jpg?input=http%3A%2F%2Fcdn.akamai.steamstatic.com%2Fsteam%2Fapps%2F506280%2Fheader.jpg%3Ft%3D1472656183"></article>]]></description>
-            <link>http://store.steampowered.com/app/506280</link>
-            <guid isPermaLink="false">28f9c7a4-6098-40bd-9864-69abe45d26c4</guid>
-            <pubDate>Sat, 03 Sep 2016 17:08:46 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[1997: Bowie's Advice to Artists]]></title>
-            <description><![CDATA[<article><h1>1997: Bowie's Advice to Artists</h1><p>When asked if he had advice for musicians, Bowie replied: "Yes, never play at a gallery. [Laughs] I think. But you never learn that until much later on. But never work for other people at what you do. Always...</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/da7ac2e58f5b7a9ba816dbe71976e540/noop.jpg?input=https%3A%2F%2Fimg.youtube.com%2Fvi%2Fh48hGHALFC4%2Fmaxresdefault.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>1997: Bowie's Advice to Artists</h1><p>When asked if he had advice for musicians, Bowie replied: "Yes, never play at a gallery. [Laughs] I think. But you never learn that until much later on. But never work for other people at what you do. Always...</p></article>]]></description>
             <link>https://youtu.be/h48hGHALFC4</link>
             <guid isPermaLink="false">4b6ac452-3782-4371-9605-5e40ac126109</guid>
             <pubDate>Sat, 03 Sep 2016 17:08:18 GMT</pubDate>
@@ -75,6 +68,13 @@
             <link>https://blog.p2pfoundation.net/psychedelics-and-systems-change/2016/08/05</link>
             <guid isPermaLink="false">2b5a1748-8acf-43d1-8f48-6c042f738ecd</guid>
             <pubDate>Fri, 05 Aug 2016 10:48:19 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Psychedelics and Systems Change | P2P Foundation]]></title>
+            <description><![CDATA[<article><h1>Psychedelics and Systems Change | P2P Foundation</h1><p>…</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/a1e209cb3dbb78cfd9382d376700a67d/noop.jpg?input=https%3A%2F%2Fcdn6-blog.p2pfoundation.net%2Fwp-content%2Fuploads%2F5952227620_4e3cd5c8e0_b_Psychedelic.jpg"></article>]]></description>
+            <link>https://famousclass.bandcamp.com/album/start-your-own-fucking-show-space</link>
+            <guid isPermaLink="false">f59e5cd6-9494-4978-be46-5e4be32dc987</guid>
+            <pubDate>Fri, 05 Aug 2016 10:47:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
