@@ -4,15 +4,22 @@
         <description><![CDATA[Keep Grid Weird]]></description>
         <link>https://thegrid.ai/kgw/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 17 Sep 2016 14:32:24 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Sep 2016 15:16:44 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kgw/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 17 Sep 2016 14:32:23 GMT</pubDate>
+        <pubDate>Sat, 17 Sep 2016 15:16:17 GMT</pubDate>
         <item>
             <title><![CDATA[KGW Manifesto]]></title>
             <description><![CDATA[<article><h1>KGW Manifesto</h1><p>Everything is connected.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/777819cf4da4d752d6f4f3fdfc4181e0a4eea620.png"></article>]]></description>
             <link>https://thegrid.ai/kgw/kgw-manifesto/index.html</link>
             <guid isPermaLink="false">8f551792-6503-4c76-9d7f-4383b7607544</guid>
             <pubDate>Thu, 17 Dec 2015 15:02:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/01987d7f-6afe-4477-a97e-430fd19bcbfc.jpg">]]></description>
+            <link>https://photos.google.com/share/AF1QipMs4yYqz_n-0RgoAtzvNvjojDBOdLcZ875hS7wQZx4pui9gwRLxKW1oJdvtmYODdw?key=a0ZnU2wyU1R4elRnakVkaE9PN1NNWVh3TFpQMHJB</link>
+            <guid isPermaLink="false">740d1349-286a-41ec-a7cb-f65b2f7e78c1</guid>
+            <pubDate>Sat, 17 Sep 2016 15:16:16 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -69,13 +76,6 @@
             <link>https://youtu.be/XiW4dwoIz-k</link>
             <guid isPermaLink="false">5c4e8f39-9edd-41e6-ac89-b3a4fa5e10af</guid>
             <pubDate>Tue, 06 Sep 2016 19:50:06 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[qrmemorials]]></title>
-            <description><![CDATA[<article><h1>qrmemorials</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/71052956d1524457c21829a254228657928cec8e.png"></article>]]></description>
-            <link>http://qrmemorials.com/</link>
-            <guid isPermaLink="false">ceb891f9-6bfe-4619-a4cb-114841952384</guid>
-            <pubDate>Tue, 06 Sep 2016 17:12:35 GMT</pubDate>
         </item>
     </channel>
 </rss>
