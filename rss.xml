@@ -4,15 +4,29 @@
         <description><![CDATA[Keep Grid Weird]]></description>
         <link>https://thegrid.ai/kgw/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 22 Sep 2016 17:47:53 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 Sep 2016 04:53:29 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kgw/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Thu, 22 Sep 2016 17:47:51 GMT</pubDate>
+        <pubDate>Sat, 24 Sep 2016 04:52:33 GMT</pubDate>
         <item>
             <title><![CDATA[KGW Manifesto]]></title>
             <description><![CDATA[<article><h1>KGW Manifesto</h1><p>Everything is connected.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/777819cf4da4d752d6f4f3fdfc4181e0a4eea620.png"></article>]]></description>
             <link>https://thegrid.ai/kgw/kgw-manifesto/index.html</link>
             <guid isPermaLink="false">8f551792-6503-4c76-9d7f-4383b7607544</guid>
             <pubDate>Thu, 17 Dec 2015 15:02:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Palmer Luckey doing donuts in the metaverse]]></title>
+            <description><![CDATA[<article><h1>Palmer Luckey doing donuts in the metaverse</h1><p>Tycho sunrise dj set from the Dusty Rhino at Burning Man on Thursday, September 3rd, 2015. Don't really know how to express my gratitude for the experience with everyone out there this year, it was so perfectly beautiful. Thanks to everyone who made it possible. See you next time!</p></article>]]></description>
+            <link>https://app.meemoo.org/#gist/0aefb6189b3845f45b961f862e87e368</link>
+            <guid isPermaLink="false">e6841c00-e23a-4f50-91c3-cff6a159e62a</guid>
+            <pubDate>Sat, 24 Sep 2016 04:51:39 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Palmer Luckey's Trump fund has been a kick in the teeth for VR]]></title>
+            <description><![CDATA[<article><h1>Palmer Luckey's Trump fund has been a kick in the teeth for VR</h1><p>Last night, The Daily Beast reported that virtual reality pioneer Palmer Luckey had secretly funded a pro-Trump group called Nimble America, dedicated to promoting internet memes and "shitposting"...</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/b238e2ac9ea9b18331d3e2bd32f5dbc6/noop.jpg?input=https%3A%2F%2Fcdn1.vox-cdn.com%2Fuploads%2Fchorus_image%2Fimage%2F50969131%2Fios10.0.jpg"></article>]]></description>
+            <link>http://www.theverge.com/2016/9/23/13033268/palmer-luckey-trump-meme-fund-oculus-developers-respond</link>
+            <guid isPermaLink="false">3c262fd0-af15-4a14-bd0d-fe5e87bfbc17</guid>
+            <pubDate>Sat, 24 Sep 2016 04:50:11 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Machine with Concrete — Arthur Ganson]]></title>
@@ -62,20 +76,6 @@
             <link>https://photos.google.com/share/AF1QipMs4yYqz_n-0RgoAtzvNvjojDBOdLcZ875hS7wQZx4pui9gwRLxKW1oJdvtmYODdw?key=a0ZnU2wyU1R4elRnakVkaE9PN1NNWVh3TFpQMHJB</link>
             <guid isPermaLink="false">740d1349-286a-41ec-a7cb-f65b2f7e78c1</guid>
             <pubDate>Sat, 17 Sep 2016 15:16:16 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img alt="RIP Don Buchla. Thank you for everything." src="https://pbs.twimg.com/media/CsgXflgVIAIrSXs.jpg:large">]]></description>
-            <link>https://twitter.com/cullenmiller/status/776896773281284096</link>
-            <guid isPermaLink="false">cbb927f4-30d3-404f-b884-f169431b6e7c</guid>
-            <pubDate>Sat, 17 Sep 2016 14:32:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/bbbe3d617763dcb71487fc1fb5828361/noop.jpg?input=http%3A%2F%2Fcdn77.sadanduseless.com%2Fwp-content%2Fuploads%2F2016%2F08%2Fshirt8.jpg">]]></description>
-            <link>http://cdn77.sadanduseless.com/wp-content/uploads/2016/08/shirt8.jpg</link>
-            <guid isPermaLink="false">cfc7c0c4-415d-476c-a325-69a3bfd2b2f1</guid>
-            <pubDate>Thu, 15 Sep 2016 21:01:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
