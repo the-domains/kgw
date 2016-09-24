@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-09-24T05:10:55.226Z'
+datePublished: '2016-09-24T05:13:21.506Z'
 sourcePath: _posts/2016-09-24-palmer-luckey-doing-donuts-in-the-metaverse.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-09-24T05:10:50.704Z'
+dateModified: '2016-09-24T05:13:16.288Z'
 title: Palmer Luckey doing donuts in the metaverse
 publisher: {}
 description: ''
@@ -16,7 +16,7 @@ _type: Article
 ---
 # Palmer Luckey doing donuts in the metaverse
 
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJwlzUkOAiEQAMCvEIzXgdmYhln-AtosiQQCnai_92B9oI7km83IenucPBLVboSwtQ4ZMZcylBbELaROQlr0To2g3QzL6pfVaTV6UBPChrMCzjp9X3jyd3pSNFredxYxhUhmm2T98OsQ_-z6Aco1JSU" height="750" style=""></iframe>
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJwlzUsOwiAQANCrEIzbQn8jYNu7gA6fRAKBSbS378J3gbcl32xG1ttr55GodiOErXXIiLmUobQgbiF1EtKidzAq7Wa1rH5ZnYbRK5hQPXAGxVmn84M7_6Y3RaPl_ckiphDJwCTrjx-b-GfHBcolJSQ" height="650" style=""></iframe>
 
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/cb0bf7ab83af1f5cb66acb43f9449a90d92c0c60.jpg)
 
