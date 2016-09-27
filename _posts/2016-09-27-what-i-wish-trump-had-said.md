@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-09-27T21:16:20.005Z'
+datePublished: '2016-09-27T23:05:40.423Z'
 sourcePath: _posts/2016-09-27-what-i-wish-trump-had-said.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-09-27T21:03:11.452Z'
+dateModified: '2016-09-27T23:05:25.591Z'
 title: What I wish Trump had said
 publisher: {}
 description: >-
@@ -17,6 +17,8 @@ _type: Article
 
 ---
 # What I wish Trump had said
+
+## So, you want to make this election a referendum on the status quo?
 
 Climate change, not terrorism, is the only imminent threat to our continued existence. I propose that we do a little national restructuring.
 
