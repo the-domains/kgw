@@ -1,26 +1,26 @@
+layout_spectrum: 0.8064247285947204
+typography_spectrum: 0.8395928198006004
+color:
+  brandColors:
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
+  brandStrength: 0.9276992278173566
+  lightness: 0.45641640457324684
+  saturation: 0.24891139077953994
+  rhythmicContrast: 0.8172235200181603
 name: KGW
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/ed8bfb04-6b38-4db5-bfb7-b6bada247547.jpg
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/8bb54a69-cb52-4479-9417-a68dd9d6d2ab.jpg
-layout_spectrum: 0.54696
-typography_spectrum: 0.18926
 cta: {}
 analytics: {}
 opengraph:
   type: ''
   appId: ''
-color:
-  brandColors:
-    - '#00fe4d'
-    - '#1b13e3'
-    - '#116beb'
-    - '#b00009'
-    - '#c95e54'
-  brandStrength: 0
-  lightness: 0.5
-  saturation: 0.875
-  rhythmicContrast: 0.75
 purpose: []
 title: Keep Grid Weird
 author:
