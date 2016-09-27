@@ -4,15 +4,29 @@
         <description><![CDATA[Keep Grid Weird]]></description>
         <link>https://thegrid.ai/kgw/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 24 Sep 2016 21:33:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Sep 2016 19:13:51 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kgw/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 24 Sep 2016 21:33:33 GMT</pubDate>
+        <pubDate>Tue, 27 Sep 2016 19:13:50 GMT</pubDate>
         <item>
             <title><![CDATA[KGW Manifesto]]></title>
             <description><![CDATA[<article><h1>KGW Manifesto</h1><p>Everything is connected.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/777819cf4da4d752d6f4f3fdfc4181e0a4eea620.png"></article>]]></description>
             <link>https://thegrid.ai/kgw/kgw-manifesto/index.html</link>
             <guid isPermaLink="false">8f551792-6503-4c76-9d7f-4383b7607544</guid>
             <pubDate>Thu, 17 Dec 2015 15:02:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[What I wish Trump had said]]></title>
+            <description><![CDATA[<article><h1>What I wish Trump had said</h1><p>Climate change, not terrorism, is the only imminent threat to our continued existence. I propose that we do a little national restructuring.</p></article>]]></description>
+            <link>https://thegrid.ai/kgw/what-i-wish-trump-had-said/index.html</link>
+            <guid isPermaLink="false">237e2bf8-0e69-4915-99e9-6bf82b31a391</guid>
+            <pubDate>Tue, 27 Sep 2016 19:13:49 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[church knockout]]></title>
+            <description><![CDATA[<article><h1>church knockout</h1><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/8bc37ba274773469c7d94cdddc59f67f/noop.jpg?input=https%3A%2F%2Fi.imgur.com%2FkcVSVLOh.jpg"></article>]]></description>
+            <link>https://www.youtube.com/watch?v=5qVMaOrSpK0</link>
+            <guid isPermaLink="false">2bc7eb66-fa65-4f7b-9566-05d997e306a0</guid>
+            <pubDate>Tue, 27 Sep 2016 17:43:29 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Palmer Luckey doing donuts in the metaverse]]></title>
@@ -62,20 +76,6 @@
             <link>https://twitter.com/JoeevansJoe/status/777572601682071552</link>
             <guid isPermaLink="false">ca233e32-0ec4-488c-b7ba-59b1f0bfe32c</guid>
             <pubDate>Mon, 19 Sep 2016 13:45:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img alt="Building my child drone painting army" src="https://pbs.twimg.com/media/CskK6y8XYAQ_DTc.jpg:large">]]></description>
-            <link>https://twitter.com/wheresaddie/status/777164433948901376</link>
-            <guid isPermaLink="false">b73bebba-755d-4ed1-93ca-11b6a4a41eda</guid>
-            <pubDate>Sat, 17 Sep 2016 15:18:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/01987d7f-6afe-4477-a97e-430fd19bcbfc.jpg">]]></description>
-            <link>https://photos.google.com/share/AF1QipMs4yYqz_n-0RgoAtzvNvjojDBOdLcZ875hS7wQZx4pui9gwRLxKW1oJdvtmYODdw?key=a0ZnU2wyU1R4elRnakVkaE9PN1NNWVh3TFpQMHJB</link>
-            <guid isPermaLink="false">740d1349-286a-41ec-a7cb-f65b2f7e78c1</guid>
-            <pubDate>Sat, 17 Sep 2016 15:16:16 GMT</pubDate>
         </item>
     </channel>
 </rss>
