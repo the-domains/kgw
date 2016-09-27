@@ -1,17 +1,19 @@
 ---
-datePublished: '2016-09-27T19:12:08.724Z'
+datePublished: '2016-09-27T19:13:49.798Z'
+sourcePath: _posts/2016-09-27-what-i-wish-trump-had-said.md
 inFeed: true
+hasPage: true
 author: []
 via: {}
-dateModified: '2016-09-27T19:12:00.331Z'
+dateModified: '2016-09-27T19:13:45.957Z'
 title: What I wish Trump had said
 publisher: {}
 description: >-
   Climate change, not terrorism, is the only imminent threat to our continued
   existence. I propose that we do a little national restructuring.
 starred: false
-sourcePath: _posts/2016-09-27-what-i-wish-trump-had-said.md
-_type: Blurb
+url: what-i-wish-trump-had-said/index.html
+_type: Article
 
 ---
 # What I wish Trump had said
