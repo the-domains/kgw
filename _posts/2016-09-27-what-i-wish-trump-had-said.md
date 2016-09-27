@@ -1,16 +1,14 @@
 ---
-datePublished: '2016-09-27T23:05:40.423Z'
+datePublished: '2016-09-27T23:15:19.534Z'
 sourcePath: _posts/2016-09-27-what-i-wish-trump-had-said.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-09-27T23:05:25.591Z'
+dateModified: '2016-09-27T23:15:02.656Z'
 title: What I wish Trump had said
 publisher: {}
-description: >-
-  Climate change, not terrorism, is the only imminent threat to our continued
-  existence. I propose that we do a little national restructuring.
+description: 'So, you want to make this election a referendum on the status quo?'
 starred: false
 url: what-i-wish-trump-had-said/index.html
 _type: Article
@@ -18,7 +16,7 @@ _type: Article
 ---
 # What I wish Trump had said
 
-## So, you want to make this election a referendum on the status quo?
+So, you want to make this election a [referendum on the status quo][0]?
 
 Climate change, not terrorism, is the only imminent threat to our continued existence. I propose that we do a little national restructuring.
 
@@ -28,13 +26,13 @@ Missions to Mars are a great dream to reach for, but we need a plan to survive h
 
 I propose that we form a new Planetary Survival Administration (**PSA**).
 
-PSA will be budgeted by a **%** designation on your taxes. All other agencies will have to make their case for the rest. Or crowdfund.
+PSA will be budgeted by a **%** designation on your taxes. All other agencies will have to make their case for the rest. Or [crowdfund][1].
 
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJx9VF1r2zAUffevuBi2Oo3rOEmzNk1SyMoGe9gY68MeSh9U6yYWcyQjyU1C6X_flWS7YYyCwVf3HJ37aS_L8e1dqQyCLRFq1AVKy7YIagNH1Wiw7IAGrAKORmwlswgbpT375_36ZjkigWgpZN1YEHwVm0pw1DHYY42rWDO5xRieWdXQKc9mMeyEJIve7LCKxzEYi7WDcm8fK-LtBbflDczzD4v4djny4hSk9gEq9oRVfBuBjw8zIsG6qkBRStp4R7Qc1cQvmHxmxl8KphMLllNrJYBJDj_W9-uUzhw3KA2mnQH6I9vVC-4wqWTn5cIUGq1Qkuljeoqc8I0qBKvAYNFoYYm2Qy4KprGzhKf5vKkbkgurvBpSJ6VFjcaGSgCiJQUUNXXhmWkIPYYVcFU0OxpYtkX7pUJnfj5-48lZYJwNPN137D22J7TktmnvsAOjpftRETs4s-64F5KrfSakRP3b-y5gkvsbJYptad-u9OdZvggZKCr-cMKgBO6CLzmbcAochfIyJcPerWDTyMKNA5IBvFC_nA4tHSEt1W9gC7RbTmDNtMGvlWI2IcKgxU2p9gR-Z7bMtGokT7ob5zDOc0fzHctcSj4zLxb7fYxhGASGEP-zmQ5KSODC4QNPiN3OabbvIgyi1yjqi3EI9FBf2FPDqSUU8WE2uU7h6iqFy_kshU_zFOZT8syupylMZ2NyXeUpTK6nj-1Vt1N0cUzjaGUjQtqOZ0WFTP_CwiZ0ix4_zbSd2GDRahz8fN1Mz3uRNw1jtfqDJyKHXoBY7teROBFBIvmCXsu2nKxCubUluYbDUGqIJizuiBtID-KxB9yIPDiCyzzPKZkuKf_hONp_cjqEwk5zAqpoSCWR-era7-dBv6oBfXzdV_cXWX-cHA" height="360" style=""></iframe>
 
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/8b701dabbf4da9117ddc81bb1e9c01ee8f936cb7.png)
 
-We'll figure out more forms of more-direct democratic decision-making. [Code for America][0] and [18f.gsa.gov][1] have some ideas I'm sure.
+We'll figure out more forms of more-direct democratic decision-making. [Code for America][2] and [18f.gsa.gov][3] have some ideas I'm sure.
 
 Basic income for all, with bonuses for people working on PSA-associated projects.
 
@@ -48,5 +46,7 @@ And by the way, we're gonna make a show about it. Gonna be magnificent. So great
 
 _--- Fantasy Donald Trump, September 26, 2016_
 
-[0]: https://www.codeforamerica.org/
-[1]: https://18f.gsa.gov/
+[0]: http://libertyblitzkrieg.com/2016/09/26/the-2016-presidential-election-comes-down-to-only-one-thing/
+[1]: http://www.blog.ryanhay.es/a-great-day/
+[2]: https://www.codeforamerica.org/
+[3]: https://18f.gsa.gov/
