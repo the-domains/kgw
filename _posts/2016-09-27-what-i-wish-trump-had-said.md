@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-09-27T23:15:19.534Z'
+datePublished: '2016-09-27T23:20:14.973Z'
 sourcePath: _posts/2016-09-27-what-i-wish-trump-had-said.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-09-27T23:15:02.656Z'
+dateModified: '2016-09-27T23:20:07.337Z'
 title: What I wish Trump had said
 publisher: {}
 description: 'So, you want to make this election a referendum on the status quo?'
@@ -46,7 +46,12 @@ And by the way, we're gonna make a show about it. Gonna be magnificent. So great
 
 _--- Fantasy Donald Trump, September 26, 2016_
 
+---------
+
+_Note: this idea is mostly stolen from the Green Party's [Green New Deal][4] proposal._
+
 [0]: http://libertyblitzkrieg.com/2016/09/26/the-2016-presidential-election-comes-down-to-only-one-thing/
 [1]: http://www.blog.ryanhay.es/a-great-day/
 [2]: https://www.codeforamerica.org/
 [3]: https://18f.gsa.gov/
+[4]: https://en.wikipedia.org/wiki/Green_New_Deal
