@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-09-27T20:07:20.759Z'
+datePublished: '2016-09-27T21:16:20.005Z'
 sourcePath: _posts/2016-09-27-what-i-wish-trump-had-said.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-09-27T20:07:14.949Z'
+dateModified: '2016-09-27T21:03:11.452Z'
 title: What I wish Trump had said
 publisher: {}
 description: >-
@@ -28,7 +28,7 @@ I propose that we form a new Planetary Survival Administration (**PSA**).
 
 PSA will be budgeted by a **%** designation on your taxes. All other agencies will have to make their case for the rest. Or crowdfund.
 
-<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJx9kMFqwzAMhu95CmEYTVeWpoce1iWFrmyww2CwJzCxmhhc29hK1zD27lOcbIcddrKs_5P081fdZn_sXESgDsFjaNCSbBHcCQbXByB5xQjkQGHUrZWEcHIh0W_vh1215gVZpa3vCbSqRTRaYRBAg8daBGlbFHCRpudfWWwFnLXlil95rcVGQCT0o1SmejDMfWhF3Q7uy5sHsa_WaTkf8enA7FHsM0gOYMsYHIwBx6ZCTI2sWvsRyKrYBO15-iIDTN6gBuWa_sxLihbpyeBYPg4vKl9MxGKZ8PnSf_yM8EA2jRbOTlnUcOptQ9pZyPHCzBI-2dC4l9NgeeZTNEkYm16GiM_GScq5sYRb2JTlr_oqqSuC661KKvfn-wXhlY7O0mRXpFzEiqGV-BOOWOW88m6cZ01kXxzVT0bfRDemSQ" height="244" style=""></iframe>
+<iframe src="https://the-grid.github.io/ed-userhtml/?g=eJx9VF1r2zAUffevuBi2Oo3rOEmzNk1SyMoGe9gY68MeSh9U6yYWcyQjyU1C6X_flWS7YYyCwVf3HJ37aS_L8e1dqQyCLRFq1AVKy7YIagNH1Wiw7IAGrAKORmwlswgbpT375_36ZjkigWgpZN1YEHwVm0pw1DHYY42rWDO5xRieWdXQKc9mMeyEJIve7LCKxzEYi7WDcm8fK-LtBbflDczzD4v4djny4hSk9gEq9oRVfBuBjw8zIsG6qkBRStp4R7Qc1cQvmHxmxl8KphMLllNrJYBJDj_W9-uUzhw3KA2mnQH6I9vVC-4wqWTn5cIUGq1Qkuljeoqc8I0qBKvAYNFoYYm2Qy4KprGzhKf5vKkbkgurvBpSJ6VFjcaGSgCiJQUUNXXhmWkIPYYVcFU0OxpYtkX7pUJnfj5-48lZYJwNPN137D22J7TktmnvsAOjpftRETs4s-64F5KrfSakRP3b-y5gkvsbJYptad-u9OdZvggZKCr-cMKgBO6CLzmbcAochfIyJcPerWDTyMKNA5IBvFC_nA4tHSEt1W9gC7RbTmDNtMGvlWI2IcKgxU2p9gR-Z7bMtGokT7ob5zDOc0fzHctcSj4zLxb7fYxhGASGEP-zmQ5KSODC4QNPiN3OabbvIgyi1yjqi3EI9FBf2FPDqSUU8WE2uU7h6iqFy_kshU_zFOZT8syupylMZ2NyXeUpTK6nj-1Vt1N0cUzjaGUjQtqOZ0WFTP_CwiZ0ix4_zbSd2GDRahz8fN1Mz3uRNw1jtfqDJyKHXoBY7teROBFBIvmCXsu2nKxCubUluYbDUGqIJizuiBtID-KxB9yIPDiCyzzPKZkuKf_hONp_cjqEwk5zAqpoSCWR-era7-dBv6oBfXzdV_cXWX-cHA" height="360" style=""></iframe>
 
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/8b701dabbf4da9117ddc81bb1e9c01ee8f936cb7.png)
 
