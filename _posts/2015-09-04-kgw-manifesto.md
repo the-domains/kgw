@@ -1,48 +1,50 @@
 ---
-inFeed: true
-hasPage: true
-inNav: true
-inLanguage: null
-starred: true
-keywords: []
-description: Keep The Grid Weird
-datePublished: '2015-12-17T15:02:51.917Z'
-dateModified: '2015-12-17T15:01:00.103Z'
-title: KGW Manifesto
+datePublished: '2016-09-28T15:45:22.926Z'
 sourcePath: _posts/2015-09-04-kgw-manifesto.md
-published: true
+inFeed: true
+authors: []
+hasPage: true
+keywords: []
+author:
+  - name: ''
+    url: ''
+dateModified: '2016-09-28T15:45:22.081Z'
+title: KGW Manifesto
 tags:
   - ''
-author: []
-authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+publisher: {}
+description: >-
+  It is not possible to represent yourself in one media. You are multitudes (or
+  at least a small crowd), hyperdimensional, and the metamedia can represent a
+  fuller picture.
+inLanguage: null
+via: {}
+starred: true
 url: kgw-manifesto/index.html
-_type: Article
 _context: 'http://schema.org'
+_type: Article
 
 ---
 # KGW Manifesto
-![kgw](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4a6ba245-dcd6-4cdb-9ea4-db1e51072558.png)
-
-Everything is connected.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/61069cf8-e86d-4a4c-989c-e04e3e093644.jpg)
+![kgw](https://s3-us-west-2.amazonaws.com/the-grid-img/p/777819cf4da4d752d6f4f3fdfc4181e0a4eea620.png)
 
 It is not possible to represent yourself in one media. You are multitudes (or at least a small crowd), hyperdimensional, and the metamedia can represent a fuller picture.
 
+:::)
+
+Everything is connected.
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/61279553df9e258dd871479126ec57ba42397acd.jpg)
+
 Why isn't it easy to build
 
-> the metamedia representation of your project, art, craft, music, research? 
+> the metamedia representation of your project, art, craft, music, research?
 
 AKA your website.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/836ec8ce-e88e-4b72-b623-05af99f3080d.png)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/b180fecd31be9ec5034921a40b21012ca842827e.png)
 
 # hyper/meta/multi // media/verse/sensory
 
 (combine all of those prefixes and suffixes)
-![kgw](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7051d2fd-88bf-4d1a-8dc5-33ed4d4d81f8.png)
+![kgw](https://s3-us-west-2.amazonaws.com/the-grid-img/p/c6511fcaec013331af7f611331cf9293cf84bfd7.png)
 
-...
+> tfw your generative system looked the best the moment before you hit record...
