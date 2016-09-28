@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-09-28T01:43:16.523Z'
+datePublished: '2016-09-28T03:05:43.021Z'
 sourcePath: _posts/2016-09-27-what-i-wish-trump-had-said.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-09-28T01:43:14.545Z'
+dateModified: '2016-09-28T03:05:27.189Z'
 title: What I wish Trump had said
 publisher: {}
 description: 'So, you want to make this election a referendum on the status quo?'
@@ -40,19 +40,20 @@ All projects must answer the fundamental **Earth User Story**: how does this hel
 
 You speak of trickle-down economy... the only times that has worked is the trickle out of knowledge, and eventual creation of whole segments of the economy, from big projects. Think WPA (electrification of the South), NASA (Velcro and Tang), and Defense (the internet). Think big.
 
-To our seniors in high school, we're going to **bring back the draft**, but it will be more like AmeriCorp: a gap-year program that you can spend teaching, doing medical service, working for a non-profit, joining a PSA-funded startup... get a living wage and funding for continuing education.
+To our seniors in high school, we're going to **bring back the draft**. It will be more like [AmeriCorps][5]: a gap-year program that you can spend teaching, doing medical service, working for a non-profit, joining a PSA-funded startup... get a living wage and funding for continuing education.
 
-And by the way, we're gonna make a show about it. Gonna be magnificent. So great. I'll be hosting it, pretending to call the shots. Not to be pinocchious, but it will be a truly beautiful thing.
+And by the way, we're gonna make a show about it. Gonna be magnificent. So great. I'll be hosting it, pretending to call the shots. Not to be _pinocchious_, but it will be a truly beautiful thing.
 
 _--- Fantasy Donald Trump, September 26, 2016_
 
 ---------
 
-_Note: this idea is mostly borrowed from [Green New Deal][5] proposals espoused by the Green Party, Thomas L. Friedman, et al._
+_Note: this idea is mostly borrowed from [Green New Deal][6] proposals espoused by the Green Party, Thomas L. Friedman, et al._
 
 [0]: http://libertyblitzkrieg.com/2016/09/26/the-2016-presidential-election-comes-down-to-only-one-thing/
 [1]: https://en.wikipedia.org/wiki/Robin_Hood_tax
 [2]: http://www.blog.ryanhay.es/a-great-day/
 [3]: https://www.codeforamerica.org/
 [4]: https://18f.gsa.gov/
-[5]: https://en.wikipedia.org/wiki/Green_New_Deal
+[5]: http://www.nationalservice.gov/
+[6]: https://en.wikipedia.org/wiki/Green_New_Deal
