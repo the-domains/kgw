@@ -1,5 +1,6 @@
-layout_spectrum: 0.8064247285947204
 typography_spectrum: 0.8395928198006004
+content_rating:
+  adult: false
 color:
   brandColors:
     - '#FFFFFF'
@@ -11,22 +12,25 @@ color:
   lightness: 0.45641640457324684
   saturation: 0.24891139077953994
   rhythmicContrast: 0.8172235200181603
-name: KGW
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/ed8bfb04-6b38-4db5-bfb7-b6bada247547.jpg
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/8bb54a69-cb52-4479-9417-a68dd9d6d2ab.jpg
-cta: {}
-analytics: {}
+github: true
 opengraph:
   type: ''
   appId: ''
-purpose: []
-title: Keep Grid Weird
+layout_spectrum: 0.8064247285947204
+analytics: {}
 author:
   name: ''
   url: ''
   email: ''
-content_rating:
-  adult: false
-github: true
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/8bb54a69-cb52-4479-9417-a68dd9d6d2ab.jpg
+name: KGW
+cta: {}
+navigation:
+  - name: A referendum on the status quo?
+    id: 237e2bf8-0e69-4915-99e9-6bf82b31a391
+    type: content
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/ed8bfb04-6b38-4db5-bfb7-b6bada247547.jpg
+title: Keep Grid Weird
+purpose: []
