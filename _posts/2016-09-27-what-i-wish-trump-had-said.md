@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-09-28T03:05:43.021Z'
+datePublished: '2016-09-28T03:07:04.499Z'
 sourcePath: _posts/2016-09-27-what-i-wish-trump-had-said.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-09-28T03:05:27.189Z'
+dateModified: '2016-09-28T03:06:58.896Z'
 title: What I wish Trump had said
 publisher: {}
 description: 'So, you want to make this election a referendum on the status quo?'
@@ -42,7 +42,7 @@ You speak of trickle-down economy... the only times that has worked is the trick
 
 To our seniors in high school, we're going to **bring back the draft**. It will be more like [AmeriCorps][5]: a gap-year program that you can spend teaching, doing medical service, working for a non-profit, joining a PSA-funded startup... get a living wage and funding for continuing education.
 
-And by the way, we're gonna make a show about it. Gonna be magnificent. So great. I'll be hosting it, pretending to call the shots. Not to be _pinocchious_, but it will be a truly beautiful thing.
+And by the way, we're gonna make a show about it. Gonna be magnificent. So great. I'll be starring, pretending to call the shots. Not to be _pinocchious_, but it will be a truly beautiful thing.
 
 _--- Fantasy Donald Trump, September 26, 2016_
 
