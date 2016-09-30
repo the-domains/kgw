@@ -4,15 +4,22 @@
         <description><![CDATA[Keep Grid Weird]]></description>
         <link>https://thegrid.ai/kgw/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 30 Sep 2016 15:20:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Sep 2016 15:20:47 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kgw/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Fri, 30 Sep 2016 15:20:10 GMT</pubDate>
+        <pubDate>Fri, 30 Sep 2016 15:20:34 GMT</pubDate>
         <item>
             <title><![CDATA[KGW Manifesto]]></title>
             <description><![CDATA[<article><h1>KGW Manifesto</h1><p>It is not possible to represent yourself in one media. You are multitudes (or at least a small crowd), hyperdimensional, and the metamedia can represent a fuller picture.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/777819cf4da4d752d6f4f3fdfc4181e0a4eea620.png"></article>]]></description>
             <link>https://thegrid.ai/kgw/kgw-manifesto/index.html</link>
             <guid isPermaLink="false">8f551792-6503-4c76-9d7f-4383b7607544</guid>
             <pubDate>Wed, 28 Sep 2016 15:45:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Release the Infinite Monkeys to Make VR Great]]></title>
+            <description><![CDATA[<article><h1>Release the Infinite Monkeys to Make VR Great</h1><p>I have zero virtual-reality skills. I don't know how to work in Unity, the graphics software engine often used to make immersive worlds. I have little sense for 3-D design. But I have a secret weapon: A-Frame, an easy-to-use language released by Mozilla last winter.</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/1ffb5f7b89350c18011b3a3a6ecc078c/noop.jpg?input=https%3A%2F%2Fwww.wired.com%2Fwp-content%2Fuploads%2F2016%2F08%2Fap2409_thompson-main-1200x630-e1474663170781.jpg"></article>]]></description>
+            <link>https://www.wired.com/2016/09/time-release-infinite-monkeys-vr/</link>
+            <guid isPermaLink="false">5b71331e-3437-4ea2-8776-3f5fc8c9cfeb</guid>
+            <pubDate>Fri, 30 Sep 2016 15:20:33 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[GuriVR: natural language text-to-VR]]></title>
@@ -69,13 +76,6 @@
             <link>https://vimeo.com/90101413</link>
             <guid isPermaLink="false">0e724084-4108-4b5f-b0d0-bebebdc3a72b</guid>
             <pubDate>Thu, 22 Sep 2016 17:17:47 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[John Whitney demonstrates his analog computer]]></title>
-            <description><![CDATA[<article><h1>John Whitney demonstrates his analog computer</h1><p>This sequence is an excerpt from a documentary called "Computers: Challenging Man's Supremacy".</p><img src="https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/4d375b6316c6987f00918200bff5cb16/noop.jpg?input=https%3A%2F%2Fimg.youtube.com%2Fvi%2F5eMSPtm6u5Y%2Fhqdefault.jpg"></article>]]></description>
-            <link>https://youtu.be/5eMSPtm6u5Y</link>
-            <guid isPermaLink="false">168e1f08-3178-41e1-978f-905a3301ca3f</guid>
-            <pubDate>Wed, 21 Sep 2016 01:30:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
