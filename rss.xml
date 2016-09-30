@@ -4,15 +4,22 @@
         <description><![CDATA[Keep Grid Weird]]></description>
         <link>https://thegrid.ai/kgw/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 28 Sep 2016 15:45:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 30 Sep 2016 15:20:41 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kgw/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 28 Sep 2016 15:45:30 GMT</pubDate>
+        <pubDate>Fri, 30 Sep 2016 15:20:10 GMT</pubDate>
         <item>
             <title><![CDATA[KGW Manifesto]]></title>
             <description><![CDATA[<article><h1>KGW Manifesto</h1><p>It is not possible to represent yourself in one media. You are multitudes (or at least a small crowd), hyperdimensional, and the metamedia can represent a fuller picture.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/777819cf4da4d752d6f4f3fdfc4181e0a4eea620.png"></article>]]></description>
             <link>https://thegrid.ai/kgw/kgw-manifesto/index.html</link>
             <guid isPermaLink="false">8f551792-6503-4c76-9d7f-4383b7607544</guid>
             <pubDate>Wed, 28 Sep 2016 15:45:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[GuriVR: natural language text-to-VR]]></title>
+            <description><![CDATA[<article><h1>GuriVR: natural language text-to-VR</h1><p>Open-source!</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d8f48fbe-3e35-4987-9a12-1c9976d703a1.gif"></article>]]></description>
+            <link>https://gurivr.com/</link>
+            <guid isPermaLink="false">3601da07-bf88-4d6a-b151-8d28f70eba85</guid>
+            <pubDate>Fri, 30 Sep 2016 15:20:09 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[What I wish Trump had said]]></title>
@@ -69,13 +76,6 @@
             <link>https://youtu.be/5eMSPtm6u5Y</link>
             <guid isPermaLink="false">168e1f08-3178-41e1-978f-905a3301ca3f</guid>
             <pubDate>Wed, 21 Sep 2016 01:30:15 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Schrödinger's Boys: The boys exist in a state of both being back and not being back in town. https://t.co/9Rk0I7M9E9</p>]]></description>
-            <link>https://twitter.com/blizzardfox/status/778247818385305601</link>
-            <guid isPermaLink="false">b81fe150-8881-4709-92b0-d7b9e24a4aaf</guid>
-            <pubDate>Tue, 20 Sep 2016 15:59:08 GMT</pubDate>
         </item>
     </channel>
 </rss>
