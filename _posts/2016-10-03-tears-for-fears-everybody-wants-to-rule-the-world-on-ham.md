@@ -1,34 +1,8 @@
 ---
-author:
-  - name: Ted Yoder
-    url: 'http://facebook.com/101668095894'
-    avatar:
-      src: >-
-        https://scontent.xx.fbcdn.net/v/t15.0-10/p160x160/14073419_10153787072840895_764416648_n.jpg?oh=2ba9da0b1abeb646db335548a884d31f&oe=58A76C06
-      width: 160
-      height: 160
-      colors:
-        - - 94
-          - 93
-          - 84
-        - - 49
-          - 52
-          - 45
-        - - 118
-          - 124
-          - 115
-        - - 144
-          - 149
-          - 161
-        - - 180
-          - 182
-          - 186
-related: []
-publisher:
-  url: 'http://www.facebook.com'
-  name: Facebook
-  favicon: 'https://www.facebook.com/rsrc.php/yV/r/hzMapiNYYpW.ico'
-  domain: www.facebook.com
+datePublished: '2016-10-03T16:57:37.313Z'
+sourcePath: _posts/2016-10-03-tears-for-fears-everybody-wants-to-rule-the-world-on-ham.md
+inFeed: true
+isBasedOnUrl: 'https://www.facebook.com/tedyoder/videos/10153787061705895/?hc_ref=NEWSFEED'
 keywords:
   - yoder
   - ted
@@ -40,11 +14,36 @@ keywords:
   - whenever
   - hammer
   - arrangement
-description: >-
-  Tears for Fears - "Everybody Wants to Rule the World" on hammered dulcimer.
-  Ted Yoder.
-inLanguage: en
-title: ''
+related: []
+author:
+  - name: Ted Yoder
+    url: 'http://facebook.com/101668095894'
+    avatar:
+      src: >-
+        https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/7078ebc6d7ac62e72cef577b218dc4ea/noop.jpg?input=https%3A%2F%2Fscontent.xx.fbcdn.net%2Fv%2Ft15.0-10%2Fp160x160%2F14073419_10153787072840895_764416648_n.jpg%3Foh%3D2ba9da0b1abeb646db335548a884d31f%26oe%3D58A76C06
+      original: >-
+        https://scontent.xx.fbcdn.net/v/t15.0-10/p160x160/14073419_10153787072840895_764416648_n.jpg?oh=2ba9da0b1abeb646db335548a884d31f&oe=58A76C06
+      width: 160
+      height: 160
+      colors:
+        - - 98
+          - 94
+          - 83
+        - - 152
+          - 162
+          - 187
+        - - 255
+          - 255
+          - 255
+        - - 42
+          - 51
+          - 34
+        - - 192
+          - 128
+          - 101
+via: {}
+dateModified: '2016-10-03T16:57:34.189Z'
+title: '"Everybody Wants to Rule the World" on hammered dulcimer'
 app_links:
   - url: 'fb://page/101668095894'
     type: android
@@ -56,15 +55,16 @@ app_links:
     namespace: ai
     app_name: Facebook
     app_store_id: '284882215'
-isBasedOnUrl: 'https://www.facebook.com/tedyoder/videos/10153787061705895/?hc_ref=NEWSFEED'
-datePublished: '2016-10-03T16:53:00.864Z'
-dateModified: '2016-10-03T16:52:50.002Z'
-via: {}
-inFeed: true
+publisher:
+  url: 'http://www.facebook.com'
+  name: Facebook
+  favicon: 'https://www.facebook.com/rsrc.php/yV/r/hzMapiNYYpW.ico'
+  domain: www.facebook.com
+description: Tears for Fears on hammered dulcimer by Ted Yoder
+inLanguage: en
 starred: false
-sourcePath: _posts/2016-10-03-tears-for-fears-everybody-wants-to-rule-the-world-on-ham.md
-_type: Photograph
 _context: 'http://schema.org'
+_type: Photograph
 
 ---
-![Tears for Fears - "Everybody Wants to Rule the World" on hammered dulcimer. Ted Yoder.](https://scontent.xx.fbcdn.net/t31.0-8/14468717_10153875147720895_166557798073655625_o.jpg)
+![Tears for Fears on hammered dulcimer by Ted Yoder](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0d40ddca-ce34-40fb-9dea-948d487461d5.jpg)
