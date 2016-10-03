@@ -4,15 +4,22 @@
         <description><![CDATA[Keep Grid Weird]]></description>
         <link>https://thegrid.ai/kgw/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 03 Oct 2016 02:58:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Oct 2016 16:53:38 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kgw/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 03 Oct 2016 02:57:59 GMT</pubDate>
+        <pubDate>Mon, 03 Oct 2016 16:53:37 GMT</pubDate>
         <item>
             <title><![CDATA[KGW Manifesto]]></title>
             <description><![CDATA[<article><h1>KGW Manifesto</h1><p>It is not possible to represent yourself in one media. You are multitudes (or at least a small crowd), hyperdimensional, and the metamedia can represent a fuller picture.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/777819cf4da4d752d6f4f3fdfc4181e0a4eea620.png"></article>]]></description>
             <link>https://thegrid.ai/kgw/kgw-manifesto/index.html</link>
             <guid isPermaLink="false">8f551792-6503-4c76-9d7f-4383b7607544</guid>
             <pubDate>Wed, 28 Sep 2016 15:45:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img alt="Tears for Fears - &quot;Everybody Wants to Rule the World&quot; on hammered dulcimer. Ted Yoder." src="https://scontent.xx.fbcdn.net/t31.0-8/14468717_10153875147720895_166557798073655625_o.jpg">]]></description>
+            <link>https://www.facebook.com/tedyoder/videos/10153787061705895/?hc_ref=NEWSFEED</link>
+            <guid isPermaLink="false">36619e28-aaf4-44ee-b857-58062ead6e51</guid>
+            <pubDate>Mon, 03 Oct 2016 16:53:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -69,13 +76,6 @@
             <link>https://www.youtube.com/watch?v=5qVMaOrSpK0</link>
             <guid isPermaLink="false">2bc7eb66-fa65-4f7b-9566-05d997e306a0</guid>
             <pubDate>Tue, 27 Sep 2016 17:43:29 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Palmer Luckey doing donuts in the metaverse]]></title>
-            <description><![CDATA[<article><h1>Palmer Luckey doing donuts in the metaverse</h1><p>(view source and soundtrack)</p></article>]]></description>
-            <link>https://thegrid.ai/kgw/palmer-luckey-doing-donuts-in-the-metaverse/index.html</link>
-            <guid isPermaLink="false">e6841c00-e23a-4f50-91c3-cff6a159e62a</guid>
-            <pubDate>Sat, 24 Sep 2016 21:33:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
