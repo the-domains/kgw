@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-10-04T20:07:53.314Z'
+datePublished: '2016-10-04T20:08:28.838Z'
 sourcePath: _posts/2016-10-04-matt-steel-the-abundance-of-slowness.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-10-04T20:07:52.549Z'
+dateModified: '2016-10-04T20:08:25.334Z'
 title: ''
 publisher: {}
 description: >-
@@ -27,4 +27,4 @@ _type: Article
 7. Give up on multitasking.
 8. Say no.
 9. Hunt your fear.
-![Workaholics aren't heroes. They don't save the day, they just use it up. The real hero is already home because she figured out a faster way to get things done. - Jason Fried & David Heinemeier Hansson. In March of 2011, I was in the depths of burnout.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/76523381-9946-4f11-bfc0-eb45474e7775.jpg)
+![Workaholics aren't heroes. They don't save the day, they just use it up. The real hero is already home because she figured out a faster way to get things done. - Jason Fried & David Heinemeier Hansson. In March of 2011, I was in the depths of burnout...](https://the-grid-user-content.s3-us-west-2.amazonaws.com/76523381-9946-4f11-bfc0-eb45474e7775.jpg)
