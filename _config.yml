@@ -1,6 +1,15 @@
+name: KGW
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/ed8bfb04-6b38-4db5-bfb7-b6bada247547.jpg
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/8bb54a69-cb52-4479-9417-a68dd9d6d2ab.jpg
+layout_spectrum: 0.8064247285947204
 typography_spectrum: 0.8395928198006004
-content_rating:
-  adult: false
+cta: {}
+analytics: {}
+opengraph:
+  type: ''
+  appId: ''
 color:
   brandColors:
     - '#FFFFFF'
@@ -12,29 +21,17 @@ color:
   lightness: 0.45641640457324684
   saturation: 0.24891139077953994
   rhythmicContrast: 0.8172235200181603
-github: true
-opengraph:
-  type: ''
-  appId: ''
-layout_spectrum: 0.8064247285947204
-analytics: {}
+purpose: []
+title: Keep Grid Weird
+description: "\uD83D\uDC41\uD83D\uDC41\uD83D\uDC41"
 author:
   name: ''
   url: ''
   email: ''
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/8bb54a69-cb52-4479-9417-a68dd9d6d2ab.jpg
-name: KGW
-cta: {}
+content_rating:
+  adult: false
 navigation:
   - name: KGW Manifesto
     id: 8f551792-6503-4c76-9d7f-4383b7607544
     type: content
-  - name: A referendum on the status quo?
-    id: 237e2bf8-0e69-4915-99e9-6bf82b31a391
-    type: content
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/ed8bfb04-6b38-4db5-bfb7-b6bada247547.jpg
-title: Keep Grid Weird
-description: "\uD83D\uDC41\uD83D\uDC41\uD83D\uDC41"
-purpose: []
+github: true
