@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-11-09T19:16:27.644Z'
+datePublished: '2016-11-09T19:25:07.812Z'
 sourcePath: _posts/2016-11-09-parpolity.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-11-09T19:16:04.399Z'
+dateModified: '2016-11-09T19:25:05.461Z'
 title: Parpolity
 publisher: {}
 description: How can I feel more connected to the political process?
@@ -29,12 +29,10 @@ I could **convince my neighbors** to help me deal with cutting the grass at the 
 
 I _also_ think I could convince them to **ratify** a well-designed infographic about how healthcare should be structured.
 
-The late Aaron Swartz wrote about the idea here: [http://www.aaronsw.com/weblog/parpolity][0]
+> @forresto some of us are inspired by the late @aaronsw, especially his description of "parpolity" - fractal politics http://www.aaronsw.com/weblog/parpolity
 
 \> There is something rather old-fashioned about this notion of sitting down with one's fellow citizens and rationally discussing the issues of the day. But there is also something exciting and new about it. In the same way that blogs have given everyone a chance to be a publisher, Wikipedia lets everyone be an encyclopedia author, and YouTube lets anyone be a television producer, Parpolity would let everyone be a politician.
 
 \> The Internet has shown us that the pool of people with talent far outnumbers the few with the background, connections, and wealth to get to a place in society where they can practice their talents professionally. (It also shows us that many people with those connections aren't particularly talented.)
 
 (Making this visualization this morning is my way of coping. I think conditions are ripe to build this platform, so... what are the next steps?)
-
-[0]: http://www.aaronsw.com/weblog/parpolity
