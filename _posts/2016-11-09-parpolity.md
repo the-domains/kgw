@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-11-09T19:51:49.104Z'
+datePublished: '2016-11-09T20:02:18.997Z'
 sourcePath: _posts/2016-11-09-parpolity.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-11-09T19:30:30.338Z'
+dateModified: '2016-11-09T20:02:14.372Z'
 title: Parpolity
 publisher: {}
 description: How can I feel more connected to the political process?
@@ -29,7 +29,7 @@ I could **convince my neighbors** to help me deal with cutting the grass at the 
 
 I _also_ think I could convince them to **ratify** a well-designed infographic about how healthcare should be structured.
 
-> @forresto some of us are inspired by the late @aaronsw, especially his description of "parpolity" - fractal politics http://www.aaronsw.com/weblog/parpolity
+> Some of us are inspired by the late @aaronsw, especially his description of "parpolity" - fractal politics http://www.aaronsw.com/weblog/parpolity
 
 \> There is something rather old-fashioned about this notion of sitting down with one's fellow citizens and rationally discussing the issues of the day. But there is also something exciting and new about it. In the same way that **blogs** have given everyone a chance to be a publisher, **Wikipedia** lets everyone be an encyclopedia author, and **YouTube** lets anyone be a television producer, **Parpolity** would let everyone be a politician.
 
