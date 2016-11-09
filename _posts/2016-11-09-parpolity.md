@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-11-09T19:28:09.431Z'
+datePublished: '2016-11-09T19:28:19.854Z'
 sourcePath: _posts/2016-11-09-parpolity.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-11-09T19:28:02.313Z'
+dateModified: '2016-11-09T19:28:10.313Z'
 title: Parpolity
 publisher: {}
 description: How can I feel more connected to the political process?
@@ -33,7 +33,7 @@ I _also_ think I could convince them to **ratify** a well-designed infographic a
 
 \> There is something rather old-fashioned about this notion of sitting down with one's fellow citizens and rationally discussing the issues of the day. But there is also something exciting and new about it. In the same way that **blogs** have given everyone a chance to be a publisher, **Wikipedia** lets everyone be an encyclopedia author, and **YouTube** lets anyone be a television producer, **Parpolity** would let everyone be a politician.
 
-\> The Internet has shown us that the pool of people with talent **far outnumbers** the few with the background, connections, and wealth to get to a place in society where they can practice their talents professionally. (It also shows us that **many people with those connections aren't particularly talented**.)
+\> The Internet has shown us that the pool of people with talent **far outnumbers** the few with the background, connections, and wealth to get to a place in society where they can practice their talents professionally. (It also shows us that many people with those connections aren't particularly talented.)
 
 ---
 
