@@ -1,26 +1,33 @@
 ---
+inFeed: true
+hasPage: false
+isBasedOnUrl: 'https://www.youtube.com/watch?v=-VIqA3i2zQw&feature=youtu.be'
+inLanguage: null
+starred: false
+keywords: []
+description: >-
+  "O Superman (For Massenet)" is a 1981 song by experimental performance artist
+  and musician Laurie Anderson. Part of the larger work United States, "O
+  Superman," a half-sung, half-spoken, almost minimalist piece unexpectedly rose
+  to #2 on the UK Singles Charts in 1981[2]. Prior to the success of this song,
+  Anderson was little known outside the art world."
+datePublished: '2016-11-14T03:12:22.607Z'
+dateModified: '2016-04-19T16:30:37.038Z'
 author:
   - name: yellowgowild
     url: 'https://www.youtube.com/user/yellowgowild'
     avatar: {}
 related: []
-publisher:
-  url: 'https://www.youtube.com/'
-  name: YouTube
-  favicon: 'https://www.youtube.com/favicon.ico'
-  domain: www.youtube.com
-keywords: []
-description: '"O Superman (For Massenet)" is a 1981 song by experimental performance artist and musician Laurie Anderson. Part of the larger work United States, "O Superman," a half-sung, half-spoken, almost minimalist piece unexpectedly rose to #2 on the UK Singles Charts in 1981[2]. Prior to the success of this song, Anderson was little known outside the art world."'
 app_links: []
-isBasedOnUrl: 'https://www.youtube.com/watch?v=-VIqA3i2zQw&feature=youtu.be'
 title: 'O Superman - Laurie Anderson - as displayed in the MOMA, New York'
-datePublished: '2016-04-19T16:30:31.251Z'
-dateModified: '2016-04-19T16:29:15.466Z'
 sourcePath: _posts/2016-04-19-o-superman-laurie-anderson-as-displayed-in-the-moma-new.md
-published: true
-inFeed: true
-hasPage: false
-inNav: false
+authors: []
+publisher:
+  name: YouTube
+  domain: www.youtube.com
+  url: 'https://www.youtube.com/'
+  favicon: 'https://www.youtube.com/favicon.ico'
+via: {}
 _type: VideoObject
 _context: 'http://schema.org'
 
