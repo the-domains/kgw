@@ -1,5 +1,6 @@
-layout_spectrum: 0.7989501952153105
 typography_spectrum: 0.6595520182904594
+content_rating:
+  adult: false
 color:
   brandColors:
     - '#000000'
@@ -11,12 +12,11 @@ color:
   lightness: 0.3792440008204246
   saturation: 0.6418584533516171
   rhythmicContrast: 0.36592465013367037
-content_rating:
-  adult: false
 github: true
 opengraph:
   type: ''
   appId: ''
+layout_spectrum: 0.7989501952153105
 analytics: {}
 author:
   name: ''
@@ -35,5 +35,5 @@ navigation:
 favicon: null
 title: Keep Grid Weird
 content: []
-description: "\uD83D\uDC41\uD83D\uDC41\uD83D\uDC41"
+description: "utopia \uD83D\uDC41\uD83D\uDC41\uD83D\uDC41 resistance "
 purpose: []
