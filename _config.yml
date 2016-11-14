@@ -1,5 +1,6 @@
-layout_spectrum: 0.19230286948585718
 typography_spectrum: 0.6450147543246351
+content_rating:
+  adult: false
 color:
   brandColors:
     - '#000000'
@@ -11,19 +12,17 @@ color:
   lightness: 0.7623992626678826
   saturation: 0.32850529203163736
   rhythmicContrast: 0.27315999124650986
-content_rating:
-  adult: false
 github: true
 opengraph:
   type: ''
   appId: ''
+layout_spectrum: 0.19230286948585718
 analytics: {}
 author:
   name: ''
   url: ''
   email: ''
-logo: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/8bb54a69-cb52-4479-9417-a68dd9d6d2ab.jpg
+logo: null
 name: KGW
 cta: {}
 navigation:
@@ -33,8 +32,7 @@ navigation:
   - name: Parpolity
     id: 66747b1e-c9dc-4894-b295-f2ed18413188
     type: content
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/ed8bfb04-6b38-4db5-bfb7-b6bada247547.jpg
+favicon: null
 title: Keep Grid Weird
 content: []
 description: "\uD83D\uDC41\uD83D\uDC41\uD83D\uDC41"
