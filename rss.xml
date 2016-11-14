@@ -4,15 +4,22 @@
         <description><![CDATA[Keep Grid Weird]]></description>
         <link>https://thegrid.ai/kgw/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 14 Nov 2016 03:14:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Nov 2016 03:17:45 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/kgw/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 14 Nov 2016 03:14:35 GMT</pubDate>
+        <pubDate>Mon, 14 Nov 2016 03:17:41 GMT</pubDate>
         <item>
             <title><![CDATA[KGW Manifesto]]></title>
             <description><![CDATA[<article><h1>KGW Manifesto</h1><p>It is not possible to represent yourself in one media. You are multitudes (or at least a small crowd), hyperdimensional, and the metamedia can represent a fuller picture.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/777819cf4da4d752d6f4f3fdfc4181e0a4eea620.png"></article>]]></description>
             <link>https://thegrid.ai/kgw/kgw-manifesto/index.html</link>
             <guid isPermaLink="false">8f551792-6503-4c76-9d7f-4383b7607544</guid>
             <pubDate>Wed, 28 Sep 2016 15:45:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Reddit comment on post-scarcity and inequality]]></title>
+            <description><![CDATA[<article><h1>Reddit comment on post-scarcity and inequality</h1><p>> If machines produce everything we need, the outcome will depend on how things are distributed. Everyone can enjoy a life of luxurious leisure if the machine-produced wealth is shared, or most people can end up miserably poor if the machine-owners successfully lobby against wealth redistribution. So far, the trend seems to be toward the second option, with technology driving ever-increasing inequality.</p></article>]]></description>
+            <link>https://thegrid.ai/kgw/reddit-comment-on-post-scarcity-and-inequality/index.html</link>
+            <guid isPermaLink="false">ee13520f-ece8-44db-a31c-7de3d7d455d5</guid>
+            <pubDate>Mon, 14 Nov 2016 03:17:41 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Babugeri Costumes]]></title>
@@ -68,13 +75,6 @@
             <description><![CDATA[<img alt="That which is below is like that which is above&quot; - the Emerald Tablet (6th century or earlier): https://t.co/vyB5ff3rzJ" src="https://pbs.twimg.com/media/CvAKBD0WYAMSlXL.jpg:large">]]></description>
             <link>https://twitter.com/samim/status/788141449120481280</link>
             <guid isPermaLink="false">5b9d5a7d-e382-411f-81fd-05f751edf0a6</guid>
-            <pubDate>Wed, 09 Nov 2016 19:51:49 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[UNSATISFYING]]></title>
-            <description><![CDATA[<article><h1>UNSATISFYING</h1><p>i guess the metaverse needed a counterpoint to all those "satisfying" compilations</p></article>]]></description>
-            <link>https://vimeo.com/189919038</link>
-            <guid isPermaLink="false">856124a4-6950-472c-9e59-d3d7bcc0e1f5</guid>
             <pubDate>Wed, 09 Nov 2016 19:51:49 GMT</pubDate>
         </item>
     </channel>
