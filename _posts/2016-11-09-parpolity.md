@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-11-20T19:51:00.892Z'
+datePublished: '2016-11-20T19:51:06.520Z'
 sourcePath: _posts/2016-11-09-parpolity.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-11-20T19:50:55.968Z'
+dateModified: '2016-11-20T19:51:01.986Z'
 title: Parpolity
 publisher: {}
 description: How can I feel more connected to the political process?
