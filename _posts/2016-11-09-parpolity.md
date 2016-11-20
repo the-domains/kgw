@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-11-09T20:02:18.997Z'
+datePublished: '2016-11-20T19:51:00.892Z'
 sourcePath: _posts/2016-11-09-parpolity.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-11-09T20:02:14.372Z'
+dateModified: '2016-11-20T19:50:55.968Z'
 title: Parpolity
 publisher: {}
 description: How can I feel more connected to the political process?
@@ -23,7 +23,7 @@ How can I feel more connected to the political process?
 I'm imagining a platform to connect you with a council of 51 neighbors. You meet to discuss issues that affect your area, and also elect one person to represent your neighborhood at the next council level.
 
 Thanks to the powers of exponents, we only need 5 levels to represent everybody in the USA (51^5). (Finland would only need 4.)
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/835074aefc1a91908a53310b7d4e46562410326b.png)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2a4d8adf-07d0-44fb-a48f-f51688606bed.png)
 
 I could **convince my neighbors** to help me deal with cutting the grass at the corner to improve visibility.
 
