@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-11-09T19:51:48.994Z'
+datePublished: '2016-11-20T19:40:13.372Z'
 sourcePath: >-
   _posts/2016-10-17-watch-a-short-film-adam-curtis-made-for-vice-about-your-life.md
 inFeed: true
 isBasedOnUrl: 'http://www.vice.com/read/adam-curtis-living-unreal-world-short-film'
 author: []
 via: {}
-dateModified: '2016-11-09T19:51:01.228Z'
+dateModified: '2016-11-20T19:40:13.252Z'
 title: >-
   Watch a Short Film Adam Curtis Made for VICE About Your Life | VICE | United
   States
@@ -18,7 +18,7 @@ starred: false
 _type: MediaObject
 
 ---
-![Screenshot from 'Living in an Unreal World: A Film By Adam Curtis For Readers of VICE' This article originally appeared on VICE UK Adam Curtis is one of the best filmmakers on planet earth. Every time a new film of his comes out we write about it because they're always important.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/994301c2-6674-4123-97c1-6cf5e4ed87f2.png)
+![Screenshot from 'Living in an Unreal World: A Film By Adam Curtis For Readers of VICE' This article originally appeared on VICE UK Adam Curtis is one of the best filmmakers on planet earth. Every time a new film of his comes out we write about it because they're always important.](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a939e58d-c3c9-4eaf-a42d-17a0558987b5.png)
 
 Short film [hosted on Facebook][0], appropriately. The [full Hypernormalisation film][1] isn't _officially_ available outside of the UK yet.
 
