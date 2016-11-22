@@ -4,8 +4,9 @@ author:
     url: 'http://twitter.com/deanna'
     avatar:
       src: >-
+        https://s3-us-west-2.amazonaws.com/the-grid-img/p/e499ce4d62d0ef6212efe7d1e267a30c1785faf2.jpg
+      original: >-
         https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/4424842fb28f4a05b5d3484318849cde/noop.jpg?input=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FCuXAw14WAAAdhFZ.jpg%3Alarge
-      original: 'https://pbs.twimg.com/media/CuXAw14WAAAdhFZ.jpg:large'
       width: 1000
       height: 1000
       colors:
@@ -50,13 +51,13 @@ app_links:
     namespace: google
     type: android
 isBasedOnUrl: 'https://twitter.com/deanna/status/785245663202308096'
-datePublished: '2016-10-10T14:51:19.855Z'
-dateModified: '2016-10-10T14:49:55.353Z'
+datePublished: '2016-11-22T23:18:01.036Z'
+dateModified: '2016-11-22T23:17:58.731Z'
 title: ''
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2016-10-10-pussyisnottheproblem.md
+starred: false
 _type: Photograph
 _context: 'http://schema.org'
 
