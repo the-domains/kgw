@@ -1,5 +1,5 @@
-layout_spectrum: 0.12315639572356375
-typography_spectrum: 0.7737379172944123
+layout_spectrum: 0.9002428073399138
+typography_spectrum: 0.3524499914696495
 color:
   brandColors:
     - '#000000'
@@ -7,10 +7,10 @@ color:
     - '#FF358B'
     - '#01B0F0'
     - '#AEEE00'
-  brandStrength: 0.8433192402812293
-  lightness: 0.5043419730425397
-  saturation: 0.988799368882146
-  rhythmicContrast: 0.11257772572181823
+  brandStrength: 0.8482759667478391
+  lightness: 0.5021294206403897
+  saturation: 0.9863602360942871
+  rhythmicContrast: 0.11787995310758453
 content_rating:
   adult: false
 github: true
