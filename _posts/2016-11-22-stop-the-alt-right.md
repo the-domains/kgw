@@ -29,12 +29,12 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://arinfishkin.com/stop-alt-right/'
 title: Stop The Alt-Right
-datePublished: '2016-11-22T23:17:29.249Z'
-dateModified: '2016-11-22T23:17:17.134Z'
+datePublished: '2016-11-22T23:18:01.042Z'
+dateModified: '2016-11-22T23:17:58.731Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2016-11-22-stop-the-alt-right.md
+starred: false
 _context: 'http://schema.org'
 _type: MediaObject
 
