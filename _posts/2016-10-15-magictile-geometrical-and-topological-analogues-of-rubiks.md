@@ -4,19 +4,27 @@ author:
     url: 'http://twitter.com/algoritmic'
     avatar:
       src: >-
+        https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/213478ca9cf255afe4a4ab02ea930fd1/noop.jpg?input=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F656813044958302208%2Ffp9Hsbn3_normal.jpg
+      original: >-
         https://pbs.twimg.com/profile_images/656813044958302208/fp9Hsbn3_normal.jpg
       width: 48
       height: 48
       colors:
-        - - 237
-          - 237
-          - 237
-        - - 129
-          - 129
-          - 129
-        - - 65
-          - 65
-          - 65
+        - - 255
+          - 255
+          - 255
+        - - 110
+          - 110
+          - 110
+        - - 215
+          - 215
+          - 215
+        - - 71
+          - 71
+          - 71
+        - - 9
+          - 9
+          - 9
 related: []
 publisher:
   url: 'http://twitter.com'
@@ -45,13 +53,13 @@ app_links:
     namespace: google
     type: android
 isBasedOnUrl: 'https://twitter.com/algoritmic/status/787286024573575168'
-datePublished: '2016-10-15T13:56:53.160Z'
-dateModified: '2016-10-15T13:56:11.675Z'
+datePublished: '2016-11-22T23:18:01.047Z'
+dateModified: '2016-11-22T23:17:58.731Z'
 title: ''
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2016-10-15-magictile-geometrical-and-topological-analogues-of-rubiks.md
+starred: false
 _type: Photograph
 _context: 'http://schema.org'
 
