@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-11-09T19:51:49.099Z'
+datePublished: '2016-11-22T23:18:01.042Z'
 inFeed: true
 isBasedOnUrl: 'https://vimeo.com/189919038'
 author:
@@ -29,7 +29,7 @@ author:
           - 73
           - 89
 via: {}
-dateModified: '2016-11-09T19:39:33.193Z'
+dateModified: '2016-11-22T23:17:58.731Z'
 title: UNSATISFYING
 publisher: {}
 description: >-
