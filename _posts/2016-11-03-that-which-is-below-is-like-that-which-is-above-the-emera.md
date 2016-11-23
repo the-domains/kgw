@@ -53,8 +53,8 @@ app_links:
     namespace: google
     type: android
 isBasedOnUrl: 'https://twitter.com/samim/status/788141449120481280'
-datePublished: '2016-11-22T23:18:01.051Z'
-dateModified: '2016-11-22T23:17:58.731Z'
+datePublished: '2016-11-23T02:34:49.255Z'
+dateModified: '2016-11-23T02:34:33.469Z'
 title: ''
 via: {}
 inFeed: true
