@@ -4,9 +4,9 @@ author:
     url: 'http://twitter.com/algoritmic'
     avatar:
       src: >-
-        https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/213478ca9cf255afe4a4ab02ea930fd1/noop.jpg?input=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F656813044958302208%2Ffp9Hsbn3_normal.jpg
+        https://s3-us-west-2.amazonaws.com/the-grid-img/p/6af550415a844c43db0423c2c08dfb3792d665b8.jpg
       original: >-
-        https://pbs.twimg.com/profile_images/656813044958302208/fp9Hsbn3_normal.jpg
+        https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/213478ca9cf255afe4a4ab02ea930fd1/noop.jpg?input=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F656813044958302208%2Ffp9Hsbn3_normal.jpg
       width: 48
       height: 48
       colors:
@@ -53,8 +53,8 @@ app_links:
     namespace: google
     type: android
 isBasedOnUrl: 'https://twitter.com/algoritmic/status/787286024573575168'
-datePublished: '2016-11-22T23:18:01.047Z'
-dateModified: '2016-11-22T23:17:58.731Z'
+datePublished: '2016-11-23T02:34:49.277Z'
+dateModified: '2016-11-23T02:34:33.469Z'
 title: ''
 via: {}
 inFeed: true
