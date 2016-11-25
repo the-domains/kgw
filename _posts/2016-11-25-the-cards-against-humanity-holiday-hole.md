@@ -24,8 +24,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'https://holidayhole.com/'
 title: The Cards Against Humanity Holiday Hole
-datePublished: '2016-11-25T22:29:48.621Z'
-dateModified: '2016-11-25T22:29:39.066Z'
+datePublished: '2016-11-25T22:36:28.599Z'
+dateModified: '2016-11-25T22:36:21.167Z'
 via: {}
 inFeed: true
 starred: false
