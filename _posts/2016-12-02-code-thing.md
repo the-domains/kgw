@@ -1,13 +1,14 @@
 ---
-datePublished: '2016-12-02T03:45:45.150Z'
+datePublished: '2016-12-02T03:45:53.612Z'
 sourcePath: _posts/2016-12-02-code-thing.md
 inFeed: true
 hasPage: true
 author:
   - name: fo
+    url: 'https://www.flickr.com/photos/forresto/30541099264/in/dateposted/'
 via: {}
 datePublishedOriginal: '2016-12-02T03:32:46.069Z'
-dateModified: '2016-12-02T03:45:44.240Z'
+dateModified: '2016-12-02T03:45:53.233Z'
 title: flyover
 publisher: {}
 description: ''
