@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-12-02T03:33:45.509Z'
+datePublished: '2016-12-02T03:33:52.765Z'
 sourcePath: _posts/2016-12-02-code-thing.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
 datePublishedOriginal: '2016-12-02T03:32:46.069Z'
-dateModified: '2016-12-02T03:33:44.811Z'
+dateModified: '2016-12-02T03:33:52.324Z'
 title: flyover
 publisher: {}
 description: ''
