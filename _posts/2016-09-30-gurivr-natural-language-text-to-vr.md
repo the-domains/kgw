@@ -1,15 +1,16 @@
 ---
-datePublished: '2016-09-30T15:20:09.910Z'
+datePublished: '2016-12-03T16:49:26.437Z'
 inFeed: true
 isBasedOnUrl: 'https://gurivr.com/'
 author: []
 via: {}
-dateModified: '2016-09-30T15:19:53.882Z'
+dateModified: '2016-12-03T16:49:07.984Z'
 title: 'GuriVR: natural language text-to-VR'
 publisher: {}
 description: Open-source!
-starred: false
 sourcePath: _posts/2016-09-30-gurivr-natural-language-text-to-vr.md
+starred: false
+datePublishedOriginal: '2016-09-30T15:20:09.910Z'
 _context: 'http://schema.org'
 _type: Article
 
