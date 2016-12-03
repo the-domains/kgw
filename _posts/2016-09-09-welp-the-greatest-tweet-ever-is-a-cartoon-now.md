@@ -4,8 +4,9 @@ author:
     url: 'http://twitter.com/rowankaiser'
     avatar:
       src: >-
+        https://s3-us-west-2.amazonaws.com/the-grid-img/p/ab8921a673df392d694b82ecb42de7a0e0df6b3c.jpg
+      original: >-
         https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/330d5096e63f0f46f93e95c21fae3eba/noop.jpg?input=https%3A%2F%2Fpbs.twimg.com%2Fmedia%2FCr47iciVUAAD8Ur.jpg%3Alarge
-      original: 'https://pbs.twimg.com/media/Cr47iciVUAAD8Ur.jpg:large'
       width: 960
       height: 960
       colors:
@@ -50,13 +51,14 @@ app_links:
     namespace: google
     type: android
 isBasedOnUrl: 'https://twitter.com/RowanKaiser/status/774121659628331008'
-datePublished: '2016-09-09T15:08:24.076Z'
-dateModified: '2016-09-09T15:08:04.842Z'
+datePublished: '2016-12-03T16:49:25.547Z'
+dateModified: '2016-12-03T16:49:07.984Z'
 title: ''
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2016-09-09-welp-the-greatest-tweet-ever-is-a-cartoon-now.md
+starred: false
+datePublishedOriginal: '2016-09-09T15:08:24.076Z'
 _type: Photograph
 _context: 'http://schema.org'
 
