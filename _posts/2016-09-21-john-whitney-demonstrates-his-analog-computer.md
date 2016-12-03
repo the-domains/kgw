@@ -16,12 +16,13 @@ description: >-
 app_links: []
 isBasedOnUrl: 'https://youtu.be/5eMSPtm6u5Y'
 title: John Whitney demonstrates his analog computer
-datePublished: '2016-09-21T01:30:15.125Z'
-dateModified: '2016-09-21T01:29:56.985Z'
+datePublished: '2016-12-03T16:49:26.475Z'
+dateModified: '2016-12-03T16:49:07.984Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2016-09-21-john-whitney-demonstrates-his-analog-computer.md
+starred: false
+datePublishedOriginal: '2016-09-21T01:30:15.125Z'
 _type: VideoObject
 _context: 'http://schema.org'
 
