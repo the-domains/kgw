@@ -14,12 +14,13 @@ app_links:
     id: com.imgur.mobile
 isBasedOnUrl: 'http://i.imgur.com/q8tJmfy.gifv'
 title: Walnut Sanded Away Layer by Layer
-datePublished: '2016-11-27T19:19:34.994Z'
-dateModified: '2016-11-27T19:18:33.135Z'
+datePublished: '2016-12-03T16:49:26.391Z'
+dateModified: '2016-12-03T16:49:07.984Z'
 via: {}
 inFeed: true
-starred: false
 sourcePath: _posts/2016-11-27-walnut-sanded-away-layer-by-layer.md
+starred: false
+datePublishedOriginal: '2016-11-27T19:19:34.994Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
