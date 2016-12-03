@@ -13,8 +13,8 @@ keywords:
   - dude
   - topic
 title: "FU\uD83D\uDD95 2016 political zeitgeist"
-datePublished: '2016-11-23T02:34:49.336Z'
-dateModified: '2016-11-23T02:34:33.469Z'
+datePublished: '2016-12-03T16:49:26.404Z'
+dateModified: '2016-12-03T16:49:07.984Z'
 publisher:
   name: Twitter
   domain: twitter.com
@@ -51,6 +51,7 @@ description: 'https://t.co/Dei15bLxrf'
 via: {}
 sourcePath: _posts/2016-10-08-httpstcodei15blxrf.md
 starred: false
+datePublishedOriginal: '2016-11-23T02:34:49.336Z'
 _type: Photograph
 _context: 'http://schema.org'
 
