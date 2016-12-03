@@ -13,7 +13,7 @@ keywords:
   - micahpedia
   - lagomorpho
 title: ''
-dateModified: '2016-09-12T10:59:56.699Z'
+dateModified: '2016-12-03T16:49:07.984Z'
 publisher:
   name: Twitter
   domain: twitter.com
@@ -24,9 +24,9 @@ author:
     url: 'http://twitter.com/wkerslake'
     avatar:
       src: >-
-        https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/96dcb90129674e3b1fe03c4ec81fcd0f/noop.jpg?input=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F772585982038315008%2FNbuxOJvg_400x400.jpg
+        https://s3-us-west-2.amazonaws.com/the-grid-img/p/5a1469d93d637bf3bf50103cd2f9a2f6902761e0.jpg
       original: >-
-        https://pbs.twimg.com/profile_images/772585982038315008/NbuxOJvg_400x400.jpg
+        https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/96dcb90129674e3b1fe03c4ec81fcd0f/noop.jpg?input=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F772585982038315008%2FNbuxOJvg_400x400.jpg
       width: 400
       height: 400
       colors:
@@ -50,10 +50,11 @@ description: >-
   There are twelve black dots at the intersections in this image. Your brain
   won't let you see them all at once.
 via: {}
-datePublished: '2016-09-13T17:42:16.107Z'
-starred: false
+datePublished: '2016-12-03T16:49:25.527Z'
 sourcePath: >-
   _posts/2016-09-13-there-are-twelve-black-dots-at-the-intersections-in-this-ima.md
+starred: false
+datePublishedOriginal: '2016-09-13T17:42:16.107Z'
 _type: MediaObject
 
 ---
