@@ -13,7 +13,7 @@ keywords:
   - topic
   - get
 title: ''
-dateModified: '2016-10-01T01:52:17.540Z'
+dateModified: '2016-12-03T16:49:07.984Z'
 publisher:
   name: Twitter
   domain: twitter.com
@@ -25,10 +25,11 @@ description: >-
   and keeping it up blue pills red pills the injections there's always some new
   thing to try some gland Thiel says he has a guy Vietnamese
 via: {}
-datePublished: '2016-10-01T01:52:23.815Z'
-starred: false
+datePublished: '2016-12-03T16:49:26.428Z'
 sourcePath: >-
   _posts/2016-10-01-and-keeping-it-up-blue-pills-red-pills-the-injections-there.md
+starred: false
+datePublishedOriginal: '2016-10-01T01:52:23.815Z'
 _type: Comment
 _context: 'http://schema.org'
 
