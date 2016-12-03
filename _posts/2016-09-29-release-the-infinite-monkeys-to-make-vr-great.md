@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-09-30T15:20:33.366Z'
+datePublished: '2016-12-03T16:49:26.464Z'
 inFeed: true
 isBasedOnUrl: 'https://www.wired.com/2016/09/time-release-infinite-monkeys-vr/'
 keywords:
@@ -19,22 +19,15 @@ author:
     url: 'https://www.wired.com/author/clivethompson/'
     avatar: {}
 via: {}
-dateModified: '2016-09-30T15:20:33.036Z'
-title: Release the Infinite Monkeys to Make VR Great
+dateModified: '2016-12-03T16:49:07.984Z'
+title: ''
 app_links: []
-publisher:
-  url: 'https://www.wired.com'
-  name: WIRED
-  favicon: 'https://www.wired.com/wp-content/themes/Phoenix/assets/images/favicon.ico'
-  domain: www.wired.com
-description: >-
-  I have zero virtual-reality skills. I don't know how to work in Unity, the
-  graphics software engine often used to make immersive worlds. I have little
-  sense for 3-D design. But I have a secret weapon: A-Frame, an easy-to-use
-  language released by Mozilla last winter.
+publisher: {}
+description: But down in the muck is also where ferment happens.
 inLanguage: en
 sourcePath: _posts/2016-09-29-release-the-infinite-monkeys-to-make-vr-great.md
 starred: false
+datePublishedOriginal: '2016-09-30T15:20:33.366Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
