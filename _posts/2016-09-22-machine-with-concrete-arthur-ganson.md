@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-09-22T17:47:50.389Z'
+datePublished: '2016-12-03T16:49:26.477Z'
 inFeed: true
 isBasedOnUrl: 'http://www.exploratorium.edu/arts/works/machine-concrete'
 author: []
 via: {}
-dateModified: '2016-09-22T17:47:22.414Z'
+dateModified: '2016-12-03T16:49:07.984Z'
 title: Machine with Concrete — Arthur Ganson
 publisher: {}
 description: >-
@@ -13,8 +13,9 @@ description: >-
   via a simple system of gears. The final gear, embedded in concrete, is set up
   to make one revolution once every 13.7 billion years, yet the machine whirs
   uninterrupted.
-starred: false
 sourcePath: _posts/2016-09-22-machine-with-concrete-arthur-ganson.md
+starred: false
+datePublishedOriginal: '2016-09-22T17:47:50.389Z'
 _type: MediaObject
 
 ---
