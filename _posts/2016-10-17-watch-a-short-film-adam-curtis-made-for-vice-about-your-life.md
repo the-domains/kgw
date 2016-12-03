@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-11-23T02:34:49.277Z'
+datePublished: '2016-12-03T16:49:26.391Z'
 sourcePath: >-
   _posts/2016-10-17-watch-a-short-film-adam-curtis-made-for-vice-about-your-life.md
 inFeed: true
 isBasedOnUrl: 'http://www.vice.com/read/adam-curtis-living-unreal-world-short-film'
 author: []
 via: {}
-dateModified: '2016-11-23T02:34:33.469Z'
+dateModified: '2016-12-03T16:49:07.984Z'
 title: >-
   Watch a Short Film Adam Curtis Made for VICE About Your Life | VICE | United
   States
@@ -15,6 +15,7 @@ description: >-
   Short film hosted on Facebook, appropriately. The full Hypernormalisation film
   isn’t officially available outside of the UK yet.
 starred: false
+datePublishedOriginal: '2016-11-23T02:34:49.277Z'
 _type: MediaObject
 
 ---
