@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-12-03T16:20:08.776Z'
+datePublished: '2016-12-03T16:20:39.411Z'
 sourcePath: _posts/2016-12-02-code-thing.md
 inFeed: true
 hasPage: true
@@ -8,7 +8,7 @@ author:
     url: 'https://www.flickr.com/photos/forresto/30541099264/in/dateposted/'
 via: {}
 datePublishedOriginal: '2016-12-02T03:32:46.069Z'
-dateModified: '2016-12-03T16:20:07.756Z'
+dateModified: '2016-12-03T16:20:39.000Z'
 title: flyover
 publisher: {}
 description: 'mp4 loop:'
