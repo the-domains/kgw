@@ -1,14 +1,15 @@
 ---
-datePublished: '2016-10-04T18:56:48.708Z'
+datePublished: '2016-12-03T16:49:26.422Z'
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-10-04T18:56:18.928Z'
+dateModified: '2016-12-03T16:49:07.984Z'
 title: .tinmad siht ekil driew ton tuB
 publisher: {}
 description: 'pour one out for the backtyping bug '
-starred: false
 sourcePath: _posts/2016-10-04-tinmad-siht-ekil-driew-ton-tub.md
+starred: false
+datePublishedOriginal: '2016-10-04T18:56:48.708Z'
 _context: 'http://schema.org'
 _type: Article
 
