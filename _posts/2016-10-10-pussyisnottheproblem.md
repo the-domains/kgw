@@ -51,13 +51,14 @@ app_links:
     namespace: google
     type: android
 isBasedOnUrl: 'https://twitter.com/deanna/status/785245663202308096'
-datePublished: '2016-11-23T02:34:49.333Z'
-dateModified: '2016-11-23T02:34:33.469Z'
+datePublished: '2016-12-03T16:49:26.392Z'
+dateModified: '2016-12-03T16:49:07.984Z'
 title: ''
 via: {}
 inFeed: true
 sourcePath: _posts/2016-10-10-pussyisnottheproblem.md
 starred: false
+datePublishedOriginal: '2016-11-23T02:34:49.333Z'
 _type: Photograph
 _context: 'http://schema.org'
 
