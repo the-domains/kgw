@@ -63,12 +63,13 @@ app_links:
     type: ios
 isBasedOnUrl: 'https://www.youtube.com/watch?v=bvKUN1a2AHE'
 title: HyperNormalisation
-datePublished: '2016-11-23T02:34:49.334Z'
-dateModified: '2016-11-23T02:34:33.469Z'
+datePublished: '2016-12-03T16:49:26.391Z'
+dateModified: '2016-12-03T16:49:07.984Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2016-10-10-hypernormalisation.md
 starred: false
+datePublishedOriginal: '2016-11-23T02:34:49.334Z'
 _type: VideoObject
 _context: 'http://schema.org'
 
