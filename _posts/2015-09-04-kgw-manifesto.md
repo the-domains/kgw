@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-09-28T15:45:22.926Z'
+datePublished: '2016-12-03T16:49:26.455Z'
 sourcePath: _posts/2015-09-04-kgw-manifesto.md
 inFeed: true
 authors: []
@@ -8,7 +8,7 @@ keywords: []
 author:
   - name: ''
     url: ''
-dateModified: '2016-09-28T15:45:22.081Z'
+dateModified: '2016-12-03T16:49:07.984Z'
 title: KGW Manifesto
 tags:
   - ''
@@ -20,6 +20,7 @@ description: >-
 inLanguage: null
 via: {}
 starred: true
+datePublishedOriginal: '2016-09-28T15:45:22.926Z'
 url: kgw-manifesto/index.html
 _context: 'http://schema.org'
 _type: Article
