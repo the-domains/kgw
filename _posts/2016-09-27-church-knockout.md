@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-09-27T17:43:29.665Z'
+datePublished: '2016-12-03T16:49:26.464Z'
 inFeed: true
 isBasedOnUrl: 'https://www.youtube.com/watch?v=5qVMaOrSpK0'
 author:
@@ -7,12 +7,13 @@ author:
     url: 'https://www.youtube.com/user/BullshidoPhrost'
     avatar: {}
 via: {}
-dateModified: '2016-09-27T17:43:07.288Z'
+dateModified: '2016-12-03T16:49:07.984Z'
 title: church knockout
 publisher: {}
 description: ''
-starred: false
 sourcePath: _posts/2016-09-27-church-knockout.md
+starred: false
+datePublishedOriginal: '2016-09-27T17:43:29.665Z'
 _type: MediaObject
 
 ---
