@@ -24,13 +24,13 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'https://holidayhole.com/'
 title: The Cards Against Humanity Holiday Hole
-datePublished: '2016-12-03T16:49:26.403Z'
+datePublished: '2016-12-03T16:49:26.415Z'
 dateModified: '2016-12-03T16:49:07.984Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2016-11-25-the-cards-against-humanity-holiday-hole.md
 starred: false
-datePublishedOriginal: '2016-11-25T22:36:28.599Z'
+datePublishedOriginal: '2016-11-25T22:29:48.621Z'
 _context: 'http://schema.org'
 _type: MediaObject
 
