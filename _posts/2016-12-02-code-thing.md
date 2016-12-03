@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-12-03T16:20:01.221Z'
+datePublished: '2016-12-03T16:20:08.776Z'
 sourcePath: _posts/2016-12-02-code-thing.md
 inFeed: true
 hasPage: true
@@ -8,10 +8,10 @@ author:
     url: 'https://www.flickr.com/photos/forresto/30541099264/in/dateposted/'
 via: {}
 datePublishedOriginal: '2016-12-02T03:32:46.069Z'
-dateModified: '2016-12-03T16:20:00.811Z'
+dateModified: '2016-12-03T16:20:07.756Z'
 title: flyover
 publisher: {}
-description: ''
+description: 'mp4 loop:'
 starred: false
 url: flyover/index.html
 _type: Article
@@ -19,6 +19,8 @@ _type: Article
 ---
 # flyover
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e1a15397-43e2-4d10-bb9a-ed2d4b220322.png)
+
+mp4 loop:
 
 <iframe src="https://the-grid.github.io/ed-userhtml/?g=eJwtx0sOwiAQANCrEPbDp0JLjPUuExgLiUBTRpt4el34du_2Lom6OEvivMplMlJkKlvmf8YRV5mZ93HVmjPBdpQEr0EHxN6YGqtx-R1OGgyTwoqf3vAcKvaqzcOjnYMBE2wAR0iAARegxQec3Gy9taruTopn77vQ9y8M3iyU" height="720" style=""></iframe>
 
