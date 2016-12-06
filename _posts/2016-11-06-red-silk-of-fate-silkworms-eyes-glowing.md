@@ -1,7 +1,7 @@
 ---
 isBasedOnUrl: 'https://youtu.be/08BFqcZ1xYI'
 title: Red Silk of Fate - silkworms' eyes glowing
-dateModified: '2016-12-03T16:49:07.984Z'
+dateModified: '2016-12-06T03:23:19.113Z'
 publisher: {}
 author:
   - name: Sput niko
@@ -10,10 +10,10 @@ author:
 inFeed: true
 description: Sputniko shows us some silkworms with glowing eyes…
 via: {}
-datePublished: '2016-12-03T16:49:26.465Z'
+datePublished: '2016-12-06T03:23:28.385Z'
 sourcePath: _posts/2016-11-06-red-silk-of-fate-silkworms-eyes-glowing.md
-starred: false
 datePublishedOriginal: '2016-11-09T19:51:49.096Z'
+starred: false
 _type: Article
 _context: 'http://schema.org'
 
