@@ -53,14 +53,14 @@ app_links:
     namespace: google
     type: android
 isBasedOnUrl: 'https://twitter.com/algoritmic/status/787286024573575168'
-datePublished: '2016-12-03T16:49:26.416Z'
-dateModified: '2016-12-03T16:49:07.984Z'
+datePublished: '2016-12-06T03:23:28.351Z'
+dateModified: '2016-12-06T03:23:19.113Z'
 title: ''
 via: {}
 inFeed: true
 sourcePath: _posts/2016-10-15-magictile-geometrical-and-topological-analogues-of-rubiks.md
-starred: false
 datePublishedOriginal: '2016-11-23T02:34:49.277Z'
+starred: false
 _type: Photograph
 _context: 'http://schema.org'
 
