@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-12-03T16:49:26.482Z'
+datePublished: '2016-12-06T03:23:28.400Z'
 inFeed: true
 isBasedOnUrl: 'https://vimeo.com/90101413'
 author:
@@ -7,7 +7,7 @@ author:
     url: 'https://vimeo.com/user2341353'
     avatar: {}
 via: {}
-dateModified: '2016-12-03T16:49:07.984Z'
+dateModified: '2016-12-06T03:23:19.113Z'
 title: LEGO automata synth
 publisher: {}
 description: >-
@@ -16,8 +16,8 @@ description: >-
   with a commission from Oxford Contemporary Music. Thanks to Danny Chapman and
   Gareth Ardron for cameras, and Vic Bosher & the OCM team for support!
 sourcePath: _posts/2016-09-22-lego-automata-synth.md
-starred: false
 datePublishedOriginal: '2016-09-22T17:17:47.691Z'
+starred: false
 _type: MediaObject
 
 ---
