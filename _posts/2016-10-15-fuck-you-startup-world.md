@@ -55,13 +55,13 @@ app_links:
     type: android
 isBasedOnUrl: 'https://medium.com/@shemag8/fuck-you-startup-world-ab6cc72fad0e#.sh26vkmqv'
 title: Fuck You Startup World
-datePublished: '2016-12-03T16:49:26.399Z'
-dateModified: '2016-12-03T16:49:07.984Z'
+datePublished: '2016-12-06T03:23:28.342Z'
+dateModified: '2016-12-06T03:23:19.113Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2016-10-15-fuck-you-startup-world.md
-starred: false
 datePublishedOriginal: '2016-11-23T02:34:49.332Z'
+starred: false
 _type: Article
 _context: 'http://schema.org'
 
