@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-12-03T16:49:26.389Z'
+datePublished: '2016-12-06T03:23:28.343Z'
 sourcePath: _posts/2016-10-10-happy-birthday-monk.md
 inFeed: true
 isBasedOnUrl: 'https://twitter.com/r_emmet/status/785509852181397504'
@@ -42,7 +42,7 @@ author:
           - 70
           - 62
 via: {}
-dateModified: '2016-12-03T16:49:07.984Z'
+dateModified: '2016-12-06T03:23:19.113Z'
 title: "Happy birthday Monk. \uD83C\uDF70\uD83C\uDFB9\uD83D\uDC7C\uD83C\uDFFF"
 app_links:
   - path: >-
@@ -57,8 +57,8 @@ publisher:
   domain: twitter.com
 description: 'Lots of Monk talk today, so here is my favorite album cover ever:'
 inLanguage: en
-starred: false
 datePublishedOriginal: '2016-11-23T02:34:49.278Z'
+starred: false
 _context: 'http://schema.org'
 _type: Photograph
 
