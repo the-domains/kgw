@@ -18,14 +18,14 @@ app_links: []
 isBasedOnUrl: >-
   http://www.theverge.com/2016/9/23/13033268/palmer-luckey-trump-meme-fund-oculus-developers-respond
 title: Palmer Luckey's Trump fund has been a kick in the teeth for VR
-datePublished: '2016-12-03T16:49:26.475Z'
-dateModified: '2016-12-03T16:49:07.984Z'
+datePublished: '2016-12-06T03:23:28.400Z'
+dateModified: '2016-12-06T03:23:19.113Z'
 via: {}
 inFeed: true
 sourcePath: >-
   _posts/2016-09-24-palmer-luckeys-trump-fund-has-been-a-kick-in-the-teeth-for.md
-starred: false
 datePublishedOriginal: '2016-09-24T04:50:11.193Z'
+starred: false
 _context: 'http://schema.org'
 _type: MediaObject
 
