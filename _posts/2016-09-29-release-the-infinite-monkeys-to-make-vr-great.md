@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-12-03T16:49:26.464Z'
+datePublished: '2016-12-06T03:23:28.370Z'
 inFeed: true
 isBasedOnUrl: 'https://www.wired.com/2016/09/time-release-infinite-monkeys-vr/'
 keywords:
@@ -19,15 +19,15 @@ author:
     url: 'https://www.wired.com/author/clivethompson/'
     avatar: {}
 via: {}
-dateModified: '2016-12-03T16:49:07.984Z'
+dateModified: '2016-12-06T03:23:19.113Z'
 title: ''
 app_links: []
 publisher: {}
 description: But down in the muck is also where ferment happens.
 inLanguage: en
 sourcePath: _posts/2016-09-29-release-the-infinite-monkeys-to-make-vr-great.md
-starred: false
 datePublishedOriginal: '2016-09-30T15:20:33.366Z'
+starred: false
 _context: 'http://schema.org'
 _type: MediaObject
 
