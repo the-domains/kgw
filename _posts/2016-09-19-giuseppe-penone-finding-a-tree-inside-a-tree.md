@@ -6,7 +6,7 @@ author:
       src: >-
         https://s3-us-west-2.amazonaws.com/the-grid-img/p/a9f175ff93a43dcfa59f7b1f5b2d9f2459ce0833.jpg
       original: >-
-        https://imgflo.herokuapp.com/graph/2b2431f8e7ba7b0/5201e032778562e7e0b1c92dd2f354c6/noop.jpg?input=https%3A%2F%2Fpbs.twimg.com%2Fprofile_images%2F763479294521831424%2F-lyTbT6A_400x400.jpg
+        https://s3-us-west-2.amazonaws.com/the-grid-img/p/a9f175ff93a43dcfa59f7b1f5b2d9f2459ce0833.jpg
       width: 400
       height: 400
       colors:
@@ -51,14 +51,14 @@ app_links:
     namespace: google
     type: android
 isBasedOnUrl: 'https://twitter.com/JoeevansJoe/status/777572601682071552'
-datePublished: '2016-12-03T16:49:26.482Z'
-dateModified: '2016-12-03T16:49:07.984Z'
+datePublished: '2016-12-06T03:23:28.384Z'
+dateModified: '2016-12-06T03:23:19.113Z'
 title: ''
 via: {}
 inFeed: true
 sourcePath: _posts/2016-09-19-giuseppe-penone-finding-a-tree-inside-a-tree.md
-starred: false
 datePublishedOriginal: '2016-09-19T13:45:10.442Z'
+starred: false
 _type: Photograph
 _context: 'http://schema.org'
 
