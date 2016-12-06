@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-12-02T04:09:12.651Z'
+datePublished: '2016-12-06T03:23:28.352Z'
 sourcePath: >-
   _posts/2016-11-23-paradise-a-contemporary-interpretation-of-the-garden-of-ea.md
 inFeed: true
@@ -10,13 +10,13 @@ author:
   - name: STUDIO SMACK
     url: 'https://vimeo.com/191632804'
 via: {}
-dateModified: '2016-12-02T04:09:09.196Z'
+dateModified: '2016-12-06T03:23:19.113Z'
 title: PARADISE still
 app_links: []
 publisher: {}
 description: looks kinda like geocities…
-starred: false
 datePublishedOriginal: '2016-11-23T04:10:55.388Z'
+starred: false
 _context: 'http://schema.org'
 _type: VideoObject
 
