@@ -1,16 +1,16 @@
 ---
-datePublished: '2016-12-03T16:49:26.464Z'
+datePublished: '2016-12-06T03:23:28.371Z'
 sourcePath: _posts/2016-09-24-palmer-luckey-doing-donuts-in-the-metaverse.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-12-03T16:49:07.984Z'
+dateModified: '2016-12-06T03:23:19.113Z'
 title: Palmer Luckey doing donuts in the metaverse
 publisher: {}
 description: (view source and soundtrack)
-starred: false
 datePublishedOriginal: '2016-09-24T21:33:32.896Z'
+starred: false
 url: palmer-luckey-doing-donuts-in-the-metaverse/index.html
 _type: Article
 
