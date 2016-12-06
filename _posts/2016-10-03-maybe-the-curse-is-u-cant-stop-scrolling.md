@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-12-03T16:49:26.415Z'
+datePublished: '2016-12-06T03:23:28.368Z'
 sourcePath: _posts/2016-10-03-maybe-the-curse-is-u-cant-stop-scrolling.md
 inFeed: true
 isBasedOnUrl: 'https://twitter.com/cursedimages/status/770291070727024640'
@@ -42,7 +42,7 @@ author:
           - 12
           - 25
 via: {}
-dateModified: '2016-12-03T16:49:07.984Z'
+dateModified: '2016-12-06T03:23:19.113Z'
 title: ''
 app_links:
   - path: >-
@@ -59,8 +59,8 @@ description: >-
   maybe the curse is u can't stop
   scrolling.............................................
 inLanguage: en
-starred: false
 datePublishedOriginal: '2016-10-03T02:57:59.303Z'
+starred: false
 _context: 'http://schema.org'
 _type: Photograph
 
