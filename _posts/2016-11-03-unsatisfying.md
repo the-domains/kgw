@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-12-03T16:49:26.404Z'
+datePublished: '2016-12-06T03:23:28.351Z'
 inFeed: true
 isBasedOnUrl: 'https://vimeo.com/189919038'
 author:
@@ -29,15 +29,15 @@ author:
           - 73
           - 89
 via: {}
-dateModified: '2016-12-03T16:49:07.984Z'
+dateModified: '2016-12-06T03:23:19.113Z'
 title: UNSATISFYING
 publisher: {}
 description: >-
   i guess the metaverse needed a counterpoint to all those "satisfying"
   compilations
 sourcePath: _posts/2016-11-03-unsatisfying.md
-starred: false
 datePublishedOriginal: '2016-11-23T02:34:49.237Z'
+starred: false
 _type: MediaObject
 
 ---
