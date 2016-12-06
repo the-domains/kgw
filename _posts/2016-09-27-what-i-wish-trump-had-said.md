@@ -1,16 +1,16 @@
 ---
-datePublished: '2016-12-03T16:49:26.437Z'
+datePublished: '2016-12-06T03:23:28.398Z'
 sourcePath: _posts/2016-09-27-what-i-wish-trump-had-said.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-12-03T16:49:07.984Z'
+dateModified: '2016-12-06T03:23:19.113Z'
 title: What I wish Trump had said
 publisher: {}
 description: 'So, you want to make this election a referendum on the status quo?'
-starred: false
 datePublishedOriginal: '2016-09-28T15:44:42.083Z'
+starred: false
 url: what-i-wish-trump-had-said/index.html
 _type: Article
 
