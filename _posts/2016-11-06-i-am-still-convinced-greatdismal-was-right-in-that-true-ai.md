@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-12-03T16:49:26.457Z'
+datePublished: '2016-12-06T03:23:28.385Z'
 sourcePath: >-
   _posts/2016-11-06-i-am-still-convinced-greatdismal-was-right-in-that-true-ai.md
 inFeed: true
@@ -43,7 +43,7 @@ author:
           - 183
           - 174
 via: {}
-dateModified: '2016-12-03T16:49:07.984Z'
+dateModified: '2016-12-06T03:23:19.113Z'
 title: ''
 app_links:
   - path: >-
@@ -58,8 +58,8 @@ publisher:
   domain: twitter.com
 description: …
 inLanguage: en
-starred: false
 datePublishedOriginal: '2016-11-20T19:32:10.261Z'
+starred: false
 _context: 'http://schema.org'
 _type: Photograph
 
