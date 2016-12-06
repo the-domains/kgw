@@ -1,18 +1,18 @@
 ---
-datePublished: '2016-12-03T16:49:26.423Z'
+datePublished: '2016-12-06T03:23:28.370Z'
 sourcePath: _posts/2016-10-04-matt-steel-the-abundance-of-slowness.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-12-03T16:49:07.984Z'
+dateModified: '2016-12-06T03:23:19.113Z'
 title: ''
 publisher: {}
 description: >-
   What we’re ultimately striving for here is a joyful harmony between work, rest
   and play…. This week, I invite you to try nine things:
-starred: false
 datePublishedOriginal: '2016-10-04T20:08:28.838Z'
+starred: false
 url: matt-steel-the-abundance-of-slowness/index.html
 _type: Article
 
