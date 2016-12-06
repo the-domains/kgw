@@ -53,15 +53,15 @@ app_links:
     namespace: google
     type: android
 isBasedOnUrl: 'https://twitter.com/gunsdownamerica/status/794174171681058816'
-datePublished: '2016-12-03T16:49:26.438Z'
-dateModified: '2016-12-03T16:49:07.984Z'
+datePublished: '2016-12-06T03:23:28.398Z'
+dateModified: '2016-12-06T03:23:19.113Z'
 title: ''
 via: {}
 inFeed: true
 sourcePath: >-
   _posts/2016-11-05-this-election-day-make-sure-you-feel-safe-when-you-vote-if.md
-starred: false
 datePublishedOriginal: '2016-11-09T19:51:49.062Z'
+starred: false
 _type: Photograph
 _context: 'http://schema.org'
 
