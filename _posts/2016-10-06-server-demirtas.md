@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-12-03T16:49:26.428Z'
+datePublished: '2016-12-06T03:23:28.397Z'
 inFeed: true
 isBasedOnUrl: 'https://www.youtube.com/watch?v=l7zas_OVgPA'
 author:
@@ -7,7 +7,7 @@ author:
     url: 'https://www.youtube.com/channel/UCBXMvoAN567MEtUSRvo4i1A'
     avatar: {}
 via: {}
-dateModified: '2016-12-03T16:49:07.984Z'
+dateModified: '2016-12-06T03:23:19.113Z'
 title: SERVER DEMİRTAŞ
 publisher: {}
 description: >-
@@ -16,8 +16,8 @@ description: >-
   2015. The three choir members tired of being misunderstood, finally give up
   trying.
 sourcePath: _posts/2016-10-06-server-demirtas.md
-starred: false
 datePublishedOriginal: '2016-10-06T13:31:53.202Z'
+starred: false
 _type: MediaObject
 
 ---
