@@ -65,13 +65,13 @@ app_links:
     type: android
 isBasedOnUrl: 'https://medium.com/@kcimc/a-return-to-machine-learning-2de3728558eb#.1ktv3pgyz'
 title: A Return to Machine Learning
-datePublished: '2016-12-03T16:49:26.384Z'
-dateModified: '2016-12-03T16:49:07.984Z'
+datePublished: '2016-12-06T03:23:28.283Z'
+dateModified: '2016-12-06T03:23:19.113Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2016-10-15-a-return-to-machine-learning.md
-starred: false
 datePublishedOriginal: '2016-11-23T02:34:49.300Z'
+starred: false
 _type: Article
 _context: 'http://schema.org'
 
