@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-12-06T03:23:28.367Z'
+datePublished: '2016-12-13T18:49:31.423Z'
 sourcePath: _posts/2016-09-24-neal-stephenson-slaps-mark-zuckerberg-with-a-glove-no-you.md
 inFeed: true
 author: []
 via: {}
-dateModified: '2016-12-06T03:23:19.113Z'
+dateModified: '2016-12-13T18:49:12.851Z'
 title: ''
 publisher: {}
 description: >-
