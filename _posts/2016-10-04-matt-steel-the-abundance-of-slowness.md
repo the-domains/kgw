@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-12-06T03:23:28.370Z'
+datePublished: '2016-12-13T18:49:31.422Z'
 sourcePath: _posts/2016-10-04-matt-steel-the-abundance-of-slowness.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-12-06T03:23:19.113Z'
+dateModified: '2016-12-13T18:49:12.851Z'
 title: ''
 publisher: {}
 description: >-
