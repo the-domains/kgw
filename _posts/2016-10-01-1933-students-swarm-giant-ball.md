@@ -3,7 +3,7 @@ isBasedOnUrl: >-
   https://ia802303.us.archive.org/16/items/1933-11-15_Loyola_Students_Compete_For_Keg/1933-11-15_Loyola_Students_Compete_For_Keg_512kb.mp4
 keywords: []
 title: 1933 students swarm giant ball
-dateModified: '2016-12-06T03:23:19.113Z'
+dateModified: '2016-12-13T18:49:12.851Z'
 publisher: {}
 author: []
 inFeed: true
@@ -12,7 +12,7 @@ description: >-
   Freshmen of Loyola University defeat the Sophomores in a wild battle for a
   prize beer...
 via: {}
-datePublished: '2016-12-06T03:23:28.341Z'
+datePublished: '2016-12-13T18:49:31.403Z'
 sourcePath: _posts/2016-10-01-1933-students-swarm-giant-ball.md
 datePublishedOriginal: '2016-10-01T01:55:24.185Z'
 starred: false
