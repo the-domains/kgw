@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-12-06T03:23:28.331Z'
+datePublished: '2016-12-13T18:49:31.234Z'
 sourcePath: >-
   _posts/2016-10-17-watch-a-short-film-adam-curtis-made-for-vice-about-your-life.md
 inFeed: true
 isBasedOnUrl: 'http://www.vice.com/read/adam-curtis-living-unreal-world-short-film'
 author: []
 via: {}
-dateModified: '2016-12-06T03:23:19.113Z'
+dateModified: '2016-12-13T18:49:12.851Z'
 title: >-
   Watch a Short Film Adam Curtis Made for VICE About Your Life | VICE | United
   States
