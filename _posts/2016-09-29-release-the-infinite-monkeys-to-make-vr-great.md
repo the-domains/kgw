@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-12-06T03:23:28.370Z'
+datePublished: '2016-12-13T18:49:31.366Z'
 inFeed: true
 isBasedOnUrl: 'https://www.wired.com/2016/09/time-release-infinite-monkeys-vr/'
 keywords:
@@ -19,7 +19,7 @@ author:
     url: 'https://www.wired.com/author/clivethompson/'
     avatar: {}
 via: {}
-dateModified: '2016-12-06T03:23:19.113Z'
+dateModified: '2016-12-13T18:49:12.851Z'
 title: ''
 app_links: []
 publisher: {}
