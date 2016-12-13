@@ -1,10 +1,10 @@
 ---
-datePublished: '2016-12-06T03:23:28.370Z'
+datePublished: '2016-12-13T18:49:31.427Z'
 inFeed: true
 isBasedOnUrl: 'https://gurivr.com/'
 author: []
 via: {}
-dateModified: '2016-12-06T03:23:19.113Z'
+dateModified: '2016-12-13T18:49:12.851Z'
 title: 'GuriVR: natural language text-to-VR'
 publisher: {}
 description: Open-source!
